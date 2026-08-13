@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ":art: Pattern"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Jetpack Compose Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MVVM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Normal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clean Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MVI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Normal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clean Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MVP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "See contributing.md",
+      "items": [],
+      "title": ":memo: Contributing"
+    },
+    {
+      "description": "Contributors are cool people.\nIf you contributed and are missing in this list, please send a PR including your entry in the list below! 🐣",
+      "items": [],
+      "title": ":hatching_chick: Contributors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":computer: Find us on"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:53:34.065Z",
+    "original_repository": "androiddevnotes/awesome-android-kotlin-apps",
+    "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
+    "enhanced_repository": "enhansome/enhansome-android-kotlin-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome android kotlin apps with stars"
+  }
+}
