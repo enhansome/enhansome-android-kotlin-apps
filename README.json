@@ -1,7 +1,2233 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-jetpack-compose-android-apps",
+              "description": "androiddevnotes 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors. Last commit: 8 months ago 🌟 995 🍴 103 👁️ 21",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291133502,
+                "language": "Kotlin",
+                "last_commit": "2024-07-25T13:30:32Z",
+                "owner": "androiddevnotes",
+                "repo": "awesome-jetpack-compose-android-apps",
+                "stars": 1519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DICE-ROLL-APP",
+              "description": "SSAHHC BASIC JETPACK COMPOSE APP Last commit: 12 months ago 🌟 1 🍴 0 👁️ 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554803899,
+                "language": null,
+                "last_commit": "2022-10-20T12:29:20Z",
+                "owner": "SSAHHC",
+                "repo": "DICE_ROLL_APP",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RickNMortyCompose",
+              "description": "a914-gowtham A Jetpack compose android app based on Rick and Morty Graphql Last commit: 2 years ago 🌟 23 🍴 0 👁️ 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381371743,
+                "language": "Kotlin",
+                "last_commit": "2024-04-04T09:45:41Z",
+                "owner": "a914-gowtham",
+                "repo": "RickNMortyCompose",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jetpack Compose Apps"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "showly-2.0",
+                  "description": "michaldrabik Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel Last commit: 10 minutes ago 🌟 611 🍴 41 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203589756,
+                    "language": "Kotlin",
+                    "last_commit": "2026-06-25T02:42:36Z",
+                    "owner": "trakt",
+                    "repo": "showly",
+                    "stars": 1448
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Inure",
+                  "description": "Hamza417 An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine, developed with purely custom APIs created for this app. Tech Stack : LiveData, ViewModel, WebKit, APK Parser, libsu Last commit: 1 hour ago 🌟 667 🍴 43 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 345422733,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T00:39:03Z",
+                    "owner": "Hamza417",
+                    "repo": "Inure",
+                    "stars": 1891
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vocable-android",
+                  "description": "willowtreeapps Vocable for Android Tech Stack : Koin, Coroutines, Testing, Room, Data Binding, AR, LiveData, ViewModel Last commit: 2 hours ago 🌟 96 🍴 12 👁️ 106",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188443410,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-21T13:15:01Z",
+                    "owner": "willowtreeapps",
+                    "repo": "vocable-android",
+                    "stars": 126
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "alkaa",
+                  "description": "igorescodro Open-source app to manage your tasks quickly and easily Tech Stack : Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie, LiveData, ViewModel Last commit: 5 hours ago 🌟 1057 🍴 114 👁️ 18",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116942964,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T04:09:40Z",
+                    "owner": "igorescodro",
+                    "repo": "alkaa",
+                    "stars": 1642
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MyCuration",
+                  "description": "phicdy RSS Reader for Android with article filtering and curation Tech Stack : Koin, Coroutines, Testing, Retrofit, Jsoup, WorkManager, Data Binding, Navigation, LiveData, ViewModel Last commit: 15 hours ago 🌟 27 🍴 9 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24188186,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-22T16:10:46Z",
+                    "owner": "phicdy",
+                    "repo": "MyCuration",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SoMovie",
+                  "description": "LouisFn Tech Stack : Compose, Kotlin, Coroutines, Gradle Kotlin DSL, Multi Module, View Model, Room, DataStore, Paging 3, Hilt, Retrofit, Coil, JUnit, Jacoco, Ktlint, Detekt, Github Actions Last commit: 19 hours ago 🌟 12 🍴 2 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 571351948,
+                    "language": "Kotlin",
+                    "last_commit": "2024-11-02T23:20:27Z",
+                    "owner": "louis-fri",
+                    "repo": "SoMovie",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NotyKT",
+                  "description": "PatilShreyas 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸. Tech Stack : Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi Last commit: 2 days ago 🌟 1575 🍴 224 👁️ 25",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 303164275,
+                    "language": "Kotlin",
+                    "last_commit": "2026-04-23T02:23:34Z",
+                    "owner": "PatilShreyas",
+                    "repo": "NotyKT",
+                    "stars": 1769
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nekome",
+                  "description": "Chesire Nekome is an Android application to manage tracked Anime and Manga lists. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, LiveData, ViewModel Last commit: 2 days ago 🌟 338 🍴 40 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 223272337,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-16T08:07:30Z",
+                    "owner": "Chesire",
+                    "repo": "Nekome",
+                    "stars": 519
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "plees-tracker",
+                  "description": "vmiklos Plees Tracker is a simple sleep tracker for your Android phone. Tech Stack : Room, LiveData, ViewModel Last commit: 4 days ago 🌟 121 🍴 32 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229804414,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-23T22:01:05Z",
+                    "owner": "vmiklos",
+                    "repo": "plees-tracker",
+                    "stars": 226
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "apkupdater",
+                  "description": "rumboalla APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. Tech Stack : Koin, JSoup, Navigation, LiveData, ViewModel Last commit: 4 days ago 🌟 1853 🍴 170 👁️ 88",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66190491,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-28T11:22:07Z",
+                    "owner": "rumboalla",
+                    "repo": "apkupdater",
+                    "stars": 3950
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "libbra",
+                  "description": "nuhkoca A currency tracker app demonstration. It refreshes currency list every single second based on the main currency. In addition to that, main currency is selectable. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation, LiveData, ViewModel Last commit: 4 days ago 🌟 53 🍴 11 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252193036,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T07:02:41Z",
+                    "owner": "nuhkoca",
+                    "repo": "libbra",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WallPortal",
+                  "description": "zedlabs Minimal Wallpapers for Android using Kotlin+Compose+MVVM+Hilt+Coroutines+Jetpack(Room, Paging, Navigation) Tech Stack : Dagger Hilt, Coroutines, Retrofit, Room, Paging, Navigation, LiveData, ViewModel Last commit: 5 days ago 🌟 278 🍴 48 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204511323,
+                    "language": "Kotlin",
+                    "last_commit": "2026-01-15T20:55:52Z",
+                    "owner": "zedlabs",
+                    "repo": "WallPortal",
+                    "stars": 400
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pokedex",
+                  "description": "skydoves 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel Last commit: 5 days ago 🌟 7069 🍴 933 👁️ 212",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268501098,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T04:56:16Z",
+                    "owner": "skydoves",
+                    "repo": "Pokedex",
+                    "stars": 8352
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kotlin-Pokedex",
+                  "description": "mrcsxsiq :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation Tech Stack : LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint Last commit: 6 days ago 🌟 1448 🍴 210 👁️ 24",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230355242,
+                    "language": "Kotlin",
+                    "last_commit": "2024-01-25T05:22:02Z",
+                    "owner": "mrcsxsiq",
+                    "repo": "Kotlin-Pokedex",
+                    "stars": 1552
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flexbooru",
+                  "description": "flexbooru A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc. Tech Stack : Kodein, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Tikxml, LiveData, ViewModel Last commit: 1 week ago 🌟 771 🍴 70 👁️ 29",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 169015965,
+                    "language": "Kotlin",
+                    "last_commit": "2024-06-16T16:40:28Z",
+                    "owner": "flexbooru",
+                    "repo": "flexbooru",
+                    "stars": 911
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "habitica-android",
+                  "description": "HabitRPG Native Android app for Habitica Tech Stack : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel Last commit: 1 week ago 🌟 1237 🍴 492 👁️ 57",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31075682,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-23T05:19:31Z",
+                    "owner": "HabitRPG",
+                    "repo": "habitica-android",
+                    "stars": 1816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rugby-ranker",
+                  "description": "ricknout An Android app for viewing and predicting the latest World Rugby rankings 🏉 Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter, LiveData, ViewModel Last commit: 1 week ago 🌟 288 🍴 48 👁️ 10",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150327538,
+                    "language": "Kotlin",
+                    "last_commit": "2024-01-31T14:00:25Z",
+                    "owner": "ricknout",
+                    "repo": "rugby-ranker",
+                    "stars": 292
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "muzei",
+                  "description": "muzei Muzei Live Wallpaper for Android Tech Stack : Coroutines, Testing, Retrofit, Room, Firebase Perf, WorkManager, Paging, Navigation, LiveData, ViewModel Last commit: 2 weeks ago 🌟 4553 🍴 961 👁️ 185",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16598287,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T03:59:07Z",
+                    "owner": "muzei",
+                    "repo": "muzei",
+                    "stars": 4940
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Eyepetizer",
+                  "description": "VIPyinzhiwei 🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。 Tech Stack : Coroutines, Testing, Retrofit, WorkManager, GSYVideoPlayer, Data Binding, PermissionX, EventBus, LiveData, ViewModel Last commit: 2 weeks ago 🌟 1762 🍴 405 👁️ 34",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 259029682,
+                    "language": "Kotlin",
+                    "last_commit": "2025-05-11T03:26:43Z",
+                    "owner": "VIPyinzhiwei",
+                    "repo": "Eyepetizer",
+                    "stars": 2141
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Photos",
+                  "description": "SIKV Tech Stack : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel Last commit: 2 weeks ago 🌟 80 🍴 17 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134945823,
+                    "language": "Kotlin",
+                    "last_commit": "2026-03-19T14:16:20Z",
+                    "owner": "SIKV",
+                    "repo": "Photos",
+                    "stars": 91
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "awaker",
+                  "description": "ruzhan1116 article app for android Tech Stack : RxJava, Testing, Retrofit, Room, ExoPlayer, LiveData, ViewModel Last commit: 2 months ago 🌟 526 🍴 87 👁️ 17",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 96447778,
+                    "language": "Kotlin",
+                    "last_commit": "2023-08-18T12:18:14Z",
+                    "owner": "zhan2046",
+                    "repo": "awaker",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "raffler-kotlin",
+                  "description": "fibelatti A raffling app developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM Tech Stack : Dagger, Coroutines, Testing, Room, LiveData, ViewModel Last commit: 2 months ago 🌟 47 🍴 3 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150627681,
+                    "language": "Kotlin",
+                    "last_commit": "2023-08-05T23:17:19Z",
+                    "owner": "fibelatti",
+                    "repo": "raffler-kotlin",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitExplorer-Android",
+                  "description": "Shashank02051997 Find the right git commands 🔥 without digging through the web.😊😊😉 Tech Stack : LiveData, ViewModel Last commit: 2 months ago 🌟 134 🍴 23 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 273072888,
+                    "language": "Kotlin",
+                    "last_commit": "2024-06-11T05:33:07Z",
+                    "owner": "Shashank02051997",
+                    "repo": "GitExplorer-Android",
+                    "stars": 148
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "open-event-attendee-android",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 34847604,
+                    "language": "Kotlin",
+                    "last_commit": "2023-07-24T22:01:02Z",
+                    "owner": "fossasia",
+                    "repo": "open-event-attendee-android",
+                    "stars": 1958
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk",
+                  "description": "Tech Stack : Koin, RxJava, Testing, Retrofit, Room, Stripe, PayPal, Mapbox, Paging, Data Binding, Navigation, LiveData, ViewModel Last commit: 3 months ago",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 34847604,
+                    "language": "Kotlin",
+                    "last_commit": "2023-07-24T22:01:02Z",
+                    "owner": "fossasia",
+                    "repo": "open-event-attendee-android",
+                    "stars": 1958
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "The-Movie-DB-Kotlin",
+                  "description": "dangquanuet The Movie DB app using Kotlin with updated Android features Tech Stack : Koin, Coroutines, RxJava, Testing, Retrofit, Room, Paging, Data Binding, Easy Permissions, Navigation, LiveData, ViewModel Last commit: 3 months ago 🌟 390 🍴 92 👁️ 8",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127717732,
+                    "language": "Kotlin",
+                    "last_commit": "2024-11-14T03:51:34Z",
+                    "owner": "dangquanuet",
+                    "repo": "The-Movie-DB-Kotlin",
+                    "stars": 459
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DroidNotes",
+                  "description": "mrcsxsiq 📝 Note List app based on MVVM architecture (ViewModel, LiveData, Coroutines, Room and Jetpack Compose) Tech Stack : ViewModel, LiveData, Coroutines, Room, Jetpack Compose Last commit: 4 months ago 🌟 56 🍴 5 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 387312753,
+                    "language": "Kotlin",
+                    "last_commit": "2023-06-19T16:07:30Z",
+                    "owner": "mrcsxsiq",
+                    "repo": "DroidNotes",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qksms",
+                  "description": "moezbhatti The most beautiful SMS messenger for Android Tech Stack : Dagger, Coroutines, RxJava, Testing, Retrofit, Realm, ExoPlayer, Conductor, Data Binding, ShortcutBadger, LiveData, ViewModel Last commit: 4 months ago 🌟 4264 🍴 1065 👁️ 131",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31138452,
+                    "language": "Kotlin",
+                    "last_commit": "2023-06-02T16:19:16Z",
+                    "owner": "moezbhatti",
+                    "repo": "qksms",
+                    "stars": 4591
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Presently",
+                  "description": "alisonthemonster Android app for recording gratitude journal entries -- over 1 million installs, contribute today! Tech Stack : Dagger, Coroutines, RxJava, Testing, Room, Firebase Messaging, WorkManager, Dropbox, Calendar view, Paging, Biometric, LiveData, ViewModel Last commit: 5 months ago 🌟 348 🍴 75 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162841152,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-17T04:28:10Z",
+                    "owner": "alisonthemonster",
+                    "repo": "Presently",
+                    "stars": 420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Praxis",
+                  "description": "mutualmobile Example Android project using MVVM, DaggerAndroid, Jetpack Compose, Retrofit, Coroutines and Multi module architecture ✌🏽 Tech Stack : Dagger, Retrofit, Coroutines, RXJava2, ViewModel, Data Binding Last commit: 5 months ago 🌟 320 🍴 46 👁️ 10",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 221002551,
+                    "language": "Kotlin",
+                    "last_commit": "2023-05-12T12:45:07Z",
+                    "owner": "griddynamics-archive",
+                    "repo": "Praxis",
+                    "stars": 373
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wanandroid",
+                  "description": "lulululbj Jetpack MVVM For Wanandroid 最佳实践 ！ Tech Stack : Koin, Coroutines, Testing, Retrofit, Navigation, FlowLayout, LiveData, ViewModel Last commit: 5 months ago 🌟 1362 🍴 234 👁️ 20",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124984027,
+                    "language": "Kotlin",
+                    "last_commit": "2024-02-18T10:48:06Z",
+                    "owner": "lulululbj",
+                    "repo": "wanandroid",
+                    "stars": 1484
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ForgetMeNot",
+                  "description": "tema6120 A flashcard app for Android. Tech Stack : Coroutines + Flow, SQLDelight, Kotlin Serialization, Klock, Brackeys-IDE EditorKit Last commit: 6 months ago 🌟 333 🍴 37 👁️ 9",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187454982,
+                    "language": "Kotlin",
+                    "last_commit": "2023-04-23T09:15:03Z",
+                    "owner": "tema6120",
+                    "repo": "ForgetMeNot",
+                    "stars": 441
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Updoot",
+                  "description": "adityam49 A reddit client built for android Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, ExoPlayer, WorkManager, Data Binding, Navigation, LiveData, ViewModel, Compose Last commit: 6 months ago 🌟 66 🍴 7 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186289445,
+                    "language": "Kotlin",
+                    "last_commit": "2023-04-18T17:12:43Z",
+                    "owner": "adityam49",
+                    "repo": "Updoot",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TvFlix",
+                  "description": "reactivedroid TvFlix android app using Dagger Hilt, Coroutines, Flow, KTX, Jetpack(Room, ViewModel, Paging3, Lifecycle) based on MVVM with clean code architecture purely written in Kotlin Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel Last commit: 6 months ago 🌟 410 🍴 60 👁️ 15",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98877626,
+                    "language": "Kotlin",
+                    "last_commit": "2026-06-19T18:28:21Z",
+                    "owner": "reactivedroid",
+                    "repo": "TvFlix",
+                    "stars": 412
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resplash",
+                  "description": "b-lam Unofficial Unsplash Android App Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel Last commit: 7 months ago 🌟 591 🍴 106 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69628893,
+                    "language": "Kotlin",
+                    "last_commit": "2025-05-15T21:18:22Z",
+                    "owner": "b-lam",
+                    "repo": "Resplash",
+                    "stars": 689
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fenix",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 126314606,
+                    "language": "Kotlin",
+                    "last_commit": "2023-02-20T10:15:34Z",
+                    "owner": "mozilla-mobile",
+                    "repo": "fenix",
+                    "stars": 6386
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android",
+                  "description": "Tech Stack : Coroutines, Testing, Retrofit, Room, Firebase Perf, WorkManager, Paging, Navigation, LiveData, ViewModel Last commit: 8 months ago",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 518992906,
+                    "language": "Kotlin",
+                    "last_commit": "2024-06-17T05:22:36Z",
+                    "owner": "mozilla-mobile",
+                    "repo": "firefox-android",
+                    "stars": 1843
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Portfolio-App",
+                  "description": "ashucoder1 Tech Stack : Kotlin, Room, Basic Intents, Gallery Image Picker Last commit: 8 months ago 🌟 0 🍴 0 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 569772080,
+                    "language": "Kotlin",
+                    "last_commit": "2023-02-14T14:16:52Z",
+                    "owner": "ashucoder1",
+                    "repo": "Portfolio-App",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iiCnma",
+                  "description": "ImnIrdst A playground android app, showcasing the latest technologies and architectures using the Movie Database APIs. Tech Stack : Dagger Hilt, Testing, Coroutines + Flow, Retrofit, Room, LiveData, ViewModel, Paging, Navigation Last commit: 8 months ago 🌟 46 🍴 6 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 312205870,
+                    "language": "Kotlin",
+                    "last_commit": "2023-02-09T01:02:02Z",
+                    "owner": "ImnIrdst",
+                    "repo": "iiCnma",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MVVM-Architecture-Android",
+                  "description": "amitshekhariitbhu MVVM architecture using Kotlin, Dagger, Retrofit, Coroutines, Flow, StateFlow, and etc. Tech Stack : Dagger, Coroutines, RXJava2, ViewModel, Data Binding, LiveData. Last commit: 8 months ago 🌟 435 🍴 106 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 244892943,
+                    "language": "Kotlin",
+                    "last_commit": "2026-01-28T09:30:10Z",
+                    "owner": "amitshekhariitbhu",
+                    "repo": "MVVM-Architecture-Android",
+                    "stars": 666
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iosched",
+                  "description": "google The Google I/O Android App Tech Stack : Dagger Hilt, Coroutines, Testing, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Functions, Navigation, ARCore, LiveData, ViewModel Last commit: 9 months ago 🌟 21786 🍴 6269 👁️ 1438",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 18347476,
+                    "language": "Kotlin",
+                    "last_commit": "2023-01-05T18:35:51Z",
+                    "owner": "google",
+                    "repo": "iosched",
+                    "stars": 21644
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "apturicovid-android",
+                  "description": "ApturiCOVID Apturi Covid Android lietotne Tech Stack : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, WorkManager, Data Binding, ShortcutBadger, LiveData, ViewModel Last commit: 10 months ago 🌟 38 🍴 7 👁️ 8",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275109884,
+                    "language": "Kotlin",
+                    "last_commit": "2022-12-07T19:02:12Z",
+                    "owner": "ApturiCOVID",
+                    "repo": "apturicovid-android",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeezerClone",
+                  "description": "fevziomurtekin This Application using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData),Navigation based on MVVM architecture. Tech Stack : Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing Last commit: 11 months ago 🌟 92 🍴 9 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 298590204,
+                    "language": "Kotlin",
+                    "last_commit": "2022-11-26T15:35:10Z",
+                    "owner": "fevziomurtekin",
+                    "repo": "DeezerClone",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MovieMan",
+                  "description": "calvinnor An open-source Android app for viewing Movies / TV information. Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Navigation, LiveData, ViewModel Last commit: 11 months ago 🌟 81 🍴 13 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162825214,
+                    "language": "Kotlin",
+                    "last_commit": "2022-11-13T14:53:29Z",
+                    "owner": "calvinnor",
+                    "repo": "MovieMan",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChangeDetection",
+                  "description": "bernaferrari Automatically track websites changes on Android in background. Tech Stack : Dagger, Coroutines, RxJava, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android, LiveData, ViewModel Last commit: 11 months ago 🌟 675 🍴 91 👁️ 19",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135081469,
+                    "language": "Kotlin",
+                    "last_commit": "2024-04-27T14:59:10Z",
+                    "owner": "bernaferrari",
+                    "repo": "ChangeDetection",
+                    "stars": 740
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flexbooru-ap",
+                  "description": "flexbooru An anime-pictures.net client for Android. Tech Stack : Kodein, Coroutines, Retrofit, Room, WorkManager, Navigation, Markwon, LiveData, ViewModel Last commit: 12 months ago 🌟 69 🍴 7 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 187999235,
+                    "language": "Kotlin",
+                    "last_commit": "2022-10-25T02:29:55Z",
+                    "owner": "flexbooru",
+                    "repo": "flexbooru-ap",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Instant-Weather",
+                  "description": "mayokunadeniyi An Android weather application implemented using the MVVM pattern, Retrofit2, Dagger Hilt, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the Android Jetpack. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, Algolia Search, LiveData, ViewModel Last commit: 1 year ago 🌟 734 🍴 159 👁️ 19",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 236161392,
+                    "language": "Kotlin",
+                    "last_commit": "2026-07-11T01:05:00Z",
+                    "owner": "mayokunadeniyi",
+                    "repo": "Instant-Weather",
+                    "stars": 763
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MovieCatalogue",
+                  "description": "ryanrvldo Tech Stack : ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material. Last commit: 1 year ago 🌟 22 🍴 3 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205725206,
+                    "language": "Kotlin",
+                    "last_commit": "2022-09-12T13:32:46Z",
+                    "owner": "ryanrvldo",
+                    "repo": "MovieCatalogue",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MovieHunt",
+                  "description": "enginebai Movie Android App written in Kotlin, MVVM, RxJava, Jetpack Compose (implementing), Android Architecture Components and Coroutine (Upcoming). Tech Stack : Koin, RxJava, Room, Paging, Navigation, Epoxy, LiveData, ViewModel Last commit: 1 year ago 🌟 684 🍴 82 👁️ 16",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32935880,
+                    "language": "Kotlin",
+                    "last_commit": "2022-07-29T06:45:17Z",
+                    "owner": "enginebai",
+                    "repo": "MovieHunt",
+                    "stars": 764
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "space-app",
+                  "description": "ValterKasper An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel Last commit: 1 year ago 🌟 153 🍴 17 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 253570488,
+                    "language": "Kotlin",
+                    "last_commit": "2022-07-23T10:10:21Z",
+                    "owner": "ValterKasper",
+                    "repo": "space-app",
+                    "stars": 149
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Upgur",
+                  "description": "xiprox A very simple offline-first Imgur client app Tech Stack : Dagger, Retrofit, Room, WorkManager, Navigation, android-upload-service, LiveData, ViewModel Last commit: 1 year ago 🌟 13 🍴 3 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 179170249,
+                    "language": "Kotlin",
+                    "last_commit": "2022-07-19T11:10:11Z",
+                    "owner": "xiprox",
+                    "repo": "Upgur",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WallpaperApp-mvvm",
+                  "description": "androiddevnotesforks App for viewing and downloading wallpapers Tech Stack : Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation, LiveData, ViewModel Last commit: 1 year ago 🌟 2 🍴 0 👁️ 0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 536806081,
+                    "language": null,
+                    "last_commit": "2022-06-05T13:44:46Z",
+                    "owner": "androiddevnotesforks",
+                    "repo": "WallpaperApp_mvvm",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "feedapp",
+                  "description": "dievskiy Calorie tracker for android that supports recipes and products search. Tech Stack : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase Auth, Facebook Login, WorkManager, MPAndroidChart, Data Binding, Navigation, LiveData, ViewModel Last commit: 1 year ago 🌟 67 🍴 14 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242202715,
+                    "language": "Kotlin",
+                    "last_commit": "2022-05-28T07:24:03Z",
+                    "owner": "dievskiy",
+                    "repo": "feedapp",
+                    "stars": 76
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MusicPlayer",
+                  "description": "ZahraHeydari Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer Tech Stack : Koin, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions, Navigation, LiveData, ViewModel Last commit: 1 year ago 🌟 573 🍴 87 👁️ 12",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 224468018,
+                    "language": "Kotlin",
+                    "last_commit": "2022-05-19T19:21:57Z",
+                    "owner": "ZahraHeydari",
+                    "repo": "MusicPlayer",
+                    "stars": 626
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Our-chat",
+                  "description": "ganainy Private chat app with realtime notification and support audio messages,image sharing,file sharing using MVVM architecture,Firebase authentication firestore,storage,FCM,cloud functions and facebook login Tech Stack : Coroutines, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging, Facebook Login, WorkManager, Dexter, Data Binding, Navigation, LiveData, ViewModel Last commit: 1 year ago 🌟 29 🍴 8 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 236772673,
+                    "language": null,
+                    "last_commit": "2025-11-23T23:46:05Z",
+                    "owner": "ganainy",
+                    "repo": "our-chat",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kripto",
+                  "description": "sauravrao637 Kripto - A Cryptocurrency app for Android. Tech Stack : Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, State FLow, ViewModel Last commit: 1 year ago 🌟 12 🍴 2 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362491233,
+                    "language": "Kotlin",
+                    "last_commit": "2022-04-21T12:22:45Z",
+                    "owner": "sauravrao637",
+                    "repo": "Kripto",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "andriod-movie-collection-application",
+                  "description": "Ratheshan03 Tech Stack : Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, CI-CD, ViewModel, Navigation Last commit: 1 year ago 🌟 0 🍴 0 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482318423,
+                    "language": "Kotlin",
+                    "last_commit": "2022-04-19T17:56:22Z",
+                    "owner": "Ratheshan03",
+                    "repo": "andriod-movie-collection-application",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-arithmetic-game",
+                  "description": "Ratheshan03 Tech Stack : Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, ViewModel Last commit: 1 year ago 🌟 0 🍴 0 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 472554605,
+                    "language": "Kotlin",
+                    "last_commit": "2022-04-16T17:14:36Z",
+                    "owner": "Ratheshan03",
+                    "repo": "android-arithmetic-game",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MVVM-Architecture",
+                  "description": "qingmei2 The practice of MVVM + Jetpack architecture in Android. Tech Stack : Dagger Hilt, Coroutines, RxJava, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 1795 🍴 286 👁️ 45",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106916945,
+                    "language": "Kotlin",
+                    "last_commit": "2022-04-07T01:51:37Z",
+                    "owner": "qingmei2",
+                    "repo": "MVVM-Architecture",
+                    "stars": 1868
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NYTimes-App",
+                  "description": "TheCodeMonks 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥 Tech Stack : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 503 🍴 62 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278958324,
+                    "language": "Kotlin",
+                    "last_commit": "2022-03-13T11:13:20Z",
+                    "owner": "TheCodeMonks",
+                    "repo": "NYTimes-App",
+                    "stars": 513
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SimpleBible",
+                  "description": "mithun17 Simple Bible is a light weight Bible app that lets you read the Bible, take notes, bookmark them and share with your friends. Tech Stack : Dagger Hilt, Coroutines + Flow, ViewModel, Retrofit, Room, Navigation Last commit: 2 years ago 🌟 27 🍴 5 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 315563631,
+                    "language": "Kotlin",
+                    "last_commit": "2025-06-24T06:48:18Z",
+                    "owner": "mithun17",
+                    "repo": "SimpleBible",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tedu",
+                  "description": "PHELAT Todo app but minimal, open-source, and free. Tech Stack : Dagger, Room, Coroutines, Firebase Messaging, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 142 🍴 22 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 233813860,
+                    "language": "Kotlin",
+                    "last_commit": "2022-02-16T22:12:01Z",
+                    "owner": "PHELAT",
+                    "repo": "Tedu",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pokedex-AR",
+                  "description": "skydoves 🦄 Pokedex-AR demonstrates ARCore, Sceneform, and modern Android tech stacks — such as Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture. Tech Stack : Dagger Hilt, Coroutines, Retrofit, Room, ARCore, Sceneform, ViewModel, Data Binding, LiveData. Last commit: 2 years ago 🌟 576 🍴 55 👁️ 17",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321092589,
+                    "language": "Kotlin",
+                    "last_commit": "2022-01-10T15:02:20Z",
+                    "owner": "skydoves",
+                    "repo": "Pokedex-AR",
+                    "stars": 591
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kotlin-mvvm-covid19",
+                  "description": "rizmaulana This repository contains simple COVID19 data monitoring with android stack MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, etc Tech Stack : LiveData, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc Last commit: 2 years ago 🌟 435 🍴 115 👁️ 13",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245557715,
+                    "language": "Kotlin",
+                    "last_commit": "2021-12-22T03:19:02Z",
+                    "owner": "rizmaulana",
+                    "repo": "kotlin-mvvm-covid19",
+                    "stars": 439
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Foodium",
+                  "description": "PatilShreyas 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components). Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel Last commit: 2 years ago 🌟 2228 🍴 419 👁️ 57",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247669052,
+                    "language": "Kotlin",
+                    "last_commit": "2026-03-20T03:03:16Z",
+                    "owner": "PatilShreyas",
+                    "repo": "Foodium",
+                    "stars": 2324
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dads",
+                  "description": "ErickSumargo BA DUM TSSS Tech Stack : Hilt, Coroutines + Flow, UI Testing, Room, ViewModel, WorkManager, Apollo Last commit: 2 years ago 🌟 243 🍴 26 👁️ 8",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325042307,
+                    "language": "Kotlin",
+                    "last_commit": "2021-11-14T04:24:50Z",
+                    "owner": "ErickSumargo",
+                    "repo": "Dads",
+                    "stars": 243
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Noted-Android",
+                  "description": "YahiaAngelo Noted app for android Tech Stack : Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 94 🍴 12 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 258321716,
+                    "language": "Kotlin",
+                    "last_commit": "2021-10-26T19:40:22Z",
+                    "owner": "YahiaAngelo",
+                    "repo": "Noted-Android",
+                    "stars": 103
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-modular-architecture",
+                  "description": "vmadalin 📚 Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, Navigation, Paging, Data Binding, LiveData, ViewModel Last commit: 2 years ago 🌟 2367 🍴 381 👁️ 99",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192786158,
+                    "language": "Kotlin",
+                    "last_commit": "2021-08-23T18:06:03Z",
+                    "owner": "vmadalin",
+                    "repo": "android-modular-architecture",
+                    "stars": 2435
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "expenses",
+                  "description": "nominalista App written in Kotlin for budget tracking. Tech Stack : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging, WorkManager, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 362 🍴 83 👁️ 19",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134851634,
+                    "language": "Kotlin",
+                    "last_commit": "2021-07-20T20:16:25Z",
+                    "owner": "nominalista",
+                    "repo": "expenses",
+                    "stars": 403
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DrawingsApp",
+                  "description": "Sharkaboi An app to add and manage floor plan drawings with markers. Tech Stack : Dagger Hilt, Coroutines, Room, Dhaval2404/ImagePicker, Subsampling Scale Image View, Navigation, LiveData, ViewModel Last commit: 2 years ago 🌟 28 🍴 3 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 290499661,
+                    "language": "Kotlin",
+                    "last_commit": "2021-07-20T04:12:18Z",
+                    "owner": "Sharkaboi",
+                    "repo": "DrawingsApp",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "topcorn",
+                  "description": "theapache64 A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel Last commit: 2 years ago 🌟 217 🍴 42 👁️ 11",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 256630741,
+                    "language": "Kotlin",
+                    "last_commit": "2021-06-12T19:05:01Z",
+                    "owner": "theapache64",
+                    "repo": "topcorn",
+                    "stars": 228
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GithubVisualizer",
+                  "description": "dheerajkotwani 📲 Android Application to track any user activity on Github built using the Github Developers API. Used Retrofit to fetch data and MVVM Architecture. Tech Stack : Retrofit, Firebase Auth, Coroutines, LiveData, ViewModel Last commit: 2 years ago 🌟 114 🍴 25 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265686465,
+                    "language": "Kotlin",
+                    "last_commit": "2021-04-21T11:44:11Z",
+                    "owner": "dheerajkotwani",
+                    "repo": "GithubVisualizer",
+                    "stars": 121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wanandroid",
+                  "description": "jianjunxiao Kotlin+JetPack+协程实现的MVVM架构Wanandroid客户端 Tech Stack : Coroutines, Retrofit, Room, LiveData, ViewModel Last commit: 2 years ago 🌟 250 🍴 49 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226853069,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-22T09:26:36Z",
+                    "owner": "jianjunxiao",
+                    "repo": "wanandroid",
+                    "stars": 266
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MixUp",
+                  "description": "GerardBradshaw An Android app for creating photo collages. This app demonstrates NavigationUI, Espresso testing, Robolectric testing, custom views, low-level UI manipulation, and more. Tech Stack : Dagger, Coroutines, Testing, Navigation, ColorPicker, ViewModel Last commit: 3 years ago 🌟 44 🍴 15 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281242086,
+                    "language": "Kotlin",
+                    "last_commit": "2021-03-23T00:28:29Z",
+                    "owner": "GerardBradshaw",
+                    "repo": "MixUp",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "roka-recipe-app",
+                  "description": "fabirt Android recipes search App Tech Stack : Dagger Hilt, Coroutines, Retrofit, Room, LiveData, ViewModel, Paging, Navigation, DataStore Last commit: 3 years ago 🌟 63 🍴 14 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 282489397,
+                    "language": "Kotlin",
+                    "last_commit": "2021-03-22T17:06:22Z",
+                    "owner": "fabirt",
+                    "repo": "roka-recipe-app",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jetpack-release-tracker",
+                  "description": "lmj0011 Stay up to date on the latest AndroidX library releases. Tech Stack : Coroutines, Testing, Fuel, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 81 🍴 15 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 269086550,
+                    "language": "Kotlin",
+                    "last_commit": "2021-03-15T22:23:34Z",
+                    "owner": "lmj0011",
+                    "repo": "jetpack-release-tracker",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bitlue",
+                  "description": "androiddevnotesforks Bitlue is an app where you can check the Bitcoin's current market price value (Bitcoin + value = Bitlue) and its records. Tech Stack : Dagger Hilt, Coroutines + Flow, MPAndroidChart, Retrofit, LiveData, ViewModel Last commit: 3 years ago 🌟 16 🍴 4 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348243725,
+                    "language": null,
+                    "last_commit": "2021-03-15T09:03:42Z",
+                    "owner": "androiddevnotesforks",
+                    "repo": "Bitlue",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flows-guide",
+                  "description": "Shivamdhuria Android Application 🐕 based on offline first approach built using Dagger Hilt, Material Motion, Coroutines + Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture. Tech Stack : Dagger Hilt, Coroutines, Flows, Retrofit, Room, Material Design Components, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 192 🍴 29 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274478129,
+                    "language": "Kotlin",
+                    "last_commit": "2021-03-12T08:00:01Z",
+                    "owner": "Shivamdhuria",
+                    "repo": "flows_guide",
+                    "stars": 190
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "droidconKE2020App",
+                  "description": "droidconKE Android app fully written in Kotlin for droidconKE2020 Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Google Auth, Data Binding, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 120 🍴 43 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 221316753,
+                    "language": "Kotlin",
+                    "last_commit": "2021-03-02T08:43:11Z",
+                    "owner": "droidconKE",
+                    "repo": "droidconKE2020App",
+                    "stars": 120
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpaceXFollower",
+                  "description": "OMIsie11 Android app that helps You keep up with SpaceX 🚀 Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, WorkManager, MPAndroidChart, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 50 🍴 9 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159474083,
+                    "language": "Kotlin",
+                    "last_commit": "2021-02-27T08:04:24Z",
+                    "owner": "OMIsie11",
+                    "repo": "SpaceXFollower",
+                    "stars": 56
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PexWalls",
+                  "description": "GreyLabsDev Wallpaper app based on pexels.com API. Kotlin/Clean/MVVM-like/SingleActivity Tech Stack : Koin, Coroutines, RxJava, Retrofit, Room, Navigation, Markwon, LiveData, ViewModel Last commit: 3 years ago 🌟 45 🍴 15 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 210593289,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-17T13:50:02Z",
+                    "owner": "GreyLabsDev",
+                    "repo": "PexWalls",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TrackMyPath",
+                  "description": "gs-ts An Android app written in Kotlin that demonstrates a clean architecture with MVVM, Fused Location Provider, LifecycleService, and Coroutines. It is used as lab to test new Android features. Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel Last commit: 3 years ago 🌟 71 🍴 13 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 196276242,
+                    "language": "Kotlin",
+                    "last_commit": "2021-01-14T20:47:08Z",
+                    "owner": "gs-ts",
+                    "repo": "TrackMyPath",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BitfinexClient",
+                  "description": "gs-ts An Android app written in Kotlin that demonstrates a clean architecture with MVVM, websockets using WebScoket client Scarlet, and RxAndroid/RxKotlin. Tech Stack : Koin, RxJava, Testing, Scarlet, Room, Data Binding, LiveData, ViewModel Last commit: 3 years ago 🌟 16 🍴 8 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184434371,
+                    "language": "Kotlin",
+                    "last_commit": "2021-01-04T09:20:07Z",
+                    "owner": "gs-ts",
+                    "repo": "BitfinexClient",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gallerit",
+                  "description": "auron567 A sample Android gallery to search images posted on Reddit, built using modern Android development tools (Architecture Components, MVVM, Coroutines, Flow, Navigation, Retrofit, Room, Koin) Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel Last commit: 3 years ago 🌟 220 🍴 21 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278583026,
+                    "language": "Kotlin",
+                    "last_commit": "2020-12-22T07:24:30Z",
+                    "owner": "auron567",
+                    "repo": "Gallerit",
+                    "stars": 217
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "hiya-hiya-hiya",
+                  "description": "utsmannn Whatsapp Clone base on Firebase Cloud Messaging Tech Stack : Koin, Coroutines, Retrofit, Room, Firebase Messaging, Firebase Auth, WorkManager, Google Maps, Paging, JSoup, vanniktech/Emoji, afollestad/inline-activity-result, LiveData, ViewModel Last commit: 3 years ago 🌟 176 🍴 47 👁️ 6",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 289329963,
+                    "language": "Kotlin",
+                    "last_commit": "2020-12-20T10:59:39Z",
+                    "owner": "utsmannn",
+                    "repo": "hiya-hiya-hiya",
+                    "stars": 187
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Covid-19-Tracker",
+                  "description": "HariKulhari06 Android app to track COVID-19 cases in India and globally. Tech Stack : Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart, LiveData, ViewModel Last commit: 3 years ago 🌟 133 🍴 38 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268235652,
+                    "language": "Kotlin",
+                    "last_commit": "2020-12-07T06:48:11Z",
+                    "owner": "HariKulhari06",
+                    "repo": "Covid-19-Tracker",
+                    "stars": 129
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cryptotracker",
+                  "description": "CharlieChristensen Tech Stack : Dagger, Coroutines, Testing, socketIO, Retrofit, Room, MPAndroidChart, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 4 🍴 1 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200732991,
+                    "language": "Kotlin",
+                    "last_commit": "2020-12-05T05:26:26Z",
+                    "owner": "CharlieChristensen",
+                    "repo": "Cryptotracker",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NotesSync",
+                  "description": "KumarManas04 Notes Sync is the answer to your everyday note taking requirements. It can encrypt and sync everything to the user's own Google Drive or Dropbox accounts Tech Stack : Coroutines, Testing, Room, Google Drive, Dropbox, WorkManager, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 44 🍴 16 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189425373,
+                    "language": "Kotlin",
+                    "last_commit": "2020-12-02T09:02:57Z",
+                    "owner": "KumarManas04",
+                    "repo": "NotesSync",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Photosen",
+                  "description": "commonpepper Android app for viewing and downloading Flickr photos. Tech Stack : Retrofit, Room, Paging, LiveData, ViewModel Last commit: 3 years ago 🌟 7 🍴 2 👁️ 0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 168832712,
+                    "language": "Kotlin",
+                    "last_commit": "2020-11-09T13:07:25Z",
+                    "owner": "commonpepper",
+                    "repo": "Photosen",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MoonShot",
+                  "description": "haroldadmin A SpaceX companion app for Android Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 161 🍴 18 👁️ 9",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187475989,
+                    "language": "Kotlin",
+                    "last_commit": "2020-10-02T14:43:01Z",
+                    "owner": "haroldadmin",
+                    "repo": "MoonShot",
+                    "stars": 163
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PukaPuka",
+                  "description": "Devansh-Maurya An Android app to identify books from their covers and give info, built using ML Kit's Text Recognition API, Android Jetpack Libraries and Google Books API Tech Stack : LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie Last commit: 3 years ago 🌟 19 🍴 2 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179001441,
+                    "language": "Kotlin",
+                    "last_commit": "2020-09-29T18:17:12Z",
+                    "owner": "Devansh-Maurya",
+                    "repo": "PukaPuka",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Football-App",
+                  "description": "fionicholas :soccer: Football App using MVVM, LiveData, RxJava2, DI, Room, Repository Patern Tech Stack : LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc Last commit: 3 years ago 🌟 27 🍴 7 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 296118758,
+                    "language": "Kotlin",
+                    "last_commit": "2020-09-29T13:29:03Z",
+                    "owner": "fionicholas",
+                    "repo": "Football-App",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Knote",
+                  "description": "edkluivert Knote is a standard note taking app Tech Stack : ViewModel, LiveData, Koin, Room db, Coroutines etc Last commit: 3 years ago 🌟 13 🍴 2 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 287084089,
+                    "language": "Kotlin",
+                    "last_commit": "2020-09-20T17:27:15Z",
+                    "owner": "edkluivert",
+                    "repo": "Knote",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AwesomeGithub",
+                  "description": "idisfkj 🔥Android Github客户端，基于组件化开发，支持账户密码与认证登陆。使用Kotlin语言进行开发，项目架构是基于JetPack&DataBinding的MVVM；项目中使用了Arouter、Retrofit、Coroutine、Glide、Dagger与Hilt等流行开源技术。 Tech Stack : Coroutines, RxJava, Retrofit, Room, WorkManager, Paging, Navigation, Data Binding, ARouter, LiveData, ViewModel Last commit: 3 years ago 🌟 228 🍴 44 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219784908,
+                    "language": "Kotlin",
+                    "last_commit": "2020-08-20T01:25:54Z",
+                    "owner": "idisfkj",
+                    "repo": "AwesomeGithub",
+                    "stars": 268
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CovidNow",
+                  "description": "OMIsie11 Simple application for tracking Covid-19 info. Stay safe.😷 Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, MPAndroidChart, LiveData, ViewModel Last commit: 3 years ago 🌟 20 🍴 8 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 248815717,
+                    "language": "Kotlin",
+                    "last_commit": "2020-08-14T12:52:14Z",
+                    "owner": "OMIsie11",
+                    "repo": "CovidNow",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LetsChat",
+                  "description": "satyamurti 🇮🇳 Open source Indian Chat application with new cool concepts. Tech Stack : Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 81 🍴 30 👁️ 6",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275247716,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-28T12:48:56Z",
+                    "owner": "satyamurti",
+                    "repo": "LetsChat",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Yet-Another-Anime-List",
+                  "description": "sanmiAde A personal anime list app that shows currently airing animes, upcoming animes developed using TDD. That's the plan anyway. Essential dependencies are Dagger2 , RxKotlin with RxAndroid, Room, Retrofit, Junit, mockito, mockwebserver, Truth, MVVM , bitrise, Firebase Tech Stack : Dagger, RxJava, Testing using Fakes, MockWebserver, RxRetrofit, Room, Navigation Components, Lottie, LiveData, ViewModel Last commit: 3 years ago 🌟 12 🍴 2 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267826701,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-21T06:13:06Z",
+                    "owner": "sanmiAde",
+                    "repo": "Yet_Another_Anime_List",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PasswordVault",
+                  "description": "abhinav0612 An application where you can store all your password, bank details, card details in one place and access everything with only one master PIN. The application works totally offline. Tech Stack : Dagger Hilt, Room, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 31 🍴 9 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275897027,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-20T11:23:45Z",
+                    "owner": "bugcacher",
+                    "repo": "PasswordVault",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PokemonGo",
+                  "description": "jnkforks Jetpack 实战项目 PokemonGo（神奇宝贝）基于 MVVM 架构和 Repository 设计模式，如果这个仓库对你有帮助，请仓库右上角帮我 star 一下，非常感谢。 Tech Stack : Dagger Hilt, Koin, Coroutines, RxJava, Testing, Retrofit, Room, WorkManager, Paging, LiveData, ViewModel Last commit: 3 years ago 🌟 1 🍴 0 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 279520876,
+                    "language": null,
+                    "last_commit": "2020-07-14T07:25:11Z",
+                    "owner": "jnkforks",
+                    "repo": "PokemonGo",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AppDevToolbox",
+                  "description": "andyb129 Collection of tools for Android app development in one place 🔧 🔨 Tech Stack : Dagger, Coroutines, RxJava, Room, Venom, LiveData, ViewModel Last commit: 3 years ago 🌟 21 🍴 5 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268361827,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-11T21:55:12Z",
+                    "owner": "andyb129",
+                    "repo": "AppDevToolbox",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PopularPeople",
+                  "description": "KhaledSherifSayed A 📱 Popular People app using Shared Elements between fragments with transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Repository, Koin) architecture. Tech Stack : Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich, LiveData, ViewModel Last commit: 3 years ago 🌟 16 🍴 3 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278113314,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-11T18:47:54Z",
+                    "owner": "KhaledSherifSayed",
+                    "repo": "PopularPeople",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Movie",
+                  "description": "weylar A simple movie app Tech Stack : Dagger, Coroutines, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 9 🍴 2 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242142159,
+                    "language": "Kotlin",
+                    "last_commit": "2020-07-07T09:32:52Z",
+                    "owner": "weylar",
+                    "repo": "Movie",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wiqaytna-android",
+                  "description": "Wiqaytna-app Tech Stack : RxJava, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions, Navigation, LiveData, ViewModel Last commit: 3 years ago 🌟 161 🍴 66 👁️ 26",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268380987,
+                    "language": "Kotlin",
+                    "last_commit": "2020-06-23T09:34:23Z",
+                    "owner": "Wiqaytna-app",
+                    "repo": "wiqaytna_android",
+                    "stars": 158
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NewsFeed",
+                  "description": "KevinGitonga A localized News reader Android app powered by newsapi.org Tech Stack : Coroutines, Retrofit, Room, Pretty Time, LiveData, ViewModel Last commit: 3 years ago 🌟 13 🍴 6 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 261390431,
+                    "language": "Kotlin",
+                    "last_commit": "2020-05-13T12:30:05Z",
+                    "owner": "KevinGitonga",
+                    "repo": "NewsFeed",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TukoNewsClient",
+                  "description": "KevinGitonga A simple and sleek Android client consuming the Tuko News Api..I built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components). !! https://www.tuko.co.ke/ Tech Stack : Coroutines, Retrofit, Room, LiveData, ViewModel Last commit: 3 years ago 🌟 8 🍴 0 👁️ 0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249917322,
+                    "language": "Kotlin",
+                    "last_commit": "2020-04-29T20:17:54Z",
+                    "owner": "KevinGitonga",
+                    "repo": "TukoNewsClient",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ArchApp",
+                  "description": "PhilippeBoisney Simple Android app to show how to design a multi-modules MVVM Android app (fully tested) Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Navigation, LiveData, ViewModel Last commit: 4 years ago 🌟 617 🍴 100 👁️ 17",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 175395638,
+                    "language": "Kotlin",
+                    "last_commit": "2020-03-26T17:06:57Z",
+                    "owner": "PhilippeBoisney",
+                    "repo": "ArchApp",
+                    "stars": 617
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AppLocker",
+                  "description": "iammert 🔐 Open source app locker, vault, call blocker application Tech Stack : Dagger, RxJava, Room, WorkManager, Data Binding, RxPermissions, LiveData, ViewModel Last commit: 4 years ago 🌟 445 🍴 106 👁️ 22",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225160602,
+                    "language": "Kotlin",
+                    "last_commit": "2019-12-01T13:29:27Z",
+                    "owner": "iammert",
+                    "repo": "AppLocker",
+                    "stars": 508
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "software-engineering-daily-android",
+                  "description": "SoftwareEngineeringDaily Android client for Software Engineering Daily Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Android-Permissions, LiveData, ViewModel Last commit: 4 years ago 🌟 88 🍴 29 👁️ 15",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 153311594,
+                    "language": "Kotlin",
+                    "last_commit": "2019-11-25T22:47:16Z",
+                    "owner": "SoftwareEngineeringDaily",
+                    "repo": "software-engineering-daily-android",
+                    "stars": 88
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Social-Note",
+                  "description": "mars-amn Social Note - Note-taking, sharing, time & location reminder Tech Stack : Koin, RxJava, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging, WorkManager, Data Binding, Paging, LiveData, ViewModel Last commit: 4 years ago 🌟 56 🍴 9 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197773483,
+                    "language": "Kotlin",
+                    "last_commit": "2019-10-13T02:18:43Z",
+                    "owner": "asyncMars",
+                    "repo": "Social-Note",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "youtube-dl-android",
+                  "description": "cuongpm 📦📦Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites Tech Stack : Dagger, RxJava, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel Last commit: 4 years ago 🌟 476 🍴 136 👁️ 20",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160616911,
+                    "language": "Kotlin",
+                    "last_commit": "2019-05-13T07:45:34Z",
+                    "owner": "cuongpm",
+                    "repo": "youtube-dl-android",
+                    "stars": 564
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "file.io-Android-Client",
+                  "description": "rumaan ☁️ Unofficial file.io Android App 📱 Tech Stack : Testing, Fuel, Room, WorkManager, Navigation, PermissionsDispatcher, LiveData, ViewModel Last commit: 5 years ago 🌟 21 🍴 13 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 113689250,
+                    "language": "Kotlin",
+                    "last_commit": "2019-04-12T15:19:13Z",
+                    "owner": "rumaan",
+                    "repo": "file.io-Android-Client",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Normal"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "android-showcase",
+                  "description": "igorwojda 💎 Android application following best practices: Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis... Tech Stack : Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules, LiveData, ViewModel Last commit: 19 hours ago 🌟 6157 🍴 868 👁️ 118",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158460787,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T07:32:26Z",
+                    "owner": "igorwojda",
+                    "repo": "android-showcase",
+                    "stars": 6784
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rick-and-Morty",
+                  "description": "akhilesh0707 The Rick And Morty - MVVM with a clean architecture approach using some of the best practices in Android Development. Tech Stack : Kotlin, Coroutines, Flow, Dagger-Hilt, Kotlin-DSL, LiveData, Lifecycle, ViewModel, Room, Navigation, Data Binding, Material-Components, Retrofit, OkHttp, Moshi, Timber, Glide Last commit: 4 weeks ago 🌟 95 🍴 23 👁️ 3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 358317569,
+                    "language": "Kotlin",
+                    "last_commit": "2023-09-15T19:59:38Z",
+                    "owner": "akhilesh0707",
+                    "repo": "Rick-and-Morty",
+                    "stars": 128
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BLTaxi",
+                  "description": "VladimirWrites 🚕 BL Taxi is a simple app for calling a taxi in the city Banja Luka built using modern Android development tools Tech Stack : Koin, Retrofit, Room, Data Binding, LiveData, View Model, Work Manager, Material Components Last commit: 2 months ago 🌟 348 🍴 39 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192170187,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-08T06:17:37Z",
+                    "owner": "VladimirWrites",
+                    "repo": "BLTaxi",
+                    "stars": 351
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpaceX-prepare-for-Clean-Architecture-liftoff",
+                  "description": "ferPrieto Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer Tech Stack : Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation, LiveData, ViewModel Last commit: 5 months ago 🌟 631 🍴 84 👁️ 6",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226459777,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-28T10:19:29Z",
+                    "owner": "ferPrieto",
+                    "repo": "SpaceX-prepare-for-Clean-Architecture-liftoff",
+                    "stars": 750
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CoolWeather",
+                  "description": "akoufa Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin Tech Stack : Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, LiveData, ViewModel Last commit: 6 months ago 🌟 190 🍴 18 👁️ 10",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91019494,
+                    "language": "Kotlin",
+                    "last_commit": "2023-04-22T21:42:32Z",
+                    "owner": "akoufa",
+                    "repo": "CoolWeather",
+                    "stars": 198
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Slootnime-APP",
+                  "description": "bakharaalief Slootnime is simple android app to learn graphql API with Apollo and clean architecture Tech Stack : Kotlin, Coroutine, Dagger-Hilt, LiveData, Lifecycle, ViewModel, Apollo, Glide, Pagging, Lottie Last commit: 9 months ago 🌟 3 🍴 0 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 531020924,
+                    "language": "Kotlin",
+                    "last_commit": "2023-01-25T08:21:12Z",
+                    "owner": "bakharaalief",
+                    "repo": "Slootnime-APP",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android-Kotlin-Clean-Architecture",
+                  "description": "sanogueralorenzo Android Sample Clean Architecture App written in Kotlin Tech Stack : Dagger Hilt, Testing, RxJava, Retrofit, AssistedInject, Epoxy, RxPaper, MvRx, ViewModel Last commit: 1 year ago 🌟 1733 🍴 329 👁️ 56",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115441256,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-24T07:08:52Z",
+                    "owner": "sanogueralorenzo",
+                    "repo": "sanogueralorenzo.github.io",
+                    "stars": 1784
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PropertyFindAR",
+                  "description": "SmartToolFactory 🏘 🎃 Real Estate Sample App with RxJava3+Coroutines Flow, Dynamic Feature Modules, Dagger Hilt, Offline First, ConcatAdapter, Animations and tests for Room, Retrofit, useCase and ViewModels with TDD. Tech Stack : RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow Last commit: 2 years ago 🌟 254 🍴 36 👁️ 14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 293218237,
+                    "language": "Kotlin",
+                    "last_commit": "2022-03-08T05:41:14Z",
+                    "owner": "SmartToolFactory",
+                    "repo": "PropertyFindAR",
+                    "stars": 269
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Theatre",
+                  "description": "andremion Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. 🎭 Tech Stack : Dagger, RxJava, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel Last commit: 2 years ago 🌟 646 🍴 97 👁️ 27",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122661183,
+                    "language": "Kotlin",
+                    "last_commit": "2021-10-11T16:50:34Z",
+                    "owner": "andremion",
+                    "repo": "Theatre",
+                    "stars": 640
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android-Clean-Architecture",
+                  "description": "happysingh23828 This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage) Tech Stack : Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel Last commit: 2 years ago 🌟 295 🍴 51 👁️ 5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 251545848,
+                    "language": "Kotlin",
+                    "last_commit": "2021-10-10T08:58:23Z",
+                    "owner": "happysingh23828",
+                    "repo": "Android-Clean-Architecture",
+                    "stars": 300
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-clean-architecture",
+                  "description": "sansets Sample for Android Clean Architecture. Tech Stack : Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules. Last commit: 2 years ago 🌟 122 🍴 14 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 294803938,
+                    "language": "Kotlin",
+                    "last_commit": "2021-07-27T02:59:13Z",
+                    "owner": "sansets",
+                    "repo": "android-clean-architecture",
+                    "stars": 126
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Clean-MVVM-ArchComponents",
+                  "description": "odaridavid 👽 Built with MVVM pattern, Koin , Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout Tech Stack : Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout, LiveData, ViewModel Last commit: 2 years ago 🌟 654 🍴 112 👁️ 23",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 227998628,
+                    "language": "Kotlin",
+                    "last_commit": "2021-06-15T14:20:18Z",
+                    "owner": "odaridavid",
+                    "repo": "Clean-MVVM-ArchComponents",
+                    "stars": 682
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CoronavirusWorldStatus",
+                  "description": "HamdiBoumaiza An app to stay up to date with the latest stats of the coronavirus , using Kotlin with MVVM ,Coroutines , Android Architecture Components and Dagger Tech Stack : Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho Last commit: 3 years ago 🌟 22 🍴 2 👁️ 1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249173750,
+                    "language": "Kotlin",
+                    "last_commit": "2020-09-05T23:29:51Z",
+                    "owner": "HamdiBoumaiza",
+                    "repo": "CoronavirusWorldStatus",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Clean Architecture"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MVVM"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ComicReaderApp-MVI-Coroutine-RxKotlin-Jetpack",
+                  "description": "hoc081098 ⚡️Comic reader app 📘 Learning MVVM / MVI with :cyclone: RxKotlin, Retrofit, Kotlinx Coroutine, Work Manager, Room, Firebase, AndroidX Startup, Clean Architecture, Arrow.Kt Functional Programming ... ❄️ androidx-startup, androidx-room, androidx-viewmodel, arrow-kt Tech Stack : Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel Last commit: 5 days ago 🌟 239 🍴 46 👁️ 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170987604,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-17T05:05:17Z",
+                    "owner": "hoc081098",
+                    "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+                    "stars": 292
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open-API-Android-App",
+                  "description": "mitchtabian Kotlin, MVI, Hilt, Retrofit2, Coroutines, Room Persistence, REST API, Token Authentication Tech Stack : Dagger, Coroutines, Retrofit, Room, Navigation, LiveData, ViewModel Last commit: 7 months ago 🌟 650 🍴 225 👁️ 26",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197218589,
+                    "language": "Kotlin",
+                    "last_commit": "2023-03-18T16:03:50Z",
+                    "owner": "mitchtabian",
+                    "repo": "Open-API-Android-App",
+                    "stars": 686
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GameDealz",
+                  "description": "R4md4c A non-official Android client for IsThereAnyDeal.com Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel Last commit: 1 year ago 🌟 27 🍴 2 👁️ 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 163697950,
+                    "language": "Kotlin",
+                    "last_commit": "2023-12-03T20:42:11Z",
+                    "owner": "R4md4c",
+                    "repo": "GameDealz",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NewsFeed-MVI-Dagger",
+                  "description": "HadySalhab Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel Last commit: 4 years ago 🌟 12 🍴 7 👁️ 2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242919561,
+                    "language": "Kotlin",
+                    "last_commit": "2020-03-26T08:10:39Z",
+                    "owner": "HadySalhab",
+                    "repo": "NewsFeed-MVI-Dagger",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Normal"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "StarWarsSearch-MVI",
+                  "description": "Ezike Star wars sample android project showcasing the use of View components for rendering UI in Fragments and Activities. Uses Android Jetpack, clean architecture with MVI (Uni-directional data flow), dagger hilt, and kotlin coroutines with StateFlow Tech Stack : Jetpack, Dagger hilt, Coroutines & StateFlow, Room, Retrofit, FlowBinding Last commit: 2 months ago 🌟 197 🍴 29 👁️ 8",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 294171829,
+                    "language": "Kotlin",
+                    "last_commit": "2024-04-14T11:45:38Z",
+                    "owner": "Ezike",
+                    "repo": "StarWarsSearch-MVI",
+                    "stars": 196
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CleanRxArchitecture",
+                  "description": "lopspower Clean Rx Kotlin Architecture sample on GitHub Api 🚀 Tech Stack : Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel Last commit: 1 year ago 🌟 387 🍴 49 👁️ 15",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 269655263,
+                    "language": "Kotlin",
+                    "last_commit": "2022-08-26T15:31:16Z",
+                    "owner": "lopspower",
+                    "repo": "CleanRxArchitecture",
+                    "stars": 383
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Baking-App-Kotlin",
+                  "description": "Ezike Android architecture sample with dynamic feature modularisation, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, kotlin coroutines with StateFlow and Exo player. Tech Stack : Dagger hilt, Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer Last commit: 2 years ago 🌟 440 🍴 82 👁️ 11",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 270478922,
+                    "language": "Kotlin",
+                    "last_commit": "2021-08-24T15:52:34Z",
+                    "owner": "Ezike",
+                    "repo": "Baking-App-Kotlin",
+                    "stars": 457
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Clean-Notes",
+                  "description": "mitchtabian Clean Architecture by layer Tech Stack : Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel Last commit: 3 years ago 🌟 496 🍴 137 👁️ 17",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 250371727,
+                    "language": "Kotlin",
+                    "last_commit": "2024-03-13T10:09:56Z",
+                    "owner": "mitchtabian",
+                    "repo": "Clean-Notes",
+                    "stars": 556
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Clean Architecture"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MVI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UTair-MVP-Sample",
+              "description": "ImangazalievM Android Clean Architecture + MVP Sample written in Kotlin Tech Stack : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) Last commit: 3 years ago 🌟 30 🍴 5 👁️ 4",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96150207,
+                "language": "Kotlin",
+                "last_commit": "2021-02-04T15:52:44Z",
+                "owner": "ImangazalievM",
+                "repo": "UTair-MVP-Sample",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MVP"
+        }
+      ],
+      "title": ":art: Pattern"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shadowsocks-android",
+          "description": "shadowsocks A shadowsocks client for Android Tech Stack : Testing, Room, Firebase Ads, WorkManager Last commit: 2 weeks ago 🌟 34025 🍴 11641 👁️ 1574",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7190986,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T11:06:54Z",
+            "owner": "shadowsocks",
+            "repo": "shadowsocks-android",
+            "stars": 36766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "countin",
+          "description": "Husseinfo An Android Application that remembers your life events. Tech Stack : Room, Coroutines, Compose, Material3 Last commit: 9 months ago 🌟 6 🍴 0 👁️ 1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522266410,
+            "language": "Kotlin",
+            "last_commit": "2024-09-15T13:48:29Z",
+            "owner": "Husseinfo",
+            "repo": "countin",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kotlinbaseproject",
+          "description": "aasif1297 Tech Stack : Foursquare APIs, Koin, Coroutines, Moshi, Room, Retrofit, Viewbinding, Google Play Services Last commit: 12 months ago 🌟 0 🍴 0 👁️ 1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 555322357,
+            "language": "Kotlin",
+            "last_commit": "2022-10-21T11:03:06Z",
+            "owner": "aasif1297",
+            "repo": "kotlinbaseproject",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scarlet-Notes",
+          "description": "BijoySingh [Discontinued and Unsupported Project] Simple yet powerful rich note taking android application, with a lot of flexibilty of usage Tech Stack : Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric Last commit: 2 years ago 🌟 345 🍴 97 👁️ 19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58070707,
+            "language": "Kotlin",
+            "last_commit": "2021-12-21T13:10:55Z",
+            "owner": "BijoySingh",
+            "repo": "Scarlet-Notes",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenaway",
+          "description": "DimaBrody Phone Screen Forced Locker Tech Stack : Room, Play Install Referrer Library Last commit: 3 years ago 🌟 15 🍴 2 👁️ 1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292443912,
+            "language": "Kotlin",
+            "last_commit": "2020-09-03T02:39:31Z",
+            "owner": "DimaBrody",
+            "repo": "Screenaway",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dagger",
+          "description": ", Koin, Kodein, Inorichi Injekt, Coroutines, Rx, Testing, Retrofit, Fuel, Room, Realm, Firebase Products, WorkManager, ExoPlayer, Paging, Navigation, Lottie, Zoomy, JSoup, js-evaluator-for-android, Algolia Search, Conductor, Call Control DataShare, libphonenumber-android, Mixpanel Android, Venom, FlowLayout, ARCore, GSYVideoPlayer, PermissionX, EventBus, Dynamicanimation, Google Drive, Dropbox, MPAndroidChart, Facebook Products, PayPal, Stripe, Easy Permissions, socketIO, Dexter, Tikxml, Markwon, Scarlet, Android-Permissions, RxPermissions, android-upload-service, PermissionsDispatcher, ShortcutBadger, ARouter, Sandwich, Calendar view, Biometric, Pretty Time, Markdown Processor, DiskLruCache, Duktape Android, Evernote android-job, Facebook Litho, Facebook SoLoader, Data Binding, TimelineView",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7968417,
+            "language": "Java",
+            "last_commit": "2026-08-23T20:05:20Z",
+            "owner": "google",
+            "repo": "dagger",
+            "stars": 17702
+          }
+        }
+      ],
+      "title": ":books: Tech Stack/Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@theapache64",
+          "description": "automated this repo and designed a beautiful layout for awesome-android-kotlin-apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276471933,
+            "language": "Kotlin",
+            "last_commit": "2024-07-01T22:14:17Z",
+            "owner": "androiddevnotes",
+            "repo": "awesome-android-kotlin-apps",
+            "stars": 2742
+          }
+        }
+      ],
+      "title": ":moyai: Core Contributors"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T13:25:00.201Z",
+    "last_updated": "2026-08-24T14:00:34.607Z",
     "original_repository": "androiddevnotes/awesome-android-kotlin-apps",
     "original_repository_id": 276471933,
     "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
