@@ -71,7 +71,7 @@
                     "last_commit": "2026-06-25T02:42:36Z",
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1448
+                    "stars": 1451
                   }
                 },
                 {
@@ -83,10 +83,10 @@
                     "archived": false,
                     "id": 345422733,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T00:39:03Z",
+                    "last_commit": "2026-08-25T00:40:22Z",
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1891
+                    "stars": 1892
                   }
                 },
                 {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 229804414,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-23T22:01:05Z",
+                    "last_commit": "2026-08-24T22:01:06Z",
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
                     "stars": 226
@@ -206,7 +206,7 @@
                     "last_commit": "2026-05-28T11:22:07Z",
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3950
+                    "stars": 3951
                   }
                 },
                 {
@@ -251,7 +251,7 @@
                     "last_commit": "2026-08-24T04:56:16Z",
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8352
+                    "stars": 8353
                   }
                 },
                 {
@@ -476,7 +476,7 @@
                     "last_commit": "2023-06-02T16:19:16Z",
                     "owner": "moezbhatti",
                     "repo": "qksms",
-                    "stars": 4591
+                    "stars": 4592
                   }
                 },
                 {
@@ -506,7 +506,7 @@
                     "last_commit": "2023-05-12T12:45:07Z",
                     "owner": "griddynamics-archive",
                     "repo": "Praxis",
-                    "stars": 373
+                    "stars": 374
                   }
                 },
                 {
@@ -1661,7 +1661,7 @@
                     "last_commit": "2019-12-01T13:29:27Z",
                     "owner": "iammert",
                     "repo": "AppLocker",
-                    "stars": 508
+                    "stars": 509
                   }
                 },
                 {
@@ -1952,7 +1952,7 @@
                     "last_commit": "2026-08-17T05:05:17Z",
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
-                    "stars": 292
+                    "stars": 293
                   }
                 },
                 {
@@ -2117,7 +2117,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36766
+            "stars": 36767
           }
         },
         {
@@ -2219,7 +2219,7 @@
             "last_commit": "2024-07-01T22:14:17Z",
             "owner": "androiddevnotes",
             "repo": "awesome-android-kotlin-apps",
-            "stars": 2742
+            "stars": 2744
           }
         }
       ],
@@ -2227,7 +2227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:34.607Z",
+    "last_updated": "2026-08-25T05:55:50.461Z",
     "original_repository": "androiddevnotes/awesome-android-kotlin-apps",
     "original_repository_id": 276471933,
     "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
