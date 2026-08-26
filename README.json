@@ -71,7 +71,7 @@
                     "last_commit": "2026-06-25T02:42:36Z",
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1451
+                    "stars": 1450
                   }
                 },
                 {
@@ -98,7 +98,7 @@
                     "archived": false,
                     "id": 188443410,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-21T13:15:01Z",
+                    "last_commit": "2026-08-26T10:08:19Z",
                     "owner": "willowtreeapps",
                     "repo": "vocable-android",
                     "stars": 126
@@ -113,7 +113,7 @@
                     "archived": false,
                     "id": 116942964,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-22T04:09:40Z",
+                    "last_commit": "2026-08-25T17:40:42Z",
                     "owner": "igorescodro",
                     "repo": "alkaa",
                     "stars": 1642
@@ -188,10 +188,10 @@
                     "archived": false,
                     "id": 229804414,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T22:01:06Z",
+                    "last_commit": "2026-08-25T22:01:06Z",
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
-                    "stars": 226
+                    "stars": 227
                   }
                 },
                 {
@@ -206,7 +206,7 @@
                     "last_commit": "2026-05-28T11:22:07Z",
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3953
+                    "stars": 3954
                   }
                 },
                 {
@@ -218,7 +218,7 @@
                     "archived": false,
                     "id": 252193036,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T07:02:41Z",
+                    "last_commit": "2026-08-25T16:48:19Z",
                     "owner": "nuhkoca",
                     "repo": "libbra",
                     "stars": 53
@@ -293,7 +293,7 @@
                     "archived": false,
                     "id": 31075682,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T08:50:02Z",
+                    "last_commit": "2026-08-25T19:34:43Z",
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
                     "stars": 1816
@@ -341,7 +341,7 @@
                     "last_commit": "2025-05-11T03:26:43Z",
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2141
+                    "stars": 2142
                   }
                 },
                 {
@@ -476,7 +476,7 @@
                     "last_commit": "2023-06-02T16:19:16Z",
                     "owner": "moezbhatti",
                     "repo": "qksms",
-                    "stars": 4592
+                    "stars": 4591
                   }
                 },
                 {
@@ -536,7 +536,7 @@
                     "last_commit": "2023-04-23T09:15:03Z",
                     "owner": "tema6120",
                     "repo": "ForgetMeNot",
-                    "stars": 441
+                    "stars": 442
                   }
                 },
                 {
@@ -581,7 +581,7 @@
                     "last_commit": "2025-05-15T21:18:22Z",
                     "owner": "b-lam",
                     "repo": "Resplash",
-                    "stars": 689
+                    "stars": 688
                   }
                 },
                 {
@@ -671,7 +671,7 @@
                     "last_commit": "2023-01-05T18:35:51Z",
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21644
+                    "stars": 21645
                   }
                 },
                 {
@@ -1706,7 +1706,7 @@
                     "last_commit": "2019-05-13T07:45:34Z",
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
-                    "stars": 565
+                    "stars": 563
                   }
                 },
                 {
@@ -1743,7 +1743,7 @@
                     "last_commit": "2026-08-24T07:32:26Z",
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6785
+                    "stars": 6788
                   }
                 },
                 {
@@ -1982,7 +1982,7 @@
                     "last_commit": "2023-12-03T20:42:11Z",
                     "owner": "R4md4c",
                     "repo": "GameDealz",
-                    "stars": 35
+                    "stars": 36
                   }
                 },
                 {
@@ -2117,7 +2117,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36766
+            "stars": 36768
           }
         },
         {
@@ -2227,7 +2227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:16:58.485Z",
+    "last_updated": "2026-08-26T13:28:15.335Z",
     "original_repository": "androiddevnotes/awesome-android-kotlin-apps",
     "original_repository_id": 276471933,
     "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
