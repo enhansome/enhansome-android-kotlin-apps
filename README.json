@@ -47,7 +47,7 @@
                 "last_commit": "2024-04-04T09:45:41Z",
                 "owner": "a914-gowtham",
                 "repo": "RickNMortyCompose",
-                "stars": 25
+                "stars": 26
               }
             }
           ],
@@ -71,7 +71,7 @@
                     "last_commit": "2026-06-25T02:42:36Z",
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1450
+                    "stars": 1449
                   }
                 },
                 {
@@ -83,10 +83,10 @@
                     "archived": false,
                     "id": 345422733,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T07:39:32Z",
+                    "last_commit": "2026-08-26T15:17:15Z",
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1892
+                    "stars": 1894
                   }
                 },
                 {
@@ -98,7 +98,7 @@
                     "archived": false,
                     "id": 188443410,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T10:08:19Z",
+                    "last_commit": "2026-08-26T14:30:59Z",
                     "owner": "willowtreeapps",
                     "repo": "vocable-android",
                     "stars": 126
@@ -206,7 +206,7 @@
                     "last_commit": "2026-05-28T11:22:07Z",
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3954
+                    "stars": 3955
                   }
                 },
                 {
@@ -218,7 +218,7 @@
                     "archived": false,
                     "id": 252193036,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T16:48:19Z",
+                    "last_commit": "2026-08-26T23:37:01Z",
                     "owner": "nuhkoca",
                     "repo": "libbra",
                     "stars": 53
@@ -293,10 +293,10 @@
                     "archived": false,
                     "id": 31075682,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T19:34:43Z",
+                    "last_commit": "2026-08-27T01:13:46Z",
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1816
+                    "stars": 1817
                   }
                 },
                 {
@@ -323,10 +323,10 @@
                     "archived": false,
                     "id": 16598287,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T03:59:07Z",
+                    "last_commit": "2026-08-27T00:41:47Z",
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4939
+                    "stars": 4940
                   }
                 },
                 {
@@ -596,7 +596,7 @@
                     "last_commit": "2023-02-20T10:15:34Z",
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6386
+                    "stars": 6385
                   }
                 },
                 {
@@ -1706,7 +1706,7 @@
                     "last_commit": "2019-05-13T07:45:34Z",
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
-                    "stars": 563
+                    "stars": 564
                   }
                 },
                 {
@@ -1743,7 +1743,7 @@
                     "last_commit": "2026-08-24T07:32:26Z",
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6788
+                    "stars": 6789
                   }
                 },
                 {
@@ -1830,7 +1830,7 @@
                     "archived": false,
                     "id": 115441256,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T07:08:52Z",
+                    "last_commit": "2026-08-27T09:45:25Z",
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
                     "stars": 1784
@@ -2117,7 +2117,7 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36768
+            "stars": 36767
           }
         },
         {
@@ -2198,7 +2198,7 @@
             "last_commit": "2026-08-25T07:35:14Z",
             "owner": "google",
             "repo": "dagger",
-            "stars": 17703
+            "stars": 17702
           }
         }
       ],
@@ -2219,7 +2219,7 @@
             "last_commit": "2024-07-01T22:14:17Z",
             "owner": "androiddevnotes",
             "repo": "awesome-android-kotlin-apps",
-            "stars": 2744
+            "stars": 2745
           }
         }
       ],
@@ -2227,9 +2227,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:28:15.335Z",
-    "original_repository": "androiddevnotes/awesome-android-kotlin-apps",
-    "original_repository_id": 276471933,
+    "last_updated": "2026-08-27T11:20:07.781Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 276471933,
+      "language": "Kotlin",
+      "last_commit": "2024-07-01T22:14:17Z",
+      "owner": "androiddevnotes",
+      "repo": "awesome-android-kotlin-apps",
+      "stars": 2745
+    },
     "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
     "enhanced_repository": "enhansome/enhansome-android-kotlin-apps",
     "enhanced_repository_description": null,
