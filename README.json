@@ -17,8 +17,9 @@
                 "last_commit": "2024-07-25T13:30:32Z",
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1519
-              }
+                "stars": 1520
+              },
+              "first_seen": "2026-08-28T22:28:21.135Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "SSAHHC",
                 "repo": "DICE_ROLL_APP",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:28:21.135Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "a914-gowtham",
                 "repo": "RickNMortyCompose",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:28:21.135Z"
             }
           ],
           "description": null,
@@ -71,8 +74,9 @@
                     "last_commit": "2026-06-25T02:42:36Z",
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1450
-                  }
+                    "stars": 1452
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -83,11 +87,12 @@
                     "archived": false,
                     "id": 345422733,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T15:17:15Z",
+                    "last_commit": "2026-08-28T09:27:09Z",
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1895
-                  }
+                    "stars": 1898
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -98,11 +103,12 @@
                     "archived": false,
                     "id": 188443410,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T14:30:59Z",
+                    "last_commit": "2026-08-28T17:23:57Z",
                     "owner": "willowtreeapps",
                     "repo": "vocable-android",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -113,11 +119,12 @@
                     "archived": false,
                     "id": 116942964,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T17:40:42Z",
+                    "last_commit": "2026-08-28T10:44:20Z",
                     "owner": "igorescodro",
                     "repo": "alkaa",
                     "stars": 1642
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "phicdy",
                     "repo": "MyCuration",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "louis-fri",
                     "repo": "SoMovie",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "PatilShreyas",
                     "repo": "NotyKT",
                     "stars": 1769
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "Chesire",
                     "repo": "Nekome",
                     "stars": 519
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
                     "stars": 227
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -206,8 +218,9 @@
                     "last_commit": "2026-05-28T11:22:07Z",
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3953
-                  }
+                    "stars": 3954
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -218,11 +231,12 @@
                     "archived": false,
                     "id": 252193036,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T23:37:01Z",
+                    "last_commit": "2026-08-27T22:29:20Z",
                     "owner": "nuhkoca",
                     "repo": "libbra",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "zedlabs",
                     "repo": "WallPortal",
                     "stars": 400
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "skydoves",
                     "repo": "Pokedex",
                     "stars": 8353
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -267,7 +283,8 @@
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
                     "stars": 1552
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -282,7 +299,8 @@
                     "owner": "flexbooru",
                     "repo": "flexbooru",
                     "stars": 911
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -297,7 +315,8 @@
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
                     "stars": 1817
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +331,8 @@
                     "owner": "ricknout",
                     "repo": "rugby-ranker",
                     "stars": 292
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +347,8 @@
                     "owner": "muzei",
                     "repo": "muzei",
                     "stars": 4940
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -341,8 +362,9 @@
                     "last_commit": "2025-05-11T03:26:43Z",
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2142
-                  }
+                    "stars": 2144
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -357,7 +379,8 @@
                     "owner": "SIKV",
                     "repo": "Photos",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -372,7 +395,8 @@
                     "owner": "zhan2046",
                     "repo": "awaker",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -387,7 +411,8 @@
                     "owner": "fibelatti",
                     "repo": "raffler-kotlin",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -402,7 +427,8 @@
                     "owner": "Shashank02051997",
                     "repo": "GitExplorer-Android",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -417,7 +443,8 @@
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
                     "stars": 1958
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -432,7 +459,8 @@
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
                     "stars": 1958
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +475,8 @@
                     "owner": "dangquanuet",
                     "repo": "The-Movie-DB-Kotlin",
                     "stars": 459
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -462,7 +491,8 @@
                     "owner": "mrcsxsiq",
                     "repo": "DroidNotes",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -476,8 +506,9 @@
                     "last_commit": "2023-06-02T16:19:16Z",
                     "owner": "moezbhatti",
                     "repo": "qksms",
-                    "stars": 4591
-                  }
+                    "stars": 4592
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -492,7 +523,8 @@
                     "owner": "alisonthemonster",
                     "repo": "Presently",
                     "stars": 420
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -507,7 +539,8 @@
                     "owner": "griddynamics-archive",
                     "repo": "Praxis",
                     "stars": 374
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -522,7 +555,8 @@
                     "owner": "lulululbj",
                     "repo": "wanandroid",
                     "stars": 1484
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -537,7 +571,8 @@
                     "owner": "tema6120",
                     "repo": "ForgetMeNot",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -552,7 +587,8 @@
                     "owner": "adityam49",
                     "repo": "Updoot",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -567,7 +603,8 @@
                     "owner": "reactivedroid",
                     "repo": "TvFlix",
                     "stars": 412
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -582,7 +619,8 @@
                     "owner": "b-lam",
                     "repo": "Resplash",
                     "stars": 688
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -597,7 +635,8 @@
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
                     "stars": 6385
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -612,7 +651,8 @@
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
                     "stars": 1842
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -627,7 +667,8 @@
                     "owner": "ashucoder1",
                     "repo": "Portfolio-App",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -642,7 +683,8 @@
                     "owner": "ImnIrdst",
                     "repo": "iiCnma",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -657,7 +699,8 @@
                     "owner": "amitshekhariitbhu",
                     "repo": "MVVM-Architecture-Android",
                     "stars": 666
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -672,7 +715,8 @@
                     "owner": "google",
                     "repo": "iosched",
                     "stars": 21646
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -687,7 +731,8 @@
                     "owner": "ApturiCOVID",
                     "repo": "apturicovid-android",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -702,7 +747,8 @@
                     "owner": "fevziomurtekin",
                     "repo": "DeezerClone",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -717,7 +763,8 @@
                     "owner": "calvinnor",
                     "repo": "MovieMan",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -732,7 +779,8 @@
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
                     "stars": 740
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -747,7 +795,8 @@
                     "owner": "flexbooru",
                     "repo": "flexbooru-ap",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -762,7 +811,8 @@
                     "owner": "mayokunadeniyi",
                     "repo": "Instant-Weather",
                     "stars": 763
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -777,7 +827,8 @@
                     "owner": "ryanrvldo",
                     "repo": "MovieCatalogue",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -792,7 +843,8 @@
                     "owner": "enginebai",
                     "repo": "MovieHunt",
                     "stars": 764
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -807,7 +859,8 @@
                     "owner": "ValterKasper",
                     "repo": "space-app",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -822,7 +875,8 @@
                     "owner": "xiprox",
                     "repo": "Upgur",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -837,7 +891,8 @@
                     "owner": "androiddevnotesforks",
                     "repo": "WallpaperApp_mvvm",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -852,7 +907,8 @@
                     "owner": "dievskiy",
                     "repo": "feedapp",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -867,7 +923,8 @@
                     "owner": "ZahraHeydari",
                     "repo": "MusicPlayer",
                     "stars": 626
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -882,7 +939,8 @@
                     "owner": "ganainy",
                     "repo": "our-chat",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -897,7 +955,8 @@
                     "owner": "sauravrao637",
                     "repo": "Kripto",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -912,7 +971,8 @@
                     "owner": "Ratheshan03",
                     "repo": "andriod-movie-collection-application",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -927,7 +987,8 @@
                     "owner": "Ratheshan03",
                     "repo": "android-arithmetic-game",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -942,7 +1003,8 @@
                     "owner": "qingmei2",
                     "repo": "MVVM-Architecture",
                     "stars": 1868
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -957,7 +1019,8 @@
                     "owner": "TheCodeMonks",
                     "repo": "NYTimes-App",
                     "stars": 513
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -972,7 +1035,8 @@
                     "owner": "mithun17",
                     "repo": "SimpleBible",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1051,8 @@
                     "owner": "PHELAT",
                     "repo": "Tedu",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1002,7 +1067,8 @@
                     "owner": "skydoves",
                     "repo": "Pokedex-AR",
                     "stars": 591
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1017,7 +1083,8 @@
                     "owner": "rizmaulana",
                     "repo": "kotlin-mvvm-covid19",
                     "stars": 439
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1032,7 +1099,8 @@
                     "owner": "PatilShreyas",
                     "repo": "Foodium",
                     "stars": 2324
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1047,7 +1115,8 @@
                     "owner": "ErickSumargo",
                     "repo": "Dads",
                     "stars": 243
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1062,7 +1131,8 @@
                     "owner": "YahiaAngelo",
                     "repo": "Noted-Android",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1077,7 +1147,8 @@
                     "owner": "vmadalin",
                     "repo": "android-modular-architecture",
                     "stars": 2435
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1092,7 +1163,8 @@
                     "owner": "nominalista",
                     "repo": "expenses",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1107,7 +1179,8 @@
                     "owner": "Sharkaboi",
                     "repo": "DrawingsApp",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1122,7 +1195,8 @@
                     "owner": "theapache64",
                     "repo": "topcorn",
                     "stars": 228
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1137,7 +1211,8 @@
                     "owner": "dheerajkotwani",
                     "repo": "GithubVisualizer",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1152,7 +1227,8 @@
                     "owner": "jianjunxiao",
                     "repo": "wanandroid",
                     "stars": 266
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1167,7 +1243,8 @@
                     "owner": "GerardBradshaw",
                     "repo": "MixUp",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1182,7 +1259,8 @@
                     "owner": "fabirt",
                     "repo": "roka-recipe-app",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1197,7 +1275,8 @@
                     "owner": "lmj0011",
                     "repo": "jetpack-release-tracker",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1212,7 +1291,8 @@
                     "owner": "androiddevnotesforks",
                     "repo": "Bitlue",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1227,7 +1307,8 @@
                     "owner": "Shivamdhuria",
                     "repo": "flows_guide",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1242,7 +1323,8 @@
                     "owner": "droidconKE",
                     "repo": "droidconKE2020App",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1257,7 +1339,8 @@
                     "owner": "OMIsie11",
                     "repo": "SpaceXFollower",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1272,7 +1355,8 @@
                     "owner": "GreyLabsDev",
                     "repo": "PexWalls",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1287,7 +1371,8 @@
                     "owner": "gs-ts",
                     "repo": "TrackMyPath",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1302,7 +1387,8 @@
                     "owner": "gs-ts",
                     "repo": "BitfinexClient",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1317,7 +1403,8 @@
                     "owner": "auron567",
                     "repo": "Gallerit",
                     "stars": 217
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1332,7 +1419,8 @@
                     "owner": "utsmannn",
                     "repo": "hiya-hiya-hiya",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1347,7 +1435,8 @@
                     "owner": "HariKulhari06",
                     "repo": "Covid-19-Tracker",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1362,7 +1451,8 @@
                     "owner": "CharlieChristensen",
                     "repo": "Cryptotracker",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1377,7 +1467,8 @@
                     "owner": "KumarManas04",
                     "repo": "NotesSync",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1392,7 +1483,8 @@
                     "owner": "commonpepper",
                     "repo": "Photosen",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1407,7 +1499,8 @@
                     "owner": "haroldadmin",
                     "repo": "MoonShot",
                     "stars": 163
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1422,7 +1515,8 @@
                     "owner": "Devansh-Maurya",
                     "repo": "PukaPuka",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1437,7 +1531,8 @@
                     "owner": "fionicholas",
                     "repo": "Football-App",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1452,7 +1547,8 @@
                     "owner": "edkluivert",
                     "repo": "Knote",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1467,7 +1563,8 @@
                     "owner": "idisfkj",
                     "repo": "AwesomeGithub",
                     "stars": 268
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1482,7 +1579,8 @@
                     "owner": "OMIsie11",
                     "repo": "CovidNow",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1497,7 +1595,8 @@
                     "owner": "satyamurti",
                     "repo": "LetsChat",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1512,7 +1611,8 @@
                     "owner": "sanmiAde",
                     "repo": "Yet_Another_Anime_List",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1527,7 +1627,8 @@
                     "owner": "bugcacher",
                     "repo": "PasswordVault",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1542,7 +1643,8 @@
                     "owner": "jnkforks",
                     "repo": "PokemonGo",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1557,7 +1659,8 @@
                     "owner": "andyb129",
                     "repo": "AppDevToolbox",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1572,7 +1675,8 @@
                     "owner": "KhaledSherifSayed",
                     "repo": "PopularPeople",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1587,7 +1691,8 @@
                     "owner": "weylar",
                     "repo": "Movie",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1602,7 +1707,8 @@
                     "owner": "Wiqaytna-app",
                     "repo": "wiqaytna_android",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1617,7 +1723,8 @@
                     "owner": "KevinGitonga",
                     "repo": "NewsFeed",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1632,7 +1739,8 @@
                     "owner": "KevinGitonga",
                     "repo": "TukoNewsClient",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1647,7 +1755,8 @@
                     "owner": "PhilippeBoisney",
                     "repo": "ArchApp",
                     "stars": 617
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1662,7 +1771,8 @@
                     "owner": "iammert",
                     "repo": "AppLocker",
                     "stars": 509
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1677,7 +1787,8 @@
                     "owner": "SoftwareEngineeringDaily",
                     "repo": "software-engineering-daily-android",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1692,7 +1803,8 @@
                     "owner": "asyncMars",
                     "repo": "Social-Note",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1707,7 +1819,8 @@
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
                     "stars": 564
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1722,7 +1835,8 @@
                     "owner": "rumaan",
                     "repo": "file.io-Android-Client",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 }
               ],
               "description": null,
@@ -1744,7 +1858,8 @@
                     "owner": "igorwojda",
                     "repo": "android-showcase",
                     "stars": 6789
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1759,7 +1874,8 @@
                     "owner": "akhilesh0707",
                     "repo": "Rick-and-Morty",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1774,7 +1890,8 @@
                     "owner": "VladimirWrites",
                     "repo": "BLTaxi",
                     "stars": 351
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1789,7 +1906,8 @@
                     "owner": "ferPrieto",
                     "repo": "SpaceX-prepare-for-Clean-Architecture-liftoff",
                     "stars": 750
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1804,7 +1922,8 @@
                     "owner": "akoufa",
                     "repo": "CoolWeather",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1819,7 +1938,8 @@
                     "owner": "bakharaalief",
                     "repo": "Slootnime-APP",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1829,12 +1949,13 @@
                   "repo_info": {
                     "archived": false,
                     "id": 115441256,
-                    "language": "GDScript",
-                    "last_commit": "2026-08-27T22:12:25Z",
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-28T14:31:22Z",
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
                     "stars": 1784
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1849,7 +1970,8 @@
                     "owner": "SmartToolFactory",
                     "repo": "PropertyFindAR",
                     "stars": 269
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1864,7 +1986,8 @@
                     "owner": "andremion",
                     "repo": "Theatre",
                     "stars": 640
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1879,7 +2002,8 @@
                     "owner": "happysingh23828",
                     "repo": "Android-Clean-Architecture",
                     "stars": 300
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1894,7 +2018,8 @@
                     "owner": "sansets",
                     "repo": "android-clean-architecture",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1909,7 +2034,8 @@
                     "owner": "odaridavid",
                     "repo": "Clean-MVVM-ArchComponents",
                     "stars": 682
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1924,7 +2050,8 @@
                     "owner": "HamdiBoumaiza",
                     "repo": "CoronavirusWorldStatus",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 }
               ],
               "description": null,
@@ -1953,7 +2080,8 @@
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
                     "stars": 293
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1968,7 +2096,8 @@
                     "owner": "mitchtabian",
                     "repo": "Open-API-Android-App",
                     "stars": 686
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1983,7 +2112,8 @@
                     "owner": "R4md4c",
                     "repo": "GameDealz",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -1998,7 +2128,8 @@
                     "owner": "HadySalhab",
                     "repo": "NewsFeed-MVI-Dagger",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 }
               ],
               "description": null,
@@ -2020,7 +2151,8 @@
                     "owner": "Ezike",
                     "repo": "StarWarsSearch-MVI",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -2035,7 +2167,8 @@
                     "owner": "lopspower",
                     "repo": "CleanRxArchitecture",
                     "stars": 383
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -2050,7 +2183,8 @@
                     "owner": "Ezike",
                     "repo": "Baking-App-Kotlin",
                     "stars": 457
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 },
                 {
                   "node_type": "item",
@@ -2065,7 +2199,8 @@
                     "owner": "mitchtabian",
                     "repo": "Clean-Notes",
                     "stars": 556
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:21.135Z"
                 }
               ],
               "description": null,
@@ -2092,7 +2227,8 @@
                 "owner": "ImangazalievM",
                 "repo": "UTair-MVP-Sample",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:28:21.135Z"
             }
           ],
           "description": null,
@@ -2117,8 +2253,9 @@
             "last_commit": "2026-08-09T11:06:54Z",
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36766
-          }
+            "stars": 36771
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         },
         {
           "node_type": "item",
@@ -2133,7 +2270,8 @@
             "owner": "Husseinfo",
             "repo": "countin",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         },
         {
           "node_type": "item",
@@ -2148,7 +2286,8 @@
             "owner": "aasif1297",
             "repo": "kotlinbaseproject",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         },
         {
           "node_type": "item",
@@ -2163,7 +2302,8 @@
             "owner": "BijoySingh",
             "repo": "Scarlet-Notes",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         },
         {
           "node_type": "item",
@@ -2178,7 +2318,8 @@
             "owner": "DimaBrody",
             "repo": "Screenaway",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         }
       ],
       "title": "Other"
@@ -2195,11 +2336,12 @@
             "archived": false,
             "id": 7968417,
             "language": "Java",
-            "last_commit": "2026-08-25T07:35:14Z",
+            "last_commit": "2026-08-28T17:55:25Z",
             "owner": "google",
             "repo": "dagger",
-            "stars": 17702
-          }
+            "stars": 17703
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         }
       ],
       "title": ":books: Tech Stack/Libraries"
@@ -2220,14 +2362,15 @@
             "owner": "androiddevnotes",
             "repo": "awesome-android-kotlin-apps",
             "stars": 2746
-          }
+          },
+          "first_seen": "2026-08-28T22:28:21.135Z"
         }
       ],
       "title": ":moyai: Core Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:25:36.551Z",
+    "last_updated": "2026-08-28T22:28:21.135Z",
     "original_repository_info": {
       "archived": false,
       "id": 276471933,
