@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
+                "homepage": null,
                 "id": 291133502,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2024-07-25T13:30:32Z",
+                "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1520
+                "stars": 1520,
+                "topics": [
+                  "accompanist",
+                  "android",
+                  "android-apps",
+                  "awesome",
+                  "beginner-friendly",
+                  "compose",
+                  "compose-ui",
+                  "coroutines",
+                  "first-issue",
+                  "flow",
+                  "hilt",
+                  "jetpack",
+                  "jetpack-compose",
+                  "kotlin",
+                  "livedata",
+                  "retrofit",
+                  "room",
+                  "viewmodel"
+                ]
               },
               "first_seen": "2026-08-28T22:28:21.135Z"
             },
@@ -28,12 +52,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BASIC JETPACK COMPOSE APP",
+                "homepage": null,
                 "id": 554803899,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-20T12:29:20Z",
+                "open_issues": 0,
                 "owner": "SSAHHC",
                 "repo": "DICE_ROLL_APP",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:21.135Z"
             },
@@ -44,12 +73,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jetpack compose android app based on Rick and Morty Graphql ",
+                "homepage": "https://rickandmortyapi.com/graphql",
                 "id": 381371743,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-04T09:45:41Z",
+                "open_issues": 0,
                 "owner": "a914-gowtham",
                 "repo": "RickNMortyCompose",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "android",
+                  "hilt-compose",
+                  "jetpack-android",
+                  "jetpack-compose",
+                  "jetpack-pagination",
+                  "morty-graphql-api"
+                ]
               },
               "first_seen": "2026-08-28T22:28:21.135Z"
             }
@@ -69,12 +110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Showly is a modern and slick Movies and TV Shows manager.",
+                    "homepage": "http://www.showlyapp.com",
                     "id": 203589756,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T02:42:36Z",
+                    "open_issues": 150,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1452
+                    "stars": 1452,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -85,12 +131,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build.",
+                    "homepage": null,
                     "id": 345422733,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T09:27:09Z",
+                    "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1898
+                    "stars": 1898,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-application",
+                      "animations",
+                      "app",
+                      "c",
+                      "interface",
+                      "java",
+                      "kotlin",
+                      "manager",
+                      "mvvm",
+                      "root",
+                      "shizuku",
+                      "terminal",
+                      "terminal-emulators",
+                      "tool",
+                      "ui",
+                      "utilities"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -101,12 +171,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vocable for Android",
+                    "homepage": "https://vocable.app",
                     "id": 188443410,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T17:23:57Z",
+                    "open_issues": 71,
                     "owner": "willowtreeapps",
                     "repo": "vocable-android",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "aac",
+                      "android",
+                      "arcore"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -117,12 +196,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kotlin multiplatform app to manage your tasks",
+                    "homepage": "https://igorescodro.github.io/alkaa/",
                     "id": 116942964,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T10:44:20Z",
+                    "open_issues": 15,
                     "owner": "igorescodro",
                     "repo": "alkaa",
-                    "stars": 1642
+                    "stars": 1642,
+                    "topics": [
+                      "android",
+                      "android-testing",
+                      "clean-architecture",
+                      "compose-ios",
+                      "compose-multiplatform",
+                      "coroutines-android",
+                      "hexagonal-architecture",
+                      "ios",
+                      "jetpack-compose",
+                      "kmp",
+                      "kotlin",
+                      "kotlin-multiplatform",
+                      "kotlin-multiplatform-mobile",
+                      "kotlin-multiplatform-sample",
+                      "modularization"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -133,12 +233,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RSS Reader for Android with article filtering and curation",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.phicdy.mycuration&hl=ja",
                     "id": 24188186,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-22T16:10:46Z",
+                    "open_issues": 46,
                     "owner": "phicdy",
                     "repo": "MyCuration",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "android-application",
+                      "curation",
+                      "filter",
+                      "rss-reader"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -149,12 +259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 571351948,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2024-11-02T23:20:27Z",
+                    "open_issues": 0,
                     "owner": "louis-fri",
                     "repo": "SoMovie",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -165,12 +280,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
+                    "homepage": "https://patilshreyas.github.io/NotyKT/",
                     "id": 303164275,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-23T02:23:34Z",
+                    "open_issues": 12,
                     "owner": "PatilShreyas",
                     "repo": "NotyKT",
-                    "stars": 1769
+                    "stars": 1769,
+                    "topics": [
+                      "android",
+                      "api",
+                      "backend",
+                      "coroutines",
+                      "coroutines-android",
+                      "dependency-injection",
+                      "flow",
+                      "hacktoberfest",
+                      "hilt-android",
+                      "jetpack-compose",
+                      "kotlin",
+                      "ktor",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "navigation-architecture-component",
+                      "rest-api",
+                      "retrofit2",
+                      "testing",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -181,12 +321,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nekome is an Android application to manage tracked Anime and Manga lists.",
+                    "homepage": null,
                     "id": 223272337,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-16T08:07:30Z",
+                    "open_issues": 23,
                     "owner": "Chesire",
                     "repo": "Nekome",
-                    "stars": 519
+                    "stars": 519,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-application",
+                      "anime",
+                      "anime-list",
+                      "anime-lists",
+                      "anime-tracker",
+                      "compose-ui",
+                      "hacktoberfest",
+                      "kitsu",
+                      "kotlin",
+                      "kotlin-android",
+                      "manga",
+                      "manga-list",
+                      "manga-lists",
+                      "manga-tracker",
+                      "mvvm-android",
+                      "track-anime"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -197,12 +361,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plees Tracker is a simple sleep tracker for your Android phone.",
+                    "homepage": "https://vmiklos.hu/plees-tracker/",
                     "id": 229804414,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T22:01:06Z",
+                    "open_issues": 25,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
-                    "stars": 227
+                    "stars": 227,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "sleep",
+                      "tracker"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -213,12 +387,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.",
+                    "homepage": null,
                     "id": 66190491,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-28T11:22:07Z",
+                    "open_issues": 24,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3954
+                    "stars": 3955,
+                    "topics": [
+                      "android",
+                      "apk",
+                      "apkmirror",
+                      "aptoide",
+                      "f-droid",
+                      "flow",
+                      "google",
+                      "gplv3",
+                      "installer",
+                      "java",
+                      "jetpack-compose",
+                      "kotlin",
+                      "material-design-3",
+                      "open-source",
+                      "play",
+                      "play-store",
+                      "updater",
+                      "workmanager"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -229,12 +427,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A currency tracker app demonstration. It refreshes currency list every single second based on the main currency. In addition to that, main currency is selectable.",
+                    "homepage": null,
                     "id": 252193036,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T22:29:20Z",
+                    "open_issues": 1,
                     "owner": "nuhkoca",
                     "repo": "libbra",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "android",
+                      "architecture-components",
+                      "bindingadapter",
+                      "coil",
+                      "dagger2",
+                      "kotlin",
+                      "lifecycle-components",
+                      "navigation-architecture-component",
+                      "retrofit2",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -245,12 +459,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal Wallpapers for Android using Kotlin+Compose+MVVM+Hilt+Coroutines+Jetpack(Room, Paging, Navigation)",
+                    "homepage": null,
                     "id": 204511323,
                     "language": "Kotlin",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-01-15T20:55:52Z",
+                    "open_issues": 0,
                     "owner": "zedlabs",
                     "repo": "WallPortal",
-                    "stars": 400
+                    "stars": 400,
+                    "topics": [
+                      "android",
+                      "android-studio",
+                      "coroutines",
+                      "coroutines-flow",
+                      "hacktoberfest",
+                      "jetpack",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-android",
+                      "mvvm",
+                      "paging3",
+                      "room-persistence-library",
+                      "ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -261,12 +494,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+                    "homepage": null,
                     "id": 268501098,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T17:06:10Z",
+                    "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8353
+                    "stars": 8353,
+                    "topics": [
+                      "android",
+                      "coroutines",
+                      "hilt",
+                      "jetpack-android",
+                      "kotlin",
+                      "motion",
+                      "mvvm",
+                      "mvvm-architecture",
+                      "pokedex",
+                      "pokemon",
+                      "skydoves"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -277,12 +527,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation",
+                    "homepage": null,
                     "id": 230355242,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2024-01-25T05:22:02Z",
+                    "open_issues": 32,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1552
+                    "stars": 1552,
+                    "topics": [
+                      "android",
+                      "architecture-components",
+                      "hacktoberfest",
+                      "koin",
+                      "kotlin",
+                      "livedata",
+                      "navigation",
+                      "room",
+                      "viewbinding",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -293,12 +559,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.",
+                    "homepage": null,
                     "id": 169015965,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-16T16:40:28Z",
+                    "open_issues": 36,
                     "owner": "flexbooru",
                     "repo": "flexbooru",
-                    "stars": 911
+                    "stars": 911,
+                    "topics": [
+                      "android",
+                      "booru",
+                      "danbooru",
+                      "gelbooru",
+                      "imageboard",
+                      "moebooru",
+                      "muzei",
+                      "saucenao",
+                      "whatanime"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -309,12 +590,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native Android app for Habitica",
+                    "homepage": null,
                     "id": 31075682,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T01:13:46Z",
+                    "open_issues": 9,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1817
+                    "stars": 1817,
+                    "topics": [
+                      "android",
+                      "android-studio",
+                      "coroutines",
+                      "habitica",
+                      "hacktoberfest",
+                      "java",
+                      "kotlin",
+                      "kotlin-android",
+                      "realm",
+                      "wearable",
+                      "wearos"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -325,12 +623,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app for viewing and predicting the latest World Rugby rankings 🏉",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.ricknout.rugbyranker",
                     "id": 150327538,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-31T14:00:25Z",
+                    "open_issues": 6,
                     "owner": "ricknout",
                     "repo": "rugby-ranker",
-                    "stars": 292
+                    "stars": 292,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "prediction",
+                      "rugby"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -341,12 +649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Muzei Live Wallpaper for Android",
+                    "homepage": "http://muzei.co",
                     "id": 16598287,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T00:41:47Z",
+                    "open_issues": 39,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4940
+                    "stars": 4940,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -357,12 +670,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Android Jetpack 组件 + Kotlin 协程实现的 MVVM 架构。",
+                    "homepage": "http://vipyinzhiwei.com/2020/06/19/pager05",
                     "id": 259029682,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-11T03:26:43Z",
+                    "open_issues": 4,
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2144
+                    "stars": 2144,
+                    "topics": [
+                      "android",
+                      "android-jetpack",
+                      "appstartup",
+                      "coroutines",
+                      "databinding",
+                      "datastore",
+                      "kotlin",
+                      "livedata-viewmodel",
+                      "mvvm",
+                      "mvvm-architecture",
+                      "paging3",
+                      "vipyinzhiwei"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -373,12 +704,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Browse, search, download, and share amazing free photos provided by talented photographers.",
+                    "homepage": null,
                     "id": 134945823,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-03-19T14:16:20Z",
+                    "open_issues": 9,
                     "owner": "SIKV",
                     "repo": "Photos",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": [
+                      "android",
+                      "android-architecture-components",
+                      "android-jetpack",
+                      "firebase-firestore",
+                      "firebase-remote-config",
+                      "hilt",
+                      "jetpack-compose",
+                      "kotlin-coroutines",
+                      "material-components",
+                      "meterial-design",
+                      "ml-kit",
+                      "paging3",
+                      "retrofit",
+                      "room"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -389,12 +740,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "article app for android",
+                    "homepage": null,
                     "id": 96447778,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-18T12:18:14Z",
+                    "open_issues": 0,
                     "owner": "zhan2046",
                     "repo": "awaker",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": [
+                      "android",
+                      "architecture",
+                      "material-design"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -405,12 +765,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A raffling app developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM",
+                    "homepage": null,
                     "id": 150627681,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-08-05T23:17:19Z",
+                    "open_issues": 0,
                     "owner": "fibelatti",
                     "repo": "raffler-kotlin",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "android",
+                      "androidx",
+                      "clean-architecture",
+                      "coroutines",
+                      "coroutines-android",
+                      "dagger2",
+                      "detekt",
+                      "jetpack",
+                      "kotlin",
+                      "ktlint",
+                      "mvvm"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -421,12 +798,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Find the right git commands 🔥 without digging through the web.😊😊😉",
+                    "homepage": null,
                     "id": 273072888,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2024-06-11T05:33:07Z",
+                    "open_issues": 0,
                     "owner": "Shashank02051997",
                     "repo": "GitExplorer-Android",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "git",
+                      "gitcommands",
+                      "kotlin",
+                      "kotlin-android",
+                      "material-design",
+                      "material-ui",
+                      "productivity",
+                      "productivity-booster",
+                      "productivity-tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -437,12 +831,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk",
+                    "homepage": null,
                     "id": 34847604,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-24T22:01:02Z",
+                    "open_issues": 40,
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
-                    "stars": 1958
+                    "stars": 1958,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -453,12 +852,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk",
+                    "homepage": null,
                     "id": 34847604,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-24T22:01:02Z",
+                    "open_issues": 40,
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
-                    "stars": 1958
+                    "stars": 1958,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -469,12 +873,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Movie DB app using Kotlin with updated Android features",
+                    "homepage": null,
                     "id": 127717732,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-14T03:51:34Z",
+                    "open_issues": 1,
                     "owner": "dangquanuet",
                     "repo": "The-Movie-DB-Kotlin",
-                    "stars": 459
+                    "stars": 459,
+                    "topics": [
+                      "android",
+                      "androidx",
+                      "architecture-components",
+                      "coroutines",
+                      "glide",
+                      "hilt",
+                      "jetpack",
+                      "kotlin",
+                      "movie-db-kotlin",
+                      "mvvm",
+                      "navigation",
+                      "paging3",
+                      "retrofit2",
+                      "room"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -485,12 +909,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📝   Note List app based on MVVM architecture (ViewModel, LiveData, Coroutines, Room and Jetpack Compose)",
+                    "homepage": null,
                     "id": 387312753,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-19T16:07:30Z",
+                    "open_issues": 0,
                     "owner": "mrcsxsiq",
                     "repo": "DroidNotes",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "android",
+                      "architecture-components",
+                      "compose",
+                      "coroutines",
+                      "demo",
+                      "grpc",
+                      "hacktoberfest",
+                      "jetpack",
+                      "jetpack-compose",
+                      "livedata",
+                      "mvvm",
+                      "offline-first",
+                      "protobuf",
+                      "reactive",
+                      "room",
+                      "sample",
+                      "unit-testing",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -501,12 +949,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The most beautiful SMS messenger for Android",
+                    "homepage": "https://qklabs.com/download",
                     "id": 31138452,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-06-02T16:19:16Z",
+                    "open_issues": 525,
                     "owner": "moezbhatti",
                     "repo": "qksms",
-                    "stars": 4592
+                    "stars": 4592,
+                    "topics": [
+                      "android",
+                      "dagger2",
+                      "kotlin",
+                      "material-design",
+                      "messaging",
+                      "mvi",
+                      "mvvm",
+                      "qksms",
+                      "rxjava2",
+                      "sms"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -517,12 +981,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app for recording gratitude journal entries -- over 1 million installs, contribute today!",
+                    "homepage": null,
                     "id": 162841152,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-08-17T04:28:10Z",
+                    "open_issues": 25,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
-                    "stars": 420
+                    "stars": 420,
+                    "topics": [
+                      "android",
+                      "architecture-components",
+                      "circleci",
+                      "dropbox-sdk",
+                      "firebase",
+                      "firebase-test-lab",
+                      "hilt",
+                      "instrumented-tests",
+                      "jacoco",
+                      "kotlin",
+                      "mobile",
+                      "room",
+                      "room-persistence-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -533,12 +1016,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example Android project using MVVM, DaggerAndroid, Jetpack Compose, Retrofit, Coroutines and Multi module architecture ✌🏽",
+                    "homepage": null,
                     "id": 221002551,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-12T12:45:07Z",
+                    "open_issues": 12,
                     "owner": "griddynamics-archive",
                     "repo": "Praxis",
-                    "stars": 374
+                    "stars": 374,
+                    "topics": [
+                      "android",
+                      "androidx",
+                      "corou",
+                      "dagger2",
+                      "dagger2-android",
+                      "databinding",
+                      "jetpack-components",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-android",
+                      "mvvm",
+                      "rxjava",
+                      "rxjava-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -549,12 +1051,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Jetpack MVVM For Wanandroid 最佳实践 ！",
+                    "homepage": "https://juejin.im/post/5cb473e66fb9a068af37a6ce",
                     "id": 124984027,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-02-18T10:48:06Z",
+                    "open_issues": 8,
                     "owner": "lulululbj",
                     "repo": "wanandroid",
-                    "stars": 1484
+                    "stars": 1484,
+                    "topics": [
+                      "coroutines",
+                      "databinding",
+                      "jetpack",
+                      "kotlin",
+                      "kotlin-mvvm-livedata",
+                      "lifecycle",
+                      "livedata",
+                      "mvvm",
+                      "viewmodel",
+                      "wanandroid"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -565,12 +1083,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A flashcard app for Android.",
+                    "homepage": null,
                     "id": 187454982,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-23T09:15:03Z",
+                    "open_issues": 30,
                     "owner": "tema6120",
                     "repo": "ForgetMeNot",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": [
+                      "android",
+                      "anki",
+                      "coroutines-flow",
+                      "deck",
+                      "education",
+                      "flashcards",
+                      "kotlin",
+                      "learning",
+                      "memorization",
+                      "spaced-repetition",
+                      "sqldelight",
+                      "tts"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -581,12 +1117,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A reddit client built for android ",
+                    "homepage": null,
                     "id": 186289445,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-18T17:12:43Z",
+                    "open_issues": 0,
                     "owner": "adityam49",
                     "repo": "Updoot",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "android",
+                      "hilt",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "mvvm",
+                      "oauth",
+                      "reddit",
+                      "room-persistence-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -597,12 +1148,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TvFlix android app using Dagger Hilt, Coroutines, Compose, Flow, KTX, Jetpack(Room, ViewModel, Paging3, Lifecycle) based on MVVM with clean code architecture purely written in Kotlin",
+                    "homepage": "https://reactivedroid.github.io/TvFlix/",
                     "id": 98877626,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-06-19T18:28:21Z",
+                    "open_issues": 0,
                     "owner": "reactivedroid",
                     "repo": "TvFlix",
-                    "stars": 412
+                    "stars": 412,
+                    "topics": [
+                      "android-architecture-components",
+                      "checkstyle",
+                      "clean-architecture",
+                      "clean-code",
+                      "codeanalysis",
+                      "coroutines",
+                      "databinding",
+                      "espresso-tests",
+                      "hilt-android",
+                      "jetpack-lifecycle-components",
+                      "jetpack-pagination",
+                      "jetpack-room",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "kotlin-dsl",
+                      "mockito",
+                      "mvvm-architechure",
+                      "pmd",
+                      "retrofit2",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -613,12 +1190,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial Unsplash Android App",
+                    "homepage": null,
                     "id": 69628893,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-05-15T21:18:22Z",
+                    "open_issues": 50,
                     "owner": "b-lam",
                     "repo": "Resplash",
-                    "stars": 688
+                    "stars": 688,
+                    "topics": [
+                      "android",
+                      "photos",
+                      "unsplash"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -629,12 +1215,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": " ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android",
+                    "homepage": "https://github.com/mozilla-mobile/firefox-android",
                     "id": 126314606,
                     "language": "Kotlin",
+                    "license": "MPL-2.0",
                     "last_commit": "2023-02-20T10:15:34Z",
+                    "open_issues": 0,
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6385
+                    "stars": 6385,
+                    "topics": [
+                      "android",
+                      "browser",
+                      "firefox",
+                      "mozilla"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -645,12 +1241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ":warning: This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. It is now developed and maintained as part of Mozilla Central. See the announcement here: https://github.com/mozilla-mobile/firefox-android/wiki#upcoming-migration-to-mozilla-central. ”",
+                    "homepage": "https://github.com/mozilla-mobile/firefox-android/wiki#upcoming-migration-to-mozilla-central",
                     "id": 518992906,
                     "language": "Kotlin",
+                    "license": "MPL-2.0",
                     "last_commit": "2024-06-17T05:22:36Z",
+                    "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1842
+                    "stars": 1842,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -661,12 +1262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 569772080,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2023-02-14T14:16:52Z",
+                    "open_issues": 1,
                     "owner": "ashucoder1",
                     "repo": "Portfolio-App",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -677,12 +1283,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A playground android app, showcasing the latest technologies and architectures using the Movie Database APIs.",
+                    "homepage": null,
                     "id": 312205870,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2023-02-09T01:02:02Z",
+                    "open_issues": 12,
                     "owner": "ImnIrdst",
                     "repo": "iiCnma",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "android",
+                      "clean-architecture",
+                      "coroutine",
+                      "coroutines-flow",
+                      "hilt",
+                      "mockk",
+                      "mvvm",
+                      "navigation-component",
+                      "paging3"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -693,12 +1314,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MVVM architecture using Kotlin, Dagger, Retrofit, Coroutines, Flow, StateFlow, and etc.",
+                    "homepage": "https://outcomeschool.com/blog/mvvm-architecture-android",
                     "id": 244892943,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-01-28T09:30:10Z",
+                    "open_issues": 2,
                     "owner": "amitshekhariitbhu",
                     "repo": "MVVM-Architecture-Android",
-                    "stars": 666
+                    "stars": 666,
+                    "topics": [
+                      "android",
+                      "android-architecture",
+                      "coroutines",
+                      "dagger2",
+                      "flow",
+                      "kotlin",
+                      "mvvm",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "retrofit",
+                      "stateflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -709,12 +1347,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The Google I/O Android App",
+                    "homepage": null,
                     "id": 18347476,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-01-05T18:35:51Z",
+                    "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21646
+                    "stars": 21646,
+                    "topics": [
+                      "android",
+                      "architecture",
+                      "conference",
+                      "coroutines",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -725,12 +1374,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apturi Covid Android lietotne",
+                    "homepage": "https://apturicovid.lv",
                     "id": 275109884,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-12-07T19:02:12Z",
+                    "open_issues": 8,
                     "owner": "ApturiCOVID",
                     "repo": "apturicovid-android",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "apturicovid",
+                      "covid-19",
+                      "exposure-notification"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -741,12 +1399,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This Application using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData),Navigation based on MVVM architecture. ",
+                    "homepage": null,
                     "id": 298590204,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-26T15:35:10Z",
+                    "open_issues": 6,
                     "owner": "fevziomurtekin",
                     "repo": "DeezerClone",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": [
+                      "android",
+                      "coroutine",
+                      "coroutines",
+                      "databind",
+                      "flow",
+                      "jetpack",
+                      "kotlin",
+                      "kotlin-serialization",
+                      "livedata",
+                      "mockito-kotlin",
+                      "mockk",
+                      "mvvm",
+                      "navigation",
+                      "retorofit2",
+                      "robolectric",
+                      "room",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -757,12 +1438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source Android app for viewing Movies / TV information.",
+                    "homepage": null,
                     "id": 162825214,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-11-13T14:53:29Z",
+                    "open_issues": 1,
                     "owner": "calvinnor",
                     "repo": "MovieMan",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -773,12 +1459,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Change Detection - Automatically track websites changes on Android in background.",
+                    "homepage": null,
                     "id": 135081469,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-27T14:59:10Z",
+                    "open_issues": 29,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
-                    "stars": 740
+                    "stars": 740,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-application",
+                      "androidx",
+                      "architecture-components",
+                      "carousel",
+                      "dagger2",
+                      "diff",
+                      "jsoup",
+                      "kotlin",
+                      "kotlin-android",
+                      "livedata",
+                      "material-design",
+                      "meyer",
+                      "paging-library",
+                      "pdf",
+                      "room",
+                      "room-persistence-library",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -789,12 +1500,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An anime-pictures.net client for Android.",
+                    "homepage": null,
                     "id": 187999235,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-10-25T02:29:55Z",
+                    "open_issues": 4,
                     "owner": "flexbooru",
                     "repo": "flexbooru-ap",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "anime-pictures",
+                      "booru",
+                      "imageboard",
+                      "muzei"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -805,12 +1526,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android weather application implemented using the MVVM pattern, Retrofit2, Dagger Hilt, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the Android Jetpack.",
+                    "homepage": null,
                     "id": 236161392,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-07-11T01:05:00Z",
+                    "open_issues": 13,
                     "owner": "mayokunadeniyi",
                     "repo": "Instant-Weather",
-                    "stars": 763
+                    "stars": 763,
+                    "topics": [
+                      "algolia-instantsearch",
+                      "coroutines-android",
+                      "dagger-hilt",
+                      "databinding",
+                      "dependency-injection",
+                      "livedata",
+                      "material-design",
+                      "mvvm-pattern",
+                      "navigation-architecture-component",
+                      "paging-library",
+                      "retrofit2",
+                      "room-persistence-library",
+                      "timber"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -821,12 +1561,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 205725206,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2022-09-12T13:32:46Z",
+                    "open_issues": 0,
                     "owner": "ryanrvldo",
                     "repo": "MovieCatalogue",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "android",
+                      "rest-api",
+                      "tmdb-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -837,12 +1586,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Movie Android App written in Kotlin, MVVM, RxJava, Jetpack Compose (implementing), Android Architecture Components and Coroutine (Upcoming).",
+                    "homepage": "https://medium.com/@enginebai/moviehunt-part-1-b96288b1f3df",
                     "id": 32935880,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2022-07-29T06:45:17Z",
+                    "open_issues": 5,
                     "owner": "enginebai",
                     "repo": "MovieHunt",
-                    "stars": 764
+                    "stars": 764,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-application",
+                      "android-architecture-components",
+                      "coroutines",
+                      "jetpack-compose",
+                      "kotlin",
+                      "kotlin-android",
+                      "movie",
+                      "mvvm",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "room",
+                      "rxjava"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -853,12 +1622,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application.",
+                    "homepage": null,
                     "id": 253570488,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-07-23T10:10:21Z",
+                    "open_issues": 1,
                     "owner": "ValterKasper",
                     "repo": "space-app",
-                    "stars": 149
+                    "stars": 149,
+                    "topics": [
+                      "android",
+                      "architecture",
+                      "coroutines",
+                      "dagger"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -869,12 +1648,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A very simple offline-first Imgur client app",
+                    "homepage": null,
                     "id": 179170249,
                     "language": "Kotlin",
+                    "license": "Unlicense",
                     "last_commit": "2022-07-19T11:10:11Z",
+                    "open_issues": 1,
                     "owner": "xiprox",
                     "repo": "Upgur",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "android",
+                      "imgur",
+                      "imgur-api",
+                      "jetpack",
+                      "jetpack-android",
+                      "jetpack-lifecycle-components",
+                      "jetpack-navigation",
+                      "jetpack-workmanager",
+                      "offline-first"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -885,12 +1679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "App for viewing and downloading wallpapers",
+                    "homepage": null,
                     "id": 536806081,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-06-05T13:44:46Z",
+                    "open_issues": 0,
                     "owner": "androiddevnotesforks",
                     "repo": "WallpaperApp_mvvm",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -901,12 +1700,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Calorie tracker for android that supports recipes and products search. ",
+                    "homepage": null,
                     "id": 242202715,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-05-28T07:24:03Z",
+                    "open_issues": 0,
                     "owner": "dievskiy",
                     "repo": "feedapp",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -917,12 +1721,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer",
+                    "homepage": null,
                     "id": 224468018,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-05-19T19:21:57Z",
+                    "open_issues": 4,
                     "owner": "ZahraHeydari",
                     "repo": "MusicPlayer",
-                    "stars": 626
+                    "stars": 626,
+                    "topics": [
+                      "android-application",
+                      "clean-architecture",
+                      "coil-kotlin",
+                      "exoplayer",
+                      "koin",
+                      "livedata",
+                      "livedata-viewmodel",
+                      "mockito",
+                      "mockito-kotlin",
+                      "musicplayer",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "mvvm-pattern",
+                      "notifications",
+                      "player",
+                      "player-service",
+                      "playlist",
+                      "room-database",
+                      "unit-testing",
+                      "unittesting"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -933,12 +1763,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-time chat application with user authentication, private messaging, group chat, notifications, audio and image sharing. Built using React, Node.js, Kotlin MVVM, and Firebase (Firestore, Auth, Storage, Cloud Messaging). Includes Facebook login, rich media support, and real-time updates.",
+                    "homepage": null,
                     "id": 236772673,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-11-23T23:46:05Z",
+                    "open_issues": 0,
                     "owner": "ganainy",
                     "repo": "our-chat",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "audio-sharing",
+                      "chat-application",
+                      "cloud-functions",
+                      "cloud-messaging",
+                      "download-manager",
+                      "file-sharing",
+                      "firebase-auth",
+                      "firebase-database",
+                      "firebase-storage",
+                      "kotlin",
+                      "mvvm",
+                      "notification-service"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -949,12 +1797,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kripto - A Cryptocurrency app for Android.",
+                    "homepage": null,
                     "id": 362491233,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-04-21T12:22:45Z",
+                    "open_issues": 0,
                     "owner": "sauravrao637",
                     "repo": "Kripto",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "android-app",
+                      "android-studio",
+                      "cryptocurrency",
+                      "kotlin-android",
+                      "mvvm",
+                      "opensource"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -965,12 +1825,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 482318423,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-04-19T17:56:22Z",
+                    "open_issues": 0,
                     "owner": "Ratheshan03",
                     "repo": "andriod-movie-collection-application",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "android-development",
+                      "json",
+                      "kotlin",
+                      "movies-api",
+                      "ombd-api",
+                      "room-database",
+                      "sqllite",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -981,12 +1855,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 472554605,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-04-16T17:14:36Z",
+                    "open_issues": 0,
                     "owner": "Ratheshan03",
                     "repo": "android-arithmetic-game",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "android-application",
+                      "androidstudio",
+                      "calculation",
+                      "kotlin",
+                      "kotlin-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -997,12 +1882,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The practice of MVVM + Jetpack architecture in Android.",
+                    "homepage": null,
                     "id": 106916945,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-04-07T01:51:37Z",
+                    "open_issues": 5,
                     "owner": "qingmei2",
                     "repo": "MVVM-Architecture",
-                    "stars": 1868
+                    "stars": 1868,
+                    "topics": [
+                      "android",
+                      "android-jetpack",
+                      "android-paging",
+                      "dagger-hilt",
+                      "hilt",
+                      "kotlin",
+                      "lifecycle",
+                      "mvvm",
+                      "mvvm-architecture",
+                      "navigation",
+                      "rxjava",
+                      "rxjava-bindings"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1013,12 +1916,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥",
+                    "homepage": null,
                     "id": 278958324,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2022-03-13T11:13:20Z",
+                    "open_issues": 4,
                     "owner": "TheCodeMonks",
                     "repo": "NYTimes-App",
-                    "stars": 513
+                    "stars": 513,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "android-architecture",
+                      "android-development",
+                      "coroutines",
+                      "hacktoberfest",
+                      "jetpack-android",
+                      "jetpack-datastore",
+                      "jetpack-navigation",
+                      "jsoup-android",
+                      "kotlin",
+                      "kotlin-android",
+                      "livedata",
+                      "material-design",
+                      "material-ui",
+                      "mvvm-android",
+                      "recyclerview",
+                      "room-persistence-library",
+                      "viewmodel",
+                      "webscraping"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1029,12 +1958,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Bible is a light weight Bible app that lets you read the Bible, take notes, bookmark them and share with your friends.",
+                    "homepage": null,
                     "id": 315563631,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2025-06-24T06:48:18Z",
+                    "open_issues": 2,
                     "owner": "mithun17",
                     "repo": "SimpleBible",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "android"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1045,12 +1981,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Todo app but minimal, open-source, and free.",
+                    "homepage": null,
                     "id": 233813860,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-02-16T22:12:01Z",
+                    "open_issues": 5,
                     "owner": "PHELAT",
                     "repo": "Tedu",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "android",
+                      "architecture",
+                      "clean-architecture",
+                      "coroutines",
+                      "dagger-android",
+                      "dagger2",
+                      "googleplay",
+                      "minimal",
+                      "modular",
+                      "mvvm",
+                      "navigation",
+                      "navigation-architecture-component",
+                      "navigation-component",
+                      "todo",
+                      "todoapp",
+                      "todolist"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1061,12 +2019,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🦄 Pokedex-AR demonstrates ARCore, Sceneform, and modern Android tech stacks — such as Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+                    "homepage": null,
                     "id": 321092589,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-01-10T15:02:20Z",
+                    "open_issues": 0,
                     "owner": "skydoves",
                     "repo": "Pokedex-AR",
-                    "stars": 591
+                    "stars": 591,
+                    "topics": [
+                      "android",
+                      "android-ar",
+                      "ar",
+                      "arcore",
+                      "coroutines",
+                      "hilt",
+                      "jetpack-android",
+                      "kotlin",
+                      "mvvm",
+                      "pokedex",
+                      "pokemon",
+                      "sceneform",
+                      "skydoves"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1077,12 +2054,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains simple COVID19 data monitoring with android stack MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, etc",
+                    "homepage": null,
                     "id": 245557715,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-12-22T03:19:02Z",
+                    "open_issues": 10,
                     "owner": "rizmaulana",
                     "repo": "kotlin-mvvm-covid19",
-                    "stars": 439
+                    "stars": 439,
+                    "topics": [
+                      "covid19",
+                      "koin",
+                      "kotlin",
+                      "livedata",
+                      "mvvm-architecture",
+                      "rxbinding",
+                      "rxjava2"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1093,12 +2083,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).",
+                    "homepage": "https://patilshreyas.github.io/Foodium/",
                     "id": 247669052,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-03-20T03:03:16Z",
+                    "open_issues": 5,
                     "owner": "PatilShreyas",
                     "repo": "Foodium",
-                    "stars": 2324
+                    "stars": 2324,
+                    "topics": [
+                      "android",
+                      "android-architecture-components",
+                      "coroutines",
+                      "coroutines-android",
+                      "dagger2-android",
+                      "flow",
+                      "hacktoberfest",
+                      "hilt-android",
+                      "kotlin",
+                      "kotlin-android",
+                      "livedata",
+                      "livedata-viewmodel",
+                      "material-components",
+                      "moshi",
+                      "mvvm",
+                      "mvvm-android",
+                      "retrofit2",
+                      "room",
+                      "room-persistence-library",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1109,12 +2125,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "*BA DUM TSSS*",
+                    "homepage": null,
                     "id": 325042307,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-11-14T04:24:50Z",
+                    "open_issues": 1,
                     "owner": "ErickSumargo",
                     "repo": "Dads",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": [
+                      "androidx",
+                      "apollo-graphql",
+                      "clean-architecture",
+                      "dad-jokes",
+                      "firebase",
+                      "javapoet",
+                      "jetpack",
+                      "kotlin",
+                      "kotlin-gradle-dsl",
+                      "kotlin-multiplatform",
+                      "leakcanary",
+                      "lottie",
+                      "mvvm",
+                      "sqldelight",
+                      "truth",
+                      "unidirectional-data-flow"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1125,12 +2163,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Noted app for android ",
+                    "homepage": null,
                     "id": 258321716,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-10-26T19:40:22Z",
+                    "open_issues": 4,
                     "owner": "YahiaAngelo",
                     "repo": "Noted-Android",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": [
+                      "android-app",
+                      "material-components",
+                      "mvvm",
+                      "notes",
+                      "realm-database"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1141,12 +2190,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.",
+                    "homepage": "https://proandroiddev.com/android-components-architecture-in-a-modular-word-7414a0631969",
                     "id": 192786158,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-23T18:06:03Z",
+                    "open_issues": 5,
                     "owner": "vmadalin",
                     "repo": "android-modular-architecture",
-                    "stars": 2435
+                    "stars": 2435,
+                    "topics": [
+                      "android",
+                      "android-architecture",
+                      "android-boilerplate",
+                      "android-showcase",
+                      "architecture",
+                      "best-practices",
+                      "clean-architecture",
+                      "clean-code",
+                      "component-architecture",
+                      "dynamic-features",
+                      "gradle-kotlin-dsl",
+                      "hacktoberfest",
+                      "jetpack",
+                      "kotlin",
+                      "modern-android-development",
+                      "modular-architecture",
+                      "mvvm-architecture",
+                      "solid",
+                      "solid-principles",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1157,12 +2232,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "App written in Kotlin for budget tracking.",
+                    "homepage": null,
                     "id": 134851634,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-07-20T20:16:25Z",
+                    "open_issues": 16,
                     "owner": "nominalista",
                     "repo": "expenses",
-                    "stars": 403
+                    "stars": 403,
+                    "topics": [
+                      "android",
+                      "expenses",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1173,12 +2257,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An app to add and manage floor plan drawings with markers.",
+                    "homepage": null,
                     "id": 290499661,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-07-20T04:12:18Z",
+                    "open_issues": 1,
                     "owner": "Sharkaboi",
                     "repo": "DrawingsApp",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "coil",
+                      "constraint-layout",
+                      "coroutines",
+                      "hilt",
+                      "imagepicker",
+                      "kotlin",
+                      "ktx",
+                      "leakcanary",
+                      "mdc-android",
+                      "mvvm",
+                      "room",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1189,12 +2291,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools.",
+                    "homepage": null,
                     "id": 256630741,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-06-12T19:05:01Z",
+                    "open_issues": 4,
                     "owner": "theapache64",
                     "repo": "topcorn",
-                    "stars": 228
+                    "stars": 228,
+                    "topics": [
+                      "android-jetpack-components",
+                      "android-lifecycle",
+                      "coroutines",
+                      "dagger2",
+                      "imdb",
+                      "jaba",
+                      "kotlin",
+                      "kotlin-flow",
+                      "moshi",
+                      "mvvm",
+                      "retrofit",
+                      "room-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1205,12 +2325,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📲  Android Application to track any user activity on Github built using the Github Developers API. Used Retrofit to fetch data and MVVM Architecture.",
+                    "homepage": "https://play.google.com/store/apps/details?id=project.dheeraj.githubvisualizer",
                     "id": 265686465,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-04-21T11:44:11Z",
+                    "open_issues": 1,
                     "owner": "dheerajkotwani",
                     "repo": "GithubVisualizer",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "android",
+                      "coroutine",
+                      "flow",
+                      "github-api",
+                      "kotlin",
+                      "livedata",
+                      "livedata-viewmodel",
+                      "material-components",
+                      "mvvm",
+                      "room"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1221,12 +2357,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JetPack Compose实现的Wanandroid客户端",
+                    "homepage": null,
                     "id": 226853069,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-05-22T09:26:36Z",
+                    "open_issues": 0,
                     "owner": "jianjunxiao",
                     "repo": "wanandroid",
-                    "stars": 266
+                    "stars": 266,
+                    "topics": [
+                      "compose-nav3",
+                      "compose-ui",
+                      "coroutines",
+                      "daynight",
+                      "jetpack",
+                      "kotlin",
+                      "room",
+                      "viewmodel",
+                      "wanandroid"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1237,12 +2388,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app for creating photo collages. This app demonstrates NavigationUI, Espresso testing, Robolectric testing, custom views, low-level UI manipulation, and more.",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.gerardbradshaw.v2mixup",
                     "id": 281242086,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-23T00:28:29Z",
+                    "open_issues": 1,
                     "owner": "GerardBradshaw",
                     "repo": "MixUp",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "collage",
+                      "custom-views",
+                      "editor",
+                      "espresso",
+                      "mvvm",
+                      "navigation-ui",
+                      "photo",
+                      "robolectric"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1253,12 +2418,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android recipes search App",
+                    "homepage": null,
                     "id": 282489397,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-03-22T17:06:22Z",
+                    "open_issues": 0,
                     "owner": "fabirt",
                     "repo": "roka-recipe-app",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "android",
+                      "android-kotlin",
+                      "kotlin",
+                      "learning-by-doing",
+                      "personal-project",
+                      "recipes-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1269,12 +2446,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stay up to date on the latest AndroidX library releases.",
+                    "homepage": null,
                     "id": 269086550,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-03-15T22:23:34Z",
+                    "open_issues": 0,
                     "owner": "lmj0011",
                     "repo": "jetpack-release-tracker",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1285,12 +2467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bitlue is an app where you can check the Bitcoin's current market price value (Bitcoin + value = Bitlue) and its records.",
+                    "homepage": null,
                     "id": 348243725,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-03-15T09:03:42Z",
+                    "open_issues": 0,
                     "owner": "androiddevnotesforks",
                     "repo": "Bitlue",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1301,12 +2488,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android Application 🐕 based on offline first approach built using Dagger Hilt, Material Motion, Coroutines + Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+                    "homepage": null,
                     "id": 274478129,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-03-12T08:00:01Z",
+                    "open_issues": 1,
                     "owner": "Shivamdhuria",
                     "repo": "flows_guide",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "android-studio",
+                      "channels",
+                      "coroutines",
+                      "dog-api",
+                      "flow",
+                      "flows",
+                      "hilt",
+                      "kotlin",
+                      "lottie",
+                      "material-design",
+                      "material-ui",
+                      "medium-article",
+                      "mvvm",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "retrofit",
+                      "room",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1317,12 +2530,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app fully written in Kotlin for droidconKE2020",
+                    "homepage": null,
                     "id": 221316753,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-03-02T08:43:11Z",
+                    "open_issues": 18,
                     "owner": "droidconKE",
                     "repo": "droidconKE2020App",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": [
+                      "android",
+                      "conference",
+                      "droidcon",
+                      "droidconke",
+                      "kotlin",
+                      "schedule"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1333,12 +2558,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app that helps You keep up with SpaceX 🚀",
+                    "homepage": null,
                     "id": 159474083,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-02-27T08:04:24Z",
+                    "open_issues": 1,
                     "owner": "OMIsie11",
                     "repo": "SpaceXFollower",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "coroutines-android",
+                      "dark-mode",
+                      "groupie",
+                      "koin",
+                      "kotlin-android",
+                      "kotlin-flow",
+                      "ktlint",
+                      "livedata",
+                      "lottie",
+                      "material-design",
+                      "mpandroidchart",
+                      "mvvm",
+                      "navigation-architecture-component",
+                      "retrofit2",
+                      "room-persistence-library",
+                      "spacex",
+                      "spacex-api",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1349,12 +2600,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TO REFACTOR - Wallpaper app based on pexels.com API. Kotlin/Clean/MVVM-like/SingleActivity",
+                    "homepage": null,
                     "id": 210593289,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T13:50:02Z",
+                    "open_issues": 0,
                     "owner": "GreyLabsDev",
                     "repo": "PexWalls",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "android",
+                      "animations",
+                      "architecture-components",
+                      "clean-architecture",
+                      "coroutine",
+                      "custom-view",
+                      "jetpack-android",
+                      "jetpack-lifecycle-components",
+                      "jetpack-navigation",
+                      "koin",
+                      "koin-android",
+                      "koin-mvvm",
+                      "kotlin",
+                      "pagination",
+                      "screenshoot",
+                      "single-activity",
+                      "wallpaper-changer",
+                      "wallpapers"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1365,12 +2640,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An Android app written in Kotlin that demonstrates a clean architecture with MVVM, Fused Location Provider, LifecycleService, and Coroutines. It is used as lab to test new Android features.",
+                    "homepage": null,
                     "id": 196276242,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-01-14T20:47:08Z",
+                    "open_issues": 1,
                     "owner": "gs-ts",
                     "repo": "TrackMyPath",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "android",
+                      "android-location",
+                      "clean-architecture",
+                      "coroutines",
+                      "flickr",
+                      "flickr-api",
+                      "foreground-service",
+                      "fusedlocationproviderclient",
+                      "hilt",
+                      "hilt-android",
+                      "koin",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "lifecycle-service",
+                      "livedata-viewmodel",
+                      "moshi",
+                      "mvvm",
+                      "retrofit2",
+                      "room",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1381,12 +2682,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app written in Kotlin that demonstrates a clean architecture with MVVM, websockets using WebScoket client Scarlet, and RxAndroid/RxKotlin.",
+                    "homepage": null,
                     "id": 184434371,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2021-01-04T09:20:07Z",
+                    "open_issues": 0,
                     "owner": "gs-ts",
                     "repo": "BitfinexClient",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "android",
+                      "android-architecture-components",
+                      "bitfinex",
+                      "bitfinex-api",
+                      "bitfinex-websocket-api",
+                      "clean-architecture",
+                      "databinding-android",
+                      "diffutil-recyclerview",
+                      "koin",
+                      "kotlin",
+                      "mvvm",
+                      "rxandroid",
+                      "rxkotlin",
+                      "scarlet",
+                      "viewbinding",
+                      "websocket"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1397,12 +2720,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A sample Android gallery to search images posted on Reddit, built using modern Android development tools (Architecture Components, MVVM, Coroutines, Flow, Navigation, Retrofit, Room, Koin)",
+                    "homepage": null,
                     "id": 278583026,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-12-22T07:24:30Z",
+                    "open_issues": 2,
                     "owner": "auron567",
                     "repo": "Gallerit",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": [
+                      "android",
+                      "coroutines",
+                      "gradle-kotlin-dsl",
+                      "koin",
+                      "kotlin",
+                      "kotlin-flow",
+                      "livedata",
+                      "mockk",
+                      "mvvm",
+                      "navigation",
+                      "repository-pattern",
+                      "retrofit2",
+                      "room",
+                      "singleactivityapp",
+                      "stateflow",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1413,12 +2758,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Whatsapp Clone base on Firebase Cloud Messaging",
+                    "homepage": null,
                     "id": 289329963,
                     "language": "Kotlin",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-12-20T10:59:39Z",
+                    "open_issues": 0,
                     "owner": "utsmannn",
                     "repo": "hiya-hiya-hiya",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": [
+                      "chat",
+                      "fcm",
+                      "hacktoberfest",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "mvvm-architecture",
+                      "paging-library",
+                      "whatsapp-clone"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1429,12 +2788,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android app to track COVID-19 cases in India and globally. ",
+                    "homepage": "https://github.com/HariKulhari06/Covid-19-Tracker",
                     "id": 268235652,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-12-07T06:48:11Z",
+                    "open_issues": 1,
                     "owner": "HariKulhari06",
                     "repo": "Covid-19-Tracker",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": [
+                      "android",
+                      "clean-architecture",
+                      "coil-image-loader",
+                      "dark-theme",
+                      "databinding-android",
+                      "dependency-injection-with-hilt",
+                      "github-actions",
+                      "hilt",
+                      "hilt-android",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "kotlin-flow",
+                      "material-design",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "repository-pattern",
+                      "room-persistence-library",
+                      "viewmodel-livedata",
+                      "workmanager-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1445,12 +2829,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 200732991,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-12-05T05:26:26Z",
+                    "open_issues": 1,
                     "owner": "CharlieChristensen",
                     "repo": "Cryptotracker",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1461,12 +2850,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Notes Sync is the answer to your everyday note taking requirements. It can encrypt and sync everything to the user's own Google Drive or Dropbox accounts",
+                    "homepage": null,
                     "id": 189425373,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-12-02T09:02:57Z",
+                    "open_issues": 5,
                     "owner": "KumarManas04",
                     "repo": "NotesSync",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1477,12 +2871,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Android app for viewing and downloading Flickr photos.",
+                    "homepage": null,
                     "id": 168832712,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-11-09T13:07:25Z",
+                    "open_issues": 0,
                     "owner": "commonpepper",
                     "repo": "Photosen",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "android",
+                      "flickr",
+                      "wallpapers"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1493,12 +2896,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A SpaceX companion app for Android",
+                    "homepage": null,
                     "id": 187475989,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-10-02T14:43:01Z",
+                    "open_issues": 7,
                     "owner": "haroldadmin",
                     "repo": "MoonShot",
-                    "stars": 163
+                    "stars": 163,
+                    "topics": [
+                      "android",
+                      "android-jetpack",
+                      "dagger",
+                      "dark-theme",
+                      "epoxy",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "material-design",
+                      "mvi",
+                      "spacex",
+                      "spacex-api",
+                      "vector"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1509,12 +2930,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Android app to identify books from their covers and give info, built using ML Kit's Text Recognition API, Android Jetpack Libraries and Google Books API",
+                    "homepage": null,
                     "id": 179001441,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-09-29T18:17:12Z",
+                    "open_issues": 2,
                     "owner": "Devansh-Maurya",
                     "repo": "PukaPuka",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1525,12 +2951,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":soccer: Football App using MVVM, LiveData, RxJava2, DI, Room, Repository Patern",
+                    "homepage": null,
                     "id": 296118758,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-09-29T13:29:03Z",
+                    "open_issues": 0,
                     "owner": "fionicholas",
                     "repo": "Football-App",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "dependency-injection",
+                      "football-app",
+                      "kotlin",
+                      "mvvm",
+                      "repository-pattern",
+                      "room-database",
+                      "rxjava2"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1541,12 +2980,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Knote is a standard note taking app",
+                    "homepage": null,
                     "id": 287084089,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-09-20T17:27:15Z",
+                    "open_issues": 0,
                     "owner": "edkluivert",
                     "repo": "Knote",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "architecture",
+                      "coil-image-loader",
+                      "coroutines",
+                      "koin",
+                      "mvvm",
+                      "mvvm-architecture",
+                      "roomdb"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1557,12 +3009,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥Android Github客户端，基于组件化开发，支持账户密码与认证登陆。使用Kotlin语言进行开发，项目架构是基于JetPack&DataBinding的MVVM；项目中使用了Arouter、Retrofit、Coroutine、Glide、Dagger与Hilt等流行开源技术。",
+                    "homepage": "https://rousetime.com",
                     "id": 219784908,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-08-20T01:25:54Z",
+                    "open_issues": 0,
                     "owner": "idisfkj",
                     "repo": "AwesomeGithub",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": [
+                      "android",
+                      "arouter",
+                      "coroutine",
+                      "databinding",
+                      "jetpack",
+                      "kotlin",
+                      "mvvm",
+                      "retrofit"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1573,12 +3039,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple application for tracking Covid-19 info. Stay safe.😷",
+                    "homepage": null,
                     "id": 248815717,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-08-14T12:52:14Z",
+                    "open_issues": 0,
                     "owner": "OMIsie11",
                     "repo": "CovidNow",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "android",
+                      "covid",
+                      "koin",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "kotlin-dsl",
+                      "kotlin-flow",
+                      "ktlint",
+                      "livedata",
+                      "material-components",
+                      "material-design",
+                      "material-ui",
+                      "moshi",
+                      "mpandroidchart",
+                      "mvvm",
+                      "mvvm-android",
+                      "retrofit2",
+                      "room",
+                      "room-database",
+                      "timber"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1589,12 +3081,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🇮🇳 Open source Indian Chat application with new cool concepts.",
+                    "homepage": "https://satyamurti.github.io/",
                     "id": 275247716,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-07-28T12:48:56Z",
+                    "open_issues": 1,
                     "owner": "satyamurti",
                     "repo": "LetsChat",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "chat-application",
+                      "coroutines",
+                      "download-manager",
+                      "firebase-cloud-messaging",
+                      "firestore",
+                      "groupchat",
+                      "jetpack",
+                      "kotlin",
+                      "mvvm-android",
+                      "navigation-architecture-component",
+                      "single-activity-pattern"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1605,12 +3114,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A personal anime list app that shows currently airing animes, upcoming animes developed using TDD. That's the plan anyway. Essential dependencies are Dagger2 , RxKotlin with RxAndroid, Room, Retrofit, Junit, mockito, mockwebserver, Truth, MVVM , bitrise, Firebase",
+                    "homepage": null,
                     "id": 267826701,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-07-21T06:13:06Z",
+                    "open_issues": 0,
                     "owner": "sanmiAde",
                     "repo": "Yet_Another_Anime_List",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "android",
+                      "dagger2",
+                      "mvvm",
+                      "room",
+                      "rxkotlin",
+                      "tdd",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1621,12 +3143,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An application where you can store all your password, bank details, card details in one place and access everything with only one master PIN. The application works totally offline.",
+                    "homepage": null,
                     "id": 275897027,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-07-20T11:23:45Z",
+                    "open_issues": 0,
                     "owner": "bugcacher",
                     "repo": "PasswordVault",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "hilt",
+                      "kotlin",
+                      "livedata",
+                      "mvvm",
+                      "navigationcomponent",
+                      "room",
+                      "viewbinding"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1637,12 +3172,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Jetpack 实战项目 PokemonGo（神奇宝贝）基于 MVVM 架构和 Repository 设计模式，如果这个仓库对你有帮助，请仓库右上角帮我 star 一下，非常感谢。",
+                    "homepage": null,
                     "id": 279520876,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2020-07-14T07:25:11Z",
+                    "open_issues": 0,
                     "owner": "jnkforks",
                     "repo": "PokemonGo",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1653,12 +3193,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of tools for Android app development in one place 🔧 🔨",
+                    "homepage": null,
                     "id": 268361827,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-07-11T21:55:12Z",
+                    "open_issues": 0,
                     "owner": "andyb129",
                     "repo": "AppDevToolbox",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1669,12 +3214,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 📱 Popular People app using Shared Elements between fragments with transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Repository, Koin) architecture.",
+                    "homepage": null,
                     "id": 278113314,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2020-07-11T18:47:54Z",
+                    "open_issues": 0,
                     "owner": "KhaledSherifSayed",
                     "repo": "PopularPeople",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1685,12 +3235,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple movie app",
+                    "homepage": null,
                     "id": 242142159,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-07-07T09:32:52Z",
+                    "open_issues": 0,
                     "owner": "weylar",
                     "repo": "Movie",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1701,12 +3256,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 268380987,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-06-23T09:34:23Z",
+                    "open_issues": 17,
                     "owner": "Wiqaytna-app",
                     "repo": "wiqaytna_android",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1717,12 +3277,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A localized News reader Android app powered by newsapi.org",
+                    "homepage": null,
                     "id": 261390431,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-05-13T12:30:05Z",
+                    "open_issues": 0,
                     "owner": "KevinGitonga",
                     "repo": "NewsFeed",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "clean-architecture",
+                      "coroutines-android",
+                      "databinding-android",
+                      "koin-injection",
+                      "kotlin",
+                      "livedata",
+                      "mvvm",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "news",
+                      "newsapi",
+                      "reader",
+                      "viewmodel-pattern"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1733,12 +3312,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple and sleek Android client consuming the Tuko News Api..I built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components). !! https://www.tuko.co.ke/",
+                    "homepage": null,
                     "id": 249917322,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-04-29T20:17:54Z",
+                    "open_issues": 3,
                     "owner": "KevinGitonga",
                     "repo": "TukoNewsClient",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "koin",
+                      "kotlin",
+                      "livedata",
+                      "mvvm",
+                      "mvvm-android",
+                      "news-reader",
+                      "newsapi",
+                      "room-persistence-library",
+                      "viewmodel-pattern"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1749,12 +3343,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)",
+                    "homepage": null,
                     "id": 175395638,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-03-26T17:06:57Z",
+                    "open_issues": 6,
                     "owner": "PhilippeBoisney",
                     "repo": "ArchApp",
-                    "stars": 617
+                    "stars": 617,
+                    "topics": [
+                      "architecture-components",
+                      "coroutines",
+                      "databinding",
+                      "databinding-android",
+                      "espresso",
+                      "kotlin",
+                      "multi-modules",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "navigation-component",
+                      "room",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1765,12 +3377,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔐 Open source app locker, vault, call blocker application",
+                    "homepage": null,
                     "id": 225160602,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2019-12-01T13:29:27Z",
+                    "open_issues": 11,
                     "owner": "iammert",
                     "repo": "AppLocker",
-                    "stars": 509
+                    "stars": 509,
+                    "topics": [
+                      "applock",
+                      "applocker",
+                      "browser",
+                      "callblock",
+                      "callblocker",
+                      "dagger",
+                      "dagger2",
+                      "filecrypt",
+                      "kotlin",
+                      "mvvm",
+                      "rxjava2",
+                      "vault"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1781,12 +3411,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android client for Software Engineering Daily",
+                    "homepage": "https://softwareengineeringdaily.github.io/",
                     "id": 153311594,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2019-11-25T22:47:16Z",
+                    "open_issues": 11,
                     "owner": "SoftwareEngineeringDaily",
                     "repo": "software-engineering-daily-android",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "android",
+                      "audio",
+                      "java",
+                      "kotlin",
+                      "medi",
+                      "podcast"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1797,12 +3439,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Social Note - Note-taking, sharing, time & location reminder",
+                    "homepage": "https://play.google.com/store/apps/details?id=playground.develop.socialnote",
                     "id": 197773483,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2019-10-13T02:18:43Z",
+                    "open_issues": 0,
                     "owner": "asyncMars",
                     "repo": "Social-Note",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "android",
+                      "androidarchitecturecomponets",
+                      "androidx",
+                      "cloudfunctions",
+                      "dependency-injection",
+                      "firebase",
+                      "firebaseauth",
+                      "firebasemessaging",
+                      "firebasestorage",
+                      "firestore",
+                      "koin-kotlin",
+                      "kotlin",
+                      "lottie-android",
+                      "mvvm-architecture",
+                      "push-notifications",
+                      "room",
+                      "rxandroid2",
+                      "rxjava2",
+                      "viewmodel",
+                      "workmanager-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1813,12 +3481,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📦📦Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites",
+                    "homepage": null,
                     "id": 160616911,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2019-05-13T07:45:34Z",
+                    "open_issues": 14,
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
-                    "stars": 564
+                    "stars": 564,
+                    "topics": [
+                      "video-downloader",
+                      "youtube",
+                      "youtube-dl",
+                      "youtube-dl-android",
+                      "youtube-downloader"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1829,12 +3508,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "☁️ Unofficial file.io Android App 📱",
+                    "homepage": null,
                     "id": 113689250,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-04-12T15:19:13Z",
+                    "open_issues": 3,
                     "owner": "rumaan",
                     "repo": "file.io-Android-Client",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "android",
+                      "architecture-components",
+                      "file-sharing",
+                      "fileupload",
+                      "fuel",
+                      "java",
+                      "kotlin",
+                      "livedata",
+                      "room",
+                      "room-persistence-library",
+                      "roomdb",
+                      "viewmodel",
+                      "workmanager"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 }
@@ -1852,12 +3550,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...",
+                    "homepage": null,
                     "id": 158460787,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T21:14:12Z",
+                    "open_issues": 15,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6789
+                    "stars": 6789,
+                    "topics": [
+                      "android",
+                      "android-application",
+                      "architecture",
+                      "best-practices",
+                      "clean-architecture",
+                      "gradle",
+                      "jetpack",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "mvvm"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1868,12 +3582,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Rick And Morty - MVVM with a clean architecture approach using some of the best practices in Android Development.",
+                    "homepage": "https://rickandmortyapi.com/",
                     "id": 358317569,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2023-09-15T19:59:38Z",
+                    "open_issues": 1,
                     "owner": "akhilesh0707",
                     "repo": "Rick-and-Morty",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "architecture-components",
+                      "coroutines",
+                      "coroutines-flow",
+                      "dagger-hilt",
+                      "jetpack",
+                      "kotlin",
+                      "mvvm-clean-architecture",
+                      "navigation-component",
+                      "room"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1884,12 +3613,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚕  BL Taxi is a simple app for calling a taxi in the city Banja Luka built using modern Android development tools",
+                    "homepage": "https://vladimirj.dev/bl-taxi/",
                     "id": 192170187,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-08T06:17:37Z",
+                    "open_issues": 0,
                     "owner": "VladimirWrites",
                     "repo": "BLTaxi",
-                    "stars": 351
+                    "stars": 351,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-architecture",
+                      "android-development",
+                      "kotlin",
+                      "material",
+                      "mvvm-android",
+                      "mvvm-databing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1900,12 +3643,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Feature-first Clean Architecture Android Project",
+                    "homepage": null,
                     "id": 226459777,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-28T10:19:29Z",
+                    "open_issues": 0,
                     "owner": "ferPrieto",
                     "repo": "SpaceX-prepare-for-Clean-Architecture-liftoff",
-                    "stars": 750
+                    "stars": 750,
+                    "topics": [
+                      "android",
+                      "android-architecture",
+                      "android-compose",
+                      "androidx",
+                      "clean-architecture",
+                      "coroutines-android",
+                      "dagger-hilt",
+                      "espresso",
+                      "jetpack-compose",
+                      "junit4",
+                      "kotlin",
+                      "kotlin-flow",
+                      "kotlin-serialization",
+                      "mockwebserver",
+                      "mvvm",
+                      "mvvm-android",
+                      "retrofit2"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1916,12 +3682,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin",
+                    "homepage": null,
                     "id": 91019494,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-04-22T21:42:32Z",
+                    "open_issues": 3,
                     "owner": "akoufa",
                     "repo": "CoolWeather",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-architecture",
+                      "android-development",
+                      "architecture-components",
+                      "clean-architecture",
+                      "coroutines",
+                      "databinding",
+                      "glide",
+                      "gradle",
+                      "hilt",
+                      "hilt-android",
+                      "java",
+                      "jetpack",
+                      "kotlin",
+                      "mvvm",
+                      "retrofit2",
+                      "room",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1932,12 +3723,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slootnime is simple android app to learn graphql API with Apollo and clean architecture",
+                    "homepage": null,
                     "id": 531020924,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2023-01-25T08:21:12Z",
+                    "open_issues": 0,
                     "owner": "bakharaalief",
                     "repo": "Slootnime-APP",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "android",
+                      "apollo",
+                      "graphql",
+                      "hilt-android",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1948,12 +3750,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sanogueralorenzo.github.io/",
                     "id": 115441256,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-28T14:31:22Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:50:06Z",
+                    "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
-                    "stars": 1784
+                    "stars": 1784,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1964,12 +3771,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🏘 🎃   Real Estate Sample App with RxJava3+Coroutines Flow, Dynamic Feature Modules, Dagger Hilt, Offline First, ConcatAdapter, Animations and tests for Room, Retrofit, useCase and ViewModels with TDD.",
+                    "homepage": null,
                     "id": 293218237,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-03-08T05:41:14Z",
+                    "open_issues": 0,
                     "owner": "SmartToolFactory",
                     "repo": "PropertyFindAR",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": [
+                      "android",
+                      "android-animation",
+                      "clean-architecture",
+                      "coroutines-flow",
+                      "dagger-hilt",
+                      "dynamic-feature",
+                      "dynamic-feature-module",
+                      "kotlin-android",
+                      "kotlin-gradle-dsl",
+                      "mockk",
+                      "mockwebserver",
+                      "modularization",
+                      "navigation-component",
+                      "offline-first",
+                      "real-estate",
+                      "retrofit2",
+                      "room-persistence-library",
+                      "rxjava3",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1980,12 +3812,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. 🎭",
+                    "homepage": null,
                     "id": 122661183,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-10-11T16:50:34Z",
+                    "open_issues": 5,
                     "owner": "andremion",
                     "repo": "Theatre",
-                    "stars": 640
+                    "stars": 640,
+                    "topics": [
+                      "android",
+                      "android-architecture-components",
+                      "clean-architecture",
+                      "dagger",
+                      "dagger2",
+                      "dagger2-android",
+                      "data-binding",
+                      "kotlin",
+                      "mvvm",
+                      "reactive-extensions",
+                      "rxjava2",
+                      "rxkotlin",
+                      "view-model",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -1996,12 +3848,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)",
+                    "homepage": "http://happysingh.dev/",
                     "id": 251545848,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-10-10T08:58:23Z",
+                    "open_issues": 0,
                     "owner": "happysingh23828",
                     "repo": "Android-Clean-Architecture",
-                    "stars": 300
+                    "stars": 300,
+                    "topics": [
+                      "android",
+                      "android-app",
+                      "android-architecture",
+                      "android-sdk",
+                      "android-studio",
+                      "cache",
+                      "clean-architecture",
+                      "cleanarchitecture",
+                      "domain",
+                      "mvvm",
+                      "room",
+                      "solid-principles"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2012,12 +3882,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample for Android Clean Architecture.",
+                    "homepage": null,
                     "id": 294803938,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-07-27T02:59:13Z",
+                    "open_issues": 0,
                     "owner": "sansets",
                     "repo": "android-clean-architecture",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "android",
+                      "clean-architecture",
+                      "coroutines-flow",
+                      "dagger2",
+                      "kotlin",
+                      "modular-architecture",
+                      "navigation-component",
+                      "room"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2028,12 +3912,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👽 Built with MVVM pattern, Koin , Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.k0d4black.theforce",
                     "id": 227998628,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-06-15T14:20:18Z",
+                    "open_issues": 23,
                     "owner": "odaridavid",
                     "repo": "Clean-MVVM-ArchComponents",
-                    "stars": 682
+                    "stars": 682,
+                    "topics": [
+                      "android",
+                      "android-architecture",
+                      "architecture-components",
+                      "clean",
+                      "clean-architecture",
+                      "coroutines",
+                      "espresso",
+                      "firebase",
+                      "junit",
+                      "koin",
+                      "kotlin",
+                      "kotlin-flow",
+                      "motionlayout",
+                      "mvvm",
+                      "mvvm-architecture",
+                      "retrofit2",
+                      "robolectric",
+                      "tdd"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2044,12 +3952,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An app to stay up to date with the latest stats of the coronavirus , using Kotlin with MVVM ,Coroutines , Android Architecture Components and Dagger",
+                    "homepage": null,
                     "id": 249173750,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-09-05T23:29:51Z",
+                    "open_issues": 1,
                     "owner": "HamdiBoumaiza",
                     "repo": "CoronavirusWorldStatus",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "android",
+                      "coronavirus",
+                      "coroutines",
+                      "dagger2",
+                      "databinding",
+                      "kotlin",
+                      "mvvm"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 }
@@ -2074,12 +3995,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚡️Comic reader app 📘 Learning MVVM / MVI with :cyclone: RxKotlin, Retrofit, Kotlinx Coroutine, Work Manager, Room, Firebase, AndroidX Startup, Clean Architecture, Arrow.Kt Functional Programming ... ❄️ androidx-startup, androidx-room, androidx-viewmodel, arrow-kt",
+                    "homepage": "https://github.com/hoc081098/ViewBindingDelegate",
                     "id": 170987604,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T05:05:17Z",
+                    "open_issues": 9,
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
-                    "stars": 293
+                    "stars": 293,
+                    "topics": [
+                      "android-clean-architecture-kotlin",
+                      "android-mvi",
+                      "comic-reader",
+                      "comics-reader",
+                      "coroutines-android",
+                      "functional-reactive-programming",
+                      "jetpack-android",
+                      "jetpack-lifecycle-components",
+                      "jetpack-navigation",
+                      "jetpack-workmanager",
+                      "kotlin-coroutine",
+                      "kotlin-coroutines",
+                      "mvi",
+                      "mvi-android",
+                      "mvi-architecture",
+                      "mvi-clean-architecture",
+                      "mvvm-android",
+                      "mvvm-pattern",
+                      "rxkotlin",
+                      "rxkotlin-android"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2090,12 +4037,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kotlin, MVI, Hilt, Retrofit2, Coroutines, Room Persistence, REST API, Token Authentication",
+                    "homepage": null,
                     "id": 197218589,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2023-03-18T16:03:50Z",
+                    "open_issues": 7,
                     "owner": "mitchtabian",
                     "repo": "Open-API-Android-App",
-                    "stars": 686
+                    "stars": 686,
+                    "topics": [
+                      "android-jetpack-components",
+                      "coroutines-android",
+                      "dagger2",
+                      "jetpack-android",
+                      "jetpack-lifecycle-components",
+                      "jetpack-navigation",
+                      "kotlin",
+                      "mvvm-architecture",
+                      "navigation-component",
+                      "rest-api",
+                      "retrofit2",
+                      "room-persistence"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2106,12 +4071,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A non-official Android client for IsThereAnyDeal.com",
+                    "homepage": null,
                     "id": 163697950,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-12-03T20:42:11Z",
+                    "open_issues": 7,
                     "owner": "R4md4c",
                     "repo": "GameDealz",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "android",
+                      "android-apps",
+                      "compare-prices",
+                      "games",
+                      "kotlin",
+                      "shops",
+                      "steam"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2122,12 +4100,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. ",
+                    "homepage": null,
                     "id": 242919561,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2020-03-26T08:10:39Z",
+                    "open_issues": 1,
                     "owner": "HadySalhab",
                     "repo": "NewsFeed-MVI-Dagger",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 }
@@ -2145,12 +4128,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Star wars sample android project showcasing the use of View components for rendering UI in Fragments and Activities. Uses Android Jetpack, clean architecture with MVI (Uni-directional data flow), dagger hilt, and kotlin coroutines with StateFlow",
+                    "homepage": null,
                     "id": 294171829,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-14T11:45:38Z",
+                    "open_issues": 0,
                     "owner": "Ezike",
                     "repo": "StarWarsSearch-MVI",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": [
+                      "android",
+                      "android-studio",
+                      "architecture",
+                      "clean-architecture",
+                      "componentization",
+                      "coroutines",
+                      "dagger-hilt",
+                      "flow",
+                      "jetpack",
+                      "jetpack-android",
+                      "kotlin",
+                      "kotlin-coroutines",
+                      "kotlin-gradle-dsl",
+                      "mvi",
+                      "mvi-android",
+                      "mvi-clean-architecture",
+                      "netflix",
+                      "redux",
+                      "redux-store",
+                      "viewmodel"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2161,12 +4170,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clean Rx Kotlin Architecture sample on GitHub Api 🚀",
+                    "homepage": null,
                     "id": 269655263,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-08-26T15:31:16Z",
+                    "open_issues": 0,
                     "owner": "lopspower",
                     "repo": "CleanRxArchitecture",
-                    "stars": 383
+                    "stars": 383,
+                    "topics": [
+                      "android",
+                      "android-tests",
+                      "clean-architecture",
+                      "dagger2",
+                      "kotlin",
+                      "model-view-intent",
+                      "rxjava3"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2177,12 +4199,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Android architecture sample with dynamic feature modularisation, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, kotlin coroutines with StateFlow and Exo player.",
+                    "homepage": null,
                     "id": 270478922,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-24T15:52:34Z",
+                    "open_issues": 1,
                     "owner": "Ezike",
                     "repo": "Baking-App-Kotlin",
-                    "stars": 457
+                    "stars": 457,
+                    "topics": [
+                      "android",
+                      "bakingapp",
+                      "clean-architecture",
+                      "clean-code",
+                      "cleanarchitecture",
+                      "coroutines",
+                      "dagger-android",
+                      "dagger-hilt",
+                      "dynamicfeatures",
+                      "exoplayer2",
+                      "jetpack-android",
+                      "mvi",
+                      "mvi-android",
+                      "mvi-architecture",
+                      "mvi-clean-architecture",
+                      "mvvm",
+                      "stateflow",
+                      "udacity-android-nanodegree"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 },
@@ -2193,12 +4239,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clean Architecture by layer",
+                    "homepage": null,
                     "id": 250371727,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2024-03-13T10:09:56Z",
+                    "open_issues": 3,
                     "owner": "mitchtabian",
                     "repo": "Clean-Notes",
-                    "stars": 556
+                    "stars": 556,
+                    "topics": [
+                      "android-clean-arch-coroutines",
+                      "android-clean-architecture",
+                      "android-clean-architecture-kotlin",
+                      "android-clean-architecture-sample",
+                      "android-cleanarchitecture",
+                      "android-cleanarchitecture-kotlin",
+                      "clean-architecture",
+                      "dagger2",
+                      "mvi-architecture",
+                      "mvvm-android",
+                      "mvvm-architecture",
+                      "retrofit2",
+                      "room-persistence-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
                 }
@@ -2221,12 +4286,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Clean Architecture + MVP Sample written in Kotlin",
+                "homepage": null,
                 "id": 96150207,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2021-02-04T15:52:44Z",
+                "open_issues": 0,
                 "owner": "ImangazalievM",
                 "repo": "UTair-MVP-Sample",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "android-architecture",
+                  "clean-architecture",
+                  "coroutines",
+                  "dagger",
+                  "dagger2",
+                  "kotlin",
+                  "mvp",
+                  "rxjava2"
+                ]
               },
               "first_seen": "2026-08-28T22:28:21.135Z"
             }
@@ -2248,12 +4327,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A shadowsocks client for Android",
+            "homepage": null,
             "id": 7190986,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T11:06:54Z",
+            "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36771
+            "stars": 36771,
+            "topics": [
+              "android",
+              "shadowsocks"
+            ]
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         },
@@ -2264,12 +4351,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android Application that remembers your life events.",
+            "homepage": null,
             "id": 522266410,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-15T13:48:29Z",
+            "open_issues": 0,
             "owner": "Husseinfo",
             "repo": "countin",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "android",
+              "android-app",
+              "android-application",
+              "countdown",
+              "countdown-timer",
+              "counter",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         },
@@ -2280,12 +4380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 555322357,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2022-10-21T11:03:06Z",
+            "open_issues": 0,
             "owner": "aasif1297",
             "repo": "kotlinbaseproject",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         },
@@ -2296,12 +4401,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Discontinued and Unsupported Project] Simple yet powerful rich note taking android application, with a lot of flexibilty of usage",
+            "homepage": "https://play.google.com/store/apps/details?id=com.bijoysingh.quicknote",
             "id": 58070707,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-21T13:10:55Z",
+            "open_issues": 66,
             "owner": "BijoySingh",
             "repo": "Scarlet-Notes",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "android",
+              "app"
+            ]
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         },
@@ -2312,12 +4425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phone Screen Forced Locker",
+            "homepage": null,
             "id": 292443912,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2020-09-03T02:39:31Z",
+            "open_issues": 0,
             "owner": "DimaBrody",
             "repo": "Screenaway",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         }
@@ -2334,12 +4452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast dependency injector for Android and Java.",
+            "homepage": "https://dagger.dev",
             "id": 7968417,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:55:25Z",
+            "open_issues": 366,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17703
+            "stars": 17703,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         }
@@ -2356,12 +4479,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
+            "homepage": null,
             "id": 276471933,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2024-07-01T22:14:17Z",
+            "open_issues": 11,
             "owner": "androiddevnotes",
             "repo": "awesome-android-kotlin-apps",
-            "stars": 2746
+            "stars": 2746,
+            "topics": [
+              "android",
+              "awesome",
+              "beginner-friendly",
+              "coroutines",
+              "dagger",
+              "dagger-hilt",
+              "firebase",
+              "first-issue",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "jetpack-android",
+              "koin",
+              "kotlin",
+              "mvvm",
+              "mvvm-android",
+              "retrofit",
+              "rxjava",
+              "unit-testing",
+              "viewmodel",
+              "workmanager"
+            ]
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
         }
@@ -2370,15 +4519,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:28:21.135Z",
+    "last_updated": "2026-08-29T04:21:00.604Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
+      "homepage": null,
       "id": 276471933,
       "language": "Kotlin",
+      "license": null,
       "last_commit": "2024-07-01T22:14:17Z",
+      "open_issues": 11,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2746
+      "stars": 2746,
+      "topics": [
+        "android",
+        "awesome",
+        "beginner-friendly",
+        "coroutines",
+        "dagger",
+        "dagger-hilt",
+        "firebase",
+        "first-issue",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "jetpack-android",
+        "koin",
+        "kotlin",
+        "mvvm",
+        "mvvm-android",
+        "retrofit",
+        "rxjava",
+        "unit-testing",
+        "viewmodel",
+        "workmanager"
+      ]
     },
     "original_repository_sha": "fc067f5dae4159d7d39f74f1b14d23087c5098aa",
     "enhanced_repository": "enhansome/enhansome-android-kotlin-apps",
