@@ -136,7 +136,7 @@
                     "id": 345422733,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T15:36:25Z",
+                    "last_commit": "2026-08-31T02:19:20Z",
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
@@ -396,7 +396,7 @@
                     "open_issues": 24,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3959,
+                    "stars": 3962,
                     "topics": [
                       "android",
                       "apk",
@@ -468,7 +468,7 @@
                     "open_issues": 0,
                     "owner": "zedlabs",
                     "repo": "WallPortal",
-                    "stars": 400,
+                    "stars": 399,
                     "topics": [
                       "android",
                       "android-studio",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8353,
+                    "stars": 8354,
                     "topics": [
                       "android",
                       "coroutines",
@@ -595,7 +595,7 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T22:16:44Z",
+                    "last_commit": "2026-08-31T16:29:35Z",
                     "open_issues": 9,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
@@ -654,8 +654,8 @@
                     "id": 16598287,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T00:41:47Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-08-31T06:33:47Z",
+                    "open_issues": 41,
                     "owner": "muzei",
                     "repo": "muzei",
                     "stars": 4942,
@@ -3559,7 +3559,7 @@
                     "open_issues": 15,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6790,
+                    "stars": 6791,
                     "topics": [
                       "android",
                       "android-application",
@@ -3755,7 +3755,7 @@
                     "id": 115441256,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T22:50:06Z",
+                    "last_commit": "2026-08-30T22:57:09Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4080,7 +4080,7 @@
                     "open_issues": 7,
                     "owner": "R4md4c",
                     "repo": "GameDealz",
-                    "stars": 36,
+                    "stars": 35,
                     "topics": [
                       "android",
                       "android-apps",
@@ -4336,7 +4336,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36775,
+            "stars": 36781,
             "topics": [
               "android",
               "shadowsocks"
@@ -4461,7 +4461,7 @@
             "open_issues": 366,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17702,
+            "stars": 17701,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4519,7 +4519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:48:00.025Z",
+    "last_updated": "2026-08-31T19:09:29.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
