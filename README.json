@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1907,
+                    "stars": 1908,
                     "topics": [
                       "android",
                       "android-app",
@@ -366,7 +366,7 @@
                     "id": 229804414,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T11:45:48Z",
+                    "last_commit": "2026-09-08T22:01:05Z",
                     "open_issues": 26,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8357,
+                    "stars": 8358,
                     "topics": [
                       "android",
                       "coroutines",
@@ -595,7 +595,7 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T16:00:53Z",
+                    "last_commit": "2026-09-09T09:22:17Z",
                     "open_issues": 10,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
@@ -1199,7 +1199,7 @@
                     "open_issues": 50,
                     "owner": "b-lam",
                     "repo": "Resplash",
-                    "stars": 688,
+                    "stars": 687,
                     "topics": [
                       "android",
                       "photos",
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21644,
+                    "stars": 21642,
                     "topics": [
                       "android",
                       "architecture",
@@ -2357,7 +2357,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "JetPack Compose实现的Wanandroid客户端",
+                    "description": "Compose Multipartform实现的Wanandroid跨平台客户端（Android、iOS、HarmonyOS、Web）",
                     "homepage": null,
                     "id": 226853069,
                     "language": "Kotlin",
@@ -2368,15 +2368,14 @@
                     "repo": "wanandroid",
                     "stars": 266,
                     "topics": [
-                      "compose-nav3",
-                      "compose-ui",
-                      "coroutines",
-                      "daynight",
-                      "jetpack",
+                      "compose-navigation",
+                      "composemultiplatform",
+                      "harmony",
+                      "harmonyos",
+                      "harmonyos-next",
+                      "ios",
                       "kotlin",
-                      "room",
-                      "viewmodel",
-                      "wanandroid"
+                      "kotlin-multiplatform"
                     ]
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -3352,7 +3351,7 @@
                     "open_issues": 6,
                     "owner": "PhilippeBoisney",
                     "repo": "ArchApp",
-                    "stars": 617,
+                    "stars": 616,
                     "topics": [
                       "architecture-components",
                       "coroutines",
@@ -3559,7 +3558,7 @@
                     "open_issues": 15,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6792,
+                    "stars": 6793,
                     "topics": [
                       "android",
                       "android-application",
@@ -3755,7 +3754,7 @@
                     "id": 115441256,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T16:42:17Z",
+                    "last_commit": "2026-09-09T16:35:43Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4336,7 +4335,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36787,
+            "stars": 36791,
             "topics": [
               "android",
               "shadowsocks"
@@ -4457,8 +4456,8 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T16:47:23Z",
-            "open_issues": 369,
+            "last_commit": "2026-09-08T23:20:05Z",
+            "open_issues": 367,
             "owner": "google",
             "repo": "dagger",
             "stars": 17700,
@@ -4488,7 +4487,7 @@
             "open_issues": 11,
             "owner": "androiddevnotes",
             "repo": "awesome-android-kotlin-apps",
-            "stars": 2747,
+            "stars": 2748,
             "topics": [
               "android",
               "awesome",
@@ -4519,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:44:33.430Z",
+    "last_updated": "2026-09-09T16:45:47.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
@@ -4531,7 +4530,7 @@
       "open_issues": 11,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2747,
+      "stars": 2748,
       "topics": [
         "android",
         "awesome",
