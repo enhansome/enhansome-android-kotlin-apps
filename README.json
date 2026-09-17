@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1520,
+                "stars": 1521,
                 "topics": [
                   "accompanist",
                   "android",
@@ -119,7 +119,7 @@
                     "open_issues": 151,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1461,
+                    "stars": 1460,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1920,
+                    "stars": 1922,
                     "topics": [
                       "android",
                       "android-app",
@@ -595,11 +595,11 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T13:25:40Z",
+                    "last_commit": "2026-09-17T13:16:06Z",
                     "open_issues": 10,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1821,
+                    "stars": 1820,
                     "topics": [
                       "android",
                       "android-studio",
@@ -654,8 +654,8 @@
                     "id": 16598287,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T04:40:57Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-09-17T02:27:35Z",
+                    "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
                     "stars": 4944,
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1840,
+                    "stars": 1839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -2604,7 +2604,7 @@
                     "id": 210593289,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T14:15:25Z",
+                    "last_commit": "2026-09-17T14:45:31Z",
                     "open_issues": 0,
                     "owner": "GreyLabsDev",
                     "repo": "PexWalls",
@@ -4335,7 +4335,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36800,
+            "stars": 36798,
             "topics": [
               "android",
               "shadowsocks"
@@ -4456,7 +4456,7 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:32:27Z",
+            "last_commit": "2026-09-17T12:51:28Z",
             "open_issues": 371,
             "owner": "google",
             "repo": "dagger",
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:07:52.565Z",
+    "last_updated": "2026-09-17T17:08:15.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
