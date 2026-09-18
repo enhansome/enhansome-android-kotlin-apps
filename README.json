@@ -136,11 +136,11 @@
                     "id": 345422733,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T02:20:55Z",
+                    "last_commit": "2026-09-18T05:39:50Z",
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1922,
+                    "stars": 1923,
                     "topics": [
                       "android",
                       "android-app",
@@ -205,7 +205,7 @@
                     "open_issues": 15,
                     "owner": "igorescodro",
                     "repo": "alkaa",
-                    "stars": 1643,
+                    "stars": 1642,
                     "topics": [
                       "android",
                       "android-testing",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8361,
+                    "stars": 8360,
                     "topics": [
                       "android",
                       "coroutines",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4944,
+                    "stars": 4946,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -679,7 +679,7 @@
                     "open_issues": 4,
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2144,
+                    "stars": 2143,
                     "topics": [
                       "android",
                       "android-jetpack",
@@ -987,7 +987,7 @@
                     "language": "Kotlin",
                     "license": null,
                     "last_commit": "2026-08-17T04:28:10Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
                     "stars": 420,
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21639,
+                    "stars": 21638,
                     "topics": [
                       "android",
                       "architecture",
@@ -2241,7 +2241,7 @@
                     "open_issues": 16,
                     "owner": "nominalista",
                     "repo": "expenses",
-                    "stars": 404,
+                    "stars": 403,
                     "topics": [
                       "android",
                       "expenses",
@@ -3558,7 +3558,7 @@
                     "open_issues": 15,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6798,
+                    "stars": 6797,
                     "topics": [
                       "android",
                       "android-application",
@@ -4456,11 +4456,11 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T12:51:28Z",
-            "open_issues": 371,
+            "last_commit": "2026-09-18T16:20:00Z",
+            "open_issues": 370,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17702,
+            "stars": 17700,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:08:15.146Z",
+    "last_updated": "2026-09-18T16:32:55.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
