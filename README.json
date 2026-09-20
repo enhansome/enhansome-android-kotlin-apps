@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1521,
+                "stars": 1522,
                 "topics": [
                   "accompanist",
                   "android",
@@ -370,7 +370,7 @@
                     "open_issues": 41,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
-                    "stars": 233,
+                    "stars": 234,
                     "topics": [
                       "android",
                       "kotlin",
@@ -396,7 +396,7 @@
                     "open_issues": 24,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3994,
+                    "stars": 3998,
                     "topics": [
                       "android",
                       "apk",
@@ -499,7 +499,7 @@
                     "id": 268501098,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-19T14:37:14Z",
+                    "last_commit": "2026-09-19T16:49:00Z",
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
@@ -599,7 +599,7 @@
                     "open_issues": 10,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1821,
+                    "stars": 1820,
                     "topics": [
                       "android",
                       "android-studio",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4946,
+                    "stars": 4947,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -990,7 +990,7 @@
                     "open_issues": 26,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -1730,7 +1730,7 @@
                     "open_issues": 4,
                     "owner": "ZahraHeydari",
                     "repo": "MusicPlayer",
-                    "stars": 626,
+                    "stars": 625,
                     "topics": [
                       "android-application",
                       "clean-architecture",
@@ -1834,7 +1834,7 @@
                     "open_issues": 0,
                     "owner": "Ratheshan03",
                     "repo": "andriod-movie-collection-application",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": [
                       "android-development",
                       "json",
@@ -1864,7 +1864,7 @@
                     "open_issues": 0,
                     "owner": "Ratheshan03",
                     "repo": "android-arithmetic-game",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": [
                       "android-application",
                       "androidstudio",
@@ -3489,7 +3489,7 @@
                     "open_issues": 14,
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": [
                       "video-downloader",
                       "youtube",
@@ -3754,7 +3754,7 @@
                     "id": 115441256,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T00:41:58Z",
+                    "last_commit": "2026-09-20T16:11:39Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -3999,7 +3999,7 @@
                     "id": 170987604,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T15:12:51Z",
+                    "last_commit": "2026-09-19T18:47:47Z",
                     "open_issues": 9,
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
@@ -4247,7 +4247,7 @@
                     "open_issues": 3,
                     "owner": "mitchtabian",
                     "repo": "Clean-Notes",
-                    "stars": 555,
+                    "stars": 554,
                     "topics": [
                       "android-clean-arch-coroutines",
                       "android-clean-architecture",
@@ -4460,7 +4460,7 @@
             "open_issues": 369,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17700,
+            "stars": 17701,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:57:17.400Z",
+    "last_updated": "2026-09-20T16:16:14.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
