@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1522,
+                "stars": 1523,
                 "topics": [
                   "accompanist",
                   "android",
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1923,
+                    "stars": 1924,
                     "topics": [
                       "android",
                       "android-app",
@@ -201,7 +201,7 @@
                     "id": 116942964,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T21:13:31Z",
+                    "last_commit": "2026-09-21T14:05:42Z",
                     "open_issues": 15,
                     "owner": "igorescodro",
                     "repo": "alkaa",
@@ -396,7 +396,7 @@
                     "open_issues": 24,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 3998,
+                    "stars": 4002,
                     "topics": [
                       "android",
                       "apk",
@@ -595,11 +595,11 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T13:16:06Z",
+                    "last_commit": "2026-09-21T11:25:28Z",
                     "open_issues": 10,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1820,
+                    "stars": 1821,
                     "topics": [
                       "android",
                       "android-studio",
@@ -958,7 +958,7 @@
                     "open_issues": 526,
                     "owner": "moezbhatti",
                     "repo": "qksms",
-                    "stars": 4591,
+                    "stars": 4592,
                     "topics": [
                       "android",
                       "dagger2",
@@ -1092,7 +1092,7 @@
                     "open_issues": 30,
                     "owner": "tema6120",
                     "repo": "ForgetMeNot",
-                    "stars": 441,
+                    "stars": 442,
                     "topics": [
                       "android",
                       "anki",
@@ -1224,7 +1224,7 @@
                     "open_issues": 0,
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6387,
+                    "stars": 6386,
                     "topics": [
                       "android",
                       "browser",
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21638,
+                    "stars": 21637,
                     "topics": [
                       "android",
                       "architecture",
@@ -2199,7 +2199,7 @@
                     "open_issues": 5,
                     "owner": "vmadalin",
                     "repo": "android-modular-architecture",
-                    "stars": 2436,
+                    "stars": 2435,
                     "topics": [
                       "android",
                       "android-architecture",
@@ -3754,7 +3754,7 @@
                     "id": 115441256,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-09-20T16:11:39Z",
+                    "last_commit": "2026-09-21T14:50:10Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4460,7 +4460,7 @@
             "open_issues": 369,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17701,
+            "stars": 17700,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:16:14.895Z",
+    "last_updated": "2026-09-21T18:13:55.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
