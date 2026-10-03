@@ -119,7 +119,7 @@
                     "open_issues": 150,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1464,
+                    "stars": 1463,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1934,
+                    "stars": 1935,
                     "topics": [
                       "android",
                       "android-app",
@@ -205,7 +205,7 @@
                     "open_issues": 15,
                     "owner": "igorescodro",
                     "repo": "alkaa",
-                    "stars": 1647,
+                    "stars": 1646,
                     "topics": [
                       "android",
                       "android-testing",
@@ -366,8 +366,8 @@
                     "id": 229804414,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T17:50:18Z",
-                    "open_issues": 42,
+                    "last_commit": "2026-10-02T22:01:07Z",
+                    "open_issues": 40,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
                     "stars": 235,
@@ -396,7 +396,7 @@
                     "open_issues": 24,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4021,
+                    "stars": 4022,
                     "topics": [
                       "android",
                       "apk",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8362,
+                    "stars": 8363,
                     "topics": [
                       "android",
                       "coroutines",
@@ -536,7 +536,7 @@
                     "open_issues": 33,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1553,
+                    "stars": 1551,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4952,
+                    "stars": 4951,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -827,7 +827,7 @@
                 {
                   "node_type": "item",
                   "title": "open-event-attendee-android",
-                  "description": null,
+                  "description": "fossasia/open-event-attendee-android",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -840,7 +840,7 @@
                     "open_issues": 40,
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
-                    "stars": 1959,
+                    "stars": 1960,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -861,7 +861,7 @@
                     "open_issues": 40,
                     "owner": "fossasia",
                     "repo": "open-event-attendee-android",
-                    "stars": 1959,
+                    "stars": 1960,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1211,7 +1211,7 @@
                 {
                   "node_type": "item",
                   "title": "fenix",
-                  "description": null,
+                  "description": "mozilla-mobile/fenix",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1840,
+                    "stars": 1838,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21635,
+                    "stars": 21634,
                     "topics": [
                       "android",
                       "architecture",
@@ -4335,7 +4335,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36803,
+            "stars": 36805,
             "topics": [
               "android",
               "shadowsocks"
@@ -4456,8 +4456,8 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:25:59Z",
-            "open_issues": 371,
+            "last_commit": "2026-10-02T23:53:53Z",
+            "open_issues": 372,
             "owner": "google",
             "repo": "dagger",
             "stars": 17701,
@@ -4467,58 +4467,10 @@
         }
       ],
       "title": ":books: Tech Stack/Libraries"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@theapache64",
-          "description": "automated this repo and designed a beautiful layout for awesome-android-kotlin-apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
-            "homepage": null,
-            "id": 276471933,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-01T22:14:17Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-android-kotlin-apps",
-            "stars": 2749,
-            "topics": [
-              "android",
-              "awesome",
-              "beginner-friendly",
-              "coroutines",
-              "dagger",
-              "dagger-hilt",
-              "firebase",
-              "first-issue",
-              "hacktoberfest",
-              "hacktoberfest2020",
-              "jetpack-android",
-              "koin",
-              "kotlin",
-              "mvvm",
-              "mvvm-android",
-              "retrofit",
-              "rxjava",
-              "unit-testing",
-              "viewmodel",
-              "workmanager"
-            ]
-          },
-          "first_seen": "2026-08-28T22:28:21.135Z"
-        }
-      ],
-      "title": ":moyai: Core Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:55:22.200Z",
+    "last_updated": "2026-10-03T04:37:09.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
