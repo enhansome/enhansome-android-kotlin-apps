@@ -238,7 +238,7 @@
                     "id": 24188186,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-10-06T08:35:30Z",
+                    "last_commit": "2026-10-06T13:30:59Z",
                     "open_issues": 42,
                     "owner": "phicdy",
                     "repo": "MyCuration",
@@ -2092,7 +2092,7 @@
                     "open_issues": 5,
                     "owner": "PatilShreyas",
                     "repo": "Foodium",
-                    "stars": 2323,
+                    "stars": 2322,
                     "topics": [
                       "android",
                       "android-architecture-components",
@@ -2241,7 +2241,7 @@
                     "open_issues": 16,
                     "owner": "nominalista",
                     "repo": "expenses",
-                    "stars": 403,
+                    "stars": 402,
                     "topics": [
                       "android",
                       "expenses",
@@ -4335,7 +4335,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36805,
+            "stars": 36804,
             "topics": [
               "android",
               "shadowsocks"
@@ -4456,7 +4456,7 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:41:41Z",
+            "last_commit": "2026-10-06T15:41:07Z",
             "open_issues": 368,
             "owner": "google",
             "repo": "dagger",
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:01.916Z",
+    "last_updated": "2026-10-06T18:29:02.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
