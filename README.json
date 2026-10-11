@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1527,
+                "stars": 1528,
                 "topics": [
                   "accompanist",
                   "android",
@@ -119,7 +119,7 @@
                     "open_issues": 150,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1463,
+                    "stars": 1464,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1946,
+                    "stars": 1947,
                     "topics": [
                       "android",
                       "android-app",
@@ -366,7 +366,7 @@
                     "id": 229804414,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T20:34:53Z",
+                    "last_commit": "2026-10-10T22:01:05Z",
                     "open_issues": 42,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
@@ -396,7 +396,7 @@
                     "open_issues": 25,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4034,
+                    "stars": 4038,
                     "topics": [
                       "android",
                       "apk",
@@ -990,7 +990,7 @@
                     "open_issues": 26,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
-                    "stars": 422,
+                    "stars": 421,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -1199,7 +1199,7 @@
                     "open_issues": 53,
                     "owner": "b-lam",
                     "repo": "Resplash",
-                    "stars": 689,
+                    "stars": 690,
                     "topics": [
                       "android",
                       "photos",
@@ -1224,7 +1224,7 @@
                     "open_issues": 0,
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6389,
+                    "stars": 6388,
                     "topics": [
                       "android",
                       "browser",
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1838,
+                    "stars": 1837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1464,7 +1464,7 @@
                     "id": 135081469,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2024-04-27T14:59:10Z",
+                    "last_commit": "2026-10-11T17:34:59Z",
                     "open_issues": 30,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
@@ -3489,7 +3489,7 @@
                     "open_issues": 14,
                     "owner": "cuongpm",
                     "repo": "youtube-dl-android",
-                    "stars": 574,
+                    "stars": 572,
                     "topics": [
                       "video-downloader",
                       "youtube",
@@ -3558,7 +3558,7 @@
                     "open_issues": 7,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6808,
+                    "stars": 6807,
                     "topics": [
                       "android",
                       "android-application",
@@ -3758,7 +3758,7 @@
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
-                    "stars": 1784,
+                    "stars": 1783,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -3999,7 +3999,7 @@
                     "id": 170987604,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T18:47:47Z",
+                    "last_commit": "2026-10-11T13:01:01Z",
                     "open_issues": 9,
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
@@ -4178,7 +4178,7 @@
                     "open_issues": 0,
                     "owner": "lopspower",
                     "repo": "CleanRxArchitecture",
-                    "stars": 383,
+                    "stars": 382,
                     "topics": [
                       "android",
                       "android-tests",
@@ -4207,7 +4207,7 @@
                     "open_issues": 1,
                     "owner": "Ezike",
                     "repo": "Baking-App-Kotlin",
-                    "stars": 458,
+                    "stars": 457,
                     "topics": [
                       "android",
                       "bakingapp",
@@ -4335,7 +4335,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36806,
+            "stars": 36805,
             "topics": [
               "android",
               "shadowsocks"
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:23:11.602Z",
+    "last_updated": "2026-10-11T17:42:58.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
