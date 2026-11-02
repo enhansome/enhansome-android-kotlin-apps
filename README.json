@@ -136,7 +136,7 @@
                     "id": 345422733,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-01T03:13:28Z",
+                    "last_commit": "2026-11-02T20:53:28Z",
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
@@ -238,8 +238,8 @@
                     "id": 24188186,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-10-30T21:31:34Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-11-02T08:54:45Z",
+                    "open_issues": 44,
                     "owner": "phicdy",
                     "repo": "MyCuration",
                     "stars": 33,
@@ -366,7 +366,7 @@
                     "id": 229804414,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T12:07:08Z",
+                    "last_commit": "2026-11-01T19:28:04Z",
                     "open_issues": 41,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
@@ -396,7 +396,7 @@
                     "open_issues": 25,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4060,
+                    "stars": 4061,
                     "topics": [
                       "android",
                       "apk",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8375,
+                    "stars": 8376,
                     "topics": [
                       "android",
                       "coroutines",
@@ -595,7 +595,7 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-30T11:59:01Z",
+                    "last_commit": "2026-11-02T16:05:37Z",
                     "open_issues": 11,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4958,
+                    "stars": 4961,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -986,11 +986,11 @@
                     "id": 162841152,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-10-24T06:33:54Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-11-01T22:44:57Z",
+                    "open_issues": 27,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
-                    "stars": 421,
+                    "stars": 420,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -1092,7 +1092,7 @@
                     "open_issues": 30,
                     "owner": "tema6120",
                     "repo": "ForgetMeNot",
-                    "stars": 443,
+                    "stars": 442,
                     "topics": [
                       "android",
                       "anki",
@@ -1224,7 +1224,7 @@
                     "open_issues": 0,
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6385,
+                    "stars": 6384,
                     "topics": [
                       "android",
                       "browser",
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1842,
+                    "stars": 1843,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21630,
+                    "stars": 21632,
                     "topics": [
                       "android",
                       "architecture",
@@ -1464,7 +1464,7 @@
                     "id": 135081469,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T17:26:11Z",
+                    "last_commit": "2026-11-02T20:10:40Z",
                     "open_issues": 7,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
@@ -3543,8 +3543,8 @@
                     "id": 158460787,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T19:02:28Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-02T19:02:14Z",
+                    "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
                     "stars": 6811,
@@ -3747,7 +3747,7 @@
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
-                    "stars": 1782,
+                    "stars": 1783,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36839,
+            "stars": 36840,
             "topics": [
               "android",
               "shadowsocks"
@@ -4449,7 +4449,7 @@
             "open_issues": 365,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17691,
+            "stars": 17692,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:58:36.850Z",
+    "last_updated": "2026-11-02T21:47:40.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
@@ -4471,7 +4471,7 @@
       "open_issues": 13,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2762,
+      "stars": 2764,
       "topics": [
         "android",
         "awesome",
