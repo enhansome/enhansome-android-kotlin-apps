@@ -18,7 +18,7 @@
                 "language": "Kotlin",
                 "license": null,
                 "last_commit": "2024-07-25T13:30:32Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
                 "stars": 1532,
@@ -116,10 +116,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-29T02:47:38Z",
-                    "open_issues": 148,
+                    "open_issues": 147,
                     "owner": "trakt",
                     "repo": "showly",
-                    "stars": 1468,
+                    "stars": 1469,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -205,7 +205,7 @@
                     "open_issues": 15,
                     "owner": "igorescodro",
                     "repo": "alkaa",
-                    "stars": 1646,
+                    "stars": 1647,
                     "topics": [
                       "android",
                       "android-testing",
@@ -238,8 +238,8 @@
                     "id": 24188186,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-02T08:54:45Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-11-03T06:33:52Z",
+                    "open_issues": 45,
                     "owner": "phicdy",
                     "repo": "MyCuration",
                     "stars": 33,
@@ -289,7 +289,7 @@
                     "open_issues": 12,
                     "owner": "PatilShreyas",
                     "repo": "NotyKT",
-                    "stars": 1774,
+                    "stars": 1773,
                     "topics": [
                       "android",
                       "api",
@@ -330,7 +330,7 @@
                     "open_issues": 23,
                     "owner": "Chesire",
                     "repo": "Nekome",
-                    "stars": 522,
+                    "stars": 523,
                     "topics": [
                       "android",
                       "android-app",
@@ -393,10 +393,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-28T11:22:07Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4061,
+                    "stars": 4063,
                     "topics": [
                       "android",
                       "apk",
@@ -432,7 +432,7 @@
                     "id": 252193036,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T21:01:28Z",
+                    "last_commit": "2026-11-02T22:04:47Z",
                     "open_issues": 1,
                     "owner": "nuhkoca",
                     "repo": "libbra",
@@ -536,7 +536,7 @@
                     "open_issues": 33,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1551,
+                    "stars": 1550,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -595,7 +595,7 @@
                     "id": 31075682,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T16:05:37Z",
+                    "last_commit": "2026-11-03T17:35:48Z",
                     "open_issues": 11,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4961,
+                    "stars": 4962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -679,7 +679,7 @@
                     "open_issues": 4,
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2143,
+                    "stars": 2142,
                     "topics": [
                       "android",
                       "android-jetpack",
@@ -918,7 +918,7 @@
                     "open_issues": 0,
                     "owner": "mrcsxsiq",
                     "repo": "DroidNotes",
-                    "stars": 68,
+                    "stars": 67,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -1060,7 +1060,7 @@
                     "open_issues": 8,
                     "owner": "lulululbj",
                     "repo": "wanandroid",
-                    "stars": 1484,
+                    "stars": 1485,
                     "topics": [
                       "coroutines",
                       "databinding",
@@ -1224,7 +1224,7 @@
                     "open_issues": 0,
                     "owner": "mozilla-mobile",
                     "repo": "fenix",
-                    "stars": 6384,
+                    "stars": 6383,
                     "topics": [
                       "android",
                       "browser",
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21632,
+                    "stars": 21631,
                     "topics": [
                       "android",
                       "architecture",
@@ -1468,7 +1468,7 @@
                     "open_issues": 7,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
-                    "stars": 745,
+                    "stars": 746,
                     "topics": [
                       "android",
                       "android-app",
@@ -1719,7 +1719,7 @@
                     "open_issues": 4,
                     "owner": "ZahraHeydari",
                     "repo": "MusicPlayer",
-                    "stars": 625,
+                    "stars": 624,
                     "topics": [
                       "android-application",
                       "clean-architecture",
@@ -2052,7 +2052,7 @@
                     "open_issues": 10,
                     "owner": "rizmaulana",
                     "repo": "kotlin-mvvm-covid19",
-                    "stars": 439,
+                    "stars": 438,
                     "topics": [
                       "covid19",
                       "koin",
@@ -3436,7 +3436,7 @@
                     "open_issues": 0,
                     "owner": "asyncMars",
                     "repo": "Social-Note",
-                    "stars": 58,
+                    "stars": 57,
                     "topics": [
                       "android",
                       "androidarchitecturecomponets",
@@ -3543,7 +3543,7 @@
                     "id": 158460787,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T19:02:14Z",
+                    "last_commit": "2026-11-03T00:04:53Z",
                     "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
@@ -3743,7 +3743,7 @@
                     "id": 115441256,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T14:51:02Z",
+                    "last_commit": "2026-11-03T06:10:45Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -3909,7 +3909,7 @@
                     "open_issues": 23,
                     "owner": "odaridavid",
                     "repo": "Clean-MVVM-ArchComponents",
-                    "stars": 681,
+                    "stars": 680,
                     "topics": [
                       "android",
                       "android-architecture",
@@ -4034,7 +4034,7 @@
                     "open_issues": 7,
                     "owner": "mitchtabian",
                     "repo": "Open-API-Android-App",
-                    "stars": 686,
+                    "stars": 685,
                     "topics": [
                       "android-jetpack-components",
                       "coroutines-android",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36840,
+            "stars": 36842,
             "topics": [
               "android",
               "shadowsocks"
@@ -4445,8 +4445,8 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T20:59:45Z",
-            "open_issues": 365,
+            "last_commit": "2026-11-03T19:25:59Z",
+            "open_issues": 366,
             "owner": "google",
             "repo": "dagger",
             "stars": 17692,
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:47:40.457Z",
+    "last_updated": "2026-11-03T19:38:05.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
@@ -4468,10 +4468,10 @@
       "language": "Kotlin",
       "license": null,
       "last_commit": "2024-07-01T22:14:17Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2764,
+      "stars": 2763,
       "topics": [
         "android",
         "awesome",
