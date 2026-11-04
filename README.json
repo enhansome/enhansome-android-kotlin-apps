@@ -136,11 +136,11 @@
                     "id": 345422733,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T20:53:28Z",
+                    "last_commit": "2026-11-04T03:54:26Z",
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1984,
+                    "stars": 1986,
                     "topics": [
                       "android",
                       "android-app",
@@ -599,7 +599,7 @@
                     "open_issues": 11,
                     "owner": "HabitRPG",
                     "repo": "habitica-android",
-                    "stars": 1839,
+                    "stars": 1841,
                     "topics": [
                       "android",
                       "android-studio",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36842,
+            "stars": 36843,
             "topics": [
               "android",
               "shadowsocks"
@@ -4445,11 +4445,11 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:25:59Z",
-            "open_issues": 366,
+            "last_commit": "2026-11-03T23:55:20Z",
+            "open_issues": 365,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17692,
+            "stars": 17691,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:38:05.957Z",
+    "last_updated": "2026-11-04T19:53:17.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
