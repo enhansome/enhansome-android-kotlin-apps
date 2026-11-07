@@ -136,11 +136,11 @@
                     "id": 345422733,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-04T03:54:26Z",
+                    "last_commit": "2026-11-07T03:44:02Z",
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 1989,
+                    "stars": 1991,
                     "topics": [
                       "android",
                       "android-app",
@@ -238,7 +238,7 @@
                     "id": 24188186,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-06T14:08:28Z",
+                    "last_commit": "2026-11-06T19:53:02Z",
                     "open_issues": 47,
                     "owner": "phicdy",
                     "repo": "MyCuration",
@@ -396,7 +396,7 @@
                     "open_issues": 26,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4068,
+                    "stars": 4072,
                     "topics": [
                       "android",
                       "apk",
@@ -536,7 +536,7 @@
                     "open_issues": 33,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1549,
+                    "stars": 1550,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -986,7 +986,7 @@
                     "id": 162841152,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-06T06:04:54Z",
+                    "last_commit": "2026-11-07T03:06:00Z",
                     "open_issues": 26,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1842,
+                    "stars": 1843,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21626,
+                    "stars": 21624,
                     "topics": [
                       "android",
                       "architecture",
@@ -1468,7 +1468,7 @@
                     "open_issues": 7,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
-                    "stars": 746,
+                    "stars": 749,
                     "topics": [
                       "android",
                       "android-app",
@@ -3232,7 +3232,7 @@
                     "open_issues": 0,
                     "owner": "weylar",
                     "repo": "Movie",
-                    "stars": 9,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -3543,7 +3543,7 @@
                     "id": 158460787,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-05T22:18:30Z",
+                    "last_commit": "2026-11-06T20:15:21Z",
                     "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
@@ -3743,7 +3743,7 @@
                     "id": 115441256,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T06:10:45Z",
+                    "last_commit": "2026-11-06T22:07:05Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4445,7 +4445,7 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T23:13:34Z",
+            "last_commit": "2026-11-06T23:14:39Z",
             "open_issues": 365,
             "owner": "google",
             "repo": "dagger",
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:32:41.467Z",
+    "last_updated": "2026-11-07T17:46:49.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
