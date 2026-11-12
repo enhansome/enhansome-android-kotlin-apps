@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1531,
+                "stars": 1530,
                 "topics": [
                   "accompanist",
                   "android",
@@ -115,7 +115,7 @@
                     "id": 203589756,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-29T02:47:38Z",
+                    "last_commit": "2026-11-12T02:46:55Z",
                     "open_issues": 148,
                     "owner": "trakt",
                     "repo": "showly",
@@ -238,7 +238,7 @@
                     "id": 24188186,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-10T21:14:12Z",
+                    "last_commit": "2026-11-11T22:39:10Z",
                     "open_issues": 47,
                     "owner": "phicdy",
                     "repo": "MyCuration",
@@ -396,7 +396,7 @@
                     "open_issues": 26,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4079,
+                    "stars": 4081,
                     "topics": [
                       "android",
                       "apk",
@@ -432,7 +432,7 @@
                     "id": 252193036,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T19:16:43Z",
+                    "last_commit": "2026-11-11T21:33:17Z",
                     "open_issues": 1,
                     "owner": "nuhkoca",
                     "repo": "libbra",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8378,
+                    "stars": 8384,
                     "topics": [
                       "android",
                       "coroutines",
@@ -536,7 +536,7 @@
                     "open_issues": 33,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1550,
+                    "stars": 1549,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -679,7 +679,7 @@
                     "open_issues": 4,
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2142,
+                    "stars": 2141,
                     "topics": [
                       "android",
                       "android-jetpack",
@@ -986,8 +986,8 @@
                     "id": 162841152,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-07T03:06:00Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-11-12T19:52:39Z",
+                    "open_issues": 27,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
                     "stars": 421,
@@ -1880,7 +1880,7 @@
                     "open_issues": 5,
                     "owner": "qingmei2",
                     "repo": "MVVM-Architecture",
-                    "stars": 1871,
+                    "stars": 1870,
                     "topics": [
                       "android",
                       "android-jetpack",
@@ -2017,7 +2017,7 @@
                     "open_issues": 0,
                     "owner": "skydoves",
                     "repo": "Pokedex-AR",
-                    "stars": 590,
+                    "stars": 589,
                     "topics": [
                       "android",
                       "android-ar",
@@ -2081,7 +2081,7 @@
                     "open_issues": 5,
                     "owner": "PatilShreyas",
                     "repo": "Foodium",
-                    "stars": 2324,
+                    "stars": 2325,
                     "topics": [
                       "android",
                       "android-architecture-components",
@@ -2355,7 +2355,7 @@
                     "open_issues": 0,
                     "owner": "jianjunxiao",
                     "repo": "wanandroid",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": [
                       "compose-navigation",
                       "composemultiplatform",
@@ -3006,7 +3006,7 @@
                     "open_issues": 0,
                     "owner": "idisfkj",
                     "repo": "AwesomeGithub",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": [
                       "android",
                       "arouter",
@@ -3543,11 +3543,11 @@
                     "id": 158460787,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T22:53:05Z",
+                    "last_commit": "2026-11-12T00:00:49Z",
                     "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6808,
+                    "stars": 6807,
                     "topics": [
                       "android",
                       "android-application",
@@ -3988,7 +3988,7 @@
                     "id": 170987604,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T19:35:09Z",
+                    "last_commit": "2026-11-11T20:57:37Z",
                     "open_issues": 9,
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36839,
+            "stars": 36836,
             "topics": [
               "android",
               "shadowsocks"
@@ -4445,8 +4445,8 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T16:19:37Z",
-            "open_issues": 366,
+            "last_commit": "2026-11-12T19:31:16Z",
+            "open_issues": 369,
             "owner": "google",
             "repo": "dagger",
             "stars": 17689,
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:43:19.047Z",
+    "last_updated": "2026-11-12T20:07:35.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
@@ -4471,7 +4471,7 @@
       "open_issues": 13,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2762,
+      "stars": 2761,
       "topics": [
         "android",
         "awesome",
