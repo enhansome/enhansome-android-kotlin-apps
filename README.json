@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "androiddevnotes",
                 "repo": "awesome-jetpack-compose-android-apps",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": [
                   "accompanist",
                   "android",
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 2000,
+                    "stars": 2005,
                     "topics": [
                       "android",
                       "android-app",
@@ -367,10 +367,10 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-11-13T23:01:06Z",
-                    "open_issues": 42,
+                    "open_issues": 43,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": [
                       "android",
                       "kotlin",
@@ -503,7 +503,7 @@
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8387,
+                    "stars": 8391,
                     "topics": [
                       "android",
                       "coroutines",
@@ -679,7 +679,7 @@
                     "open_issues": 4,
                     "owner": "VIPyinzhiwei",
                     "repo": "Eyepetizer",
-                    "stars": 2141,
+                    "stars": 2140,
                     "topics": [
                       "android",
                       "android-jetpack",
@@ -1199,7 +1199,7 @@
                     "open_issues": 54,
                     "owner": "b-lam",
                     "repo": "Resplash",
-                    "stars": 692,
+                    "stars": 693,
                     "topics": [
                       "android",
                       "photos",
@@ -1356,7 +1356,7 @@
                     "open_issues": 76,
                     "owner": "google",
                     "repo": "iosched",
-                    "stars": 21622,
+                    "stars": 21623,
                     "topics": [
                       "android",
                       "architecture",
@@ -3374,7 +3374,7 @@
                     "open_issues": 11,
                     "owner": "iammert",
                     "repo": "AppLocker",
-                    "stars": 510,
+                    "stars": 511,
                     "topics": [
                       "applock",
                       "applocker",
@@ -3547,7 +3547,7 @@
                     "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6807,
+                    "stars": 6808,
                     "topics": [
                       "android",
                       "android-application",
@@ -3743,7 +3743,7 @@
                     "id": 115441256,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T22:07:05Z",
+                    "last_commit": "2026-11-15T14:40:06Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36839,
+            "stars": 36841,
             "topics": [
               "android",
               "shadowsocks"
@@ -4449,7 +4449,7 @@
             "open_issues": 368,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17690,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:17:27.522Z",
+    "last_updated": "2026-11-15T18:57:48.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
