@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "Hamza417",
                     "repo": "Inure",
-                    "stars": 2008,
+                    "stars": 2009,
                     "topics": [
                       "android",
                       "android-app",
@@ -367,7 +367,7 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-11-15T23:01:07Z",
-                    "open_issues": 43,
+                    "open_issues": 44,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
                     "stars": 240,
@@ -396,7 +396,7 @@
                     "open_issues": 26,
                     "owner": "rumboalla",
                     "repo": "apkupdater",
-                    "stars": 4085,
+                    "stars": 4088,
                     "topics": [
                       "android",
                       "apk",
@@ -499,7 +499,7 @@
                     "id": 268501098,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-17T05:14:27Z",
+                    "last_commit": "2026-11-18T05:21:28Z",
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
@@ -986,8 +986,8 @@
                     "id": 162841152,
                     "language": "Kotlin",
                     "license": null,
-                    "last_commit": "2026-11-14T05:36:20Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-11-18T01:58:17Z",
+                    "open_issues": 28,
                     "owner": "alisonthemonster",
                     "repo": "Presently",
                     "stars": 422,
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1841,
+                    "stars": 1840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1323,7 +1323,7 @@
                     "open_issues": 2,
                     "owner": "amitshekhariitbhu",
                     "repo": "MVVM-Architecture-Android",
-                    "stars": 669,
+                    "stars": 668,
                     "topics": [
                       "android",
                       "android-architecture",
@@ -2081,7 +2081,7 @@
                     "open_issues": 5,
                     "owner": "PatilShreyas",
                     "repo": "Foodium",
-                    "stars": 2323,
+                    "stars": 2322,
                     "topics": [
                       "android",
                       "android-architecture-components",
@@ -2188,7 +2188,7 @@
                     "open_issues": 5,
                     "owner": "vmadalin",
                     "repo": "android-modular-architecture",
-                    "stars": 2435,
+                    "stars": 2434,
                     "topics": [
                       "android",
                       "android-architecture",
@@ -3547,7 +3547,7 @@
                     "open_issues": 4,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
-                    "stars": 6808,
+                    "stars": 6809,
                     "topics": [
                       "android",
                       "android-application",
@@ -3743,7 +3743,7 @@
                     "id": 115441256,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T20:28:53Z",
+                    "last_commit": "2026-11-18T20:42:00Z",
                     "open_issues": 0,
                     "owner": "sanogueralorenzo",
                     "repo": "sanogueralorenzo.github.io",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36838,
+            "stars": 36840,
             "topics": [
               "android",
               "shadowsocks"
@@ -4445,11 +4445,11 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T20:56:55Z",
-            "open_issues": 371,
+            "last_commit": "2026-11-18T15:05:47Z",
+            "open_issues": 373,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17688,
+            "stars": 17687,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:05:20.304Z",
+    "last_updated": "2026-11-18T20:42:19.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
