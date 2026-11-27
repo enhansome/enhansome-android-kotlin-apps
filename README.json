@@ -366,8 +366,8 @@
                     "id": 229804414,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T16:39:43Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-11-26T23:01:08Z",
+                    "open_issues": 42,
                     "owner": "vmiklos",
                     "repo": "plees-tracker",
                     "stars": 241,
@@ -432,7 +432,7 @@
                     "id": 252193036,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T18:55:06Z",
+                    "last_commit": "2026-11-27T15:15:44Z",
                     "open_issues": 1,
                     "owner": "nuhkoca",
                     "repo": "libbra",
@@ -499,11 +499,11 @@
                     "id": 268501098,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T04:47:28Z",
+                    "last_commit": "2026-11-27T15:16:11Z",
                     "open_issues": 26,
                     "owner": "skydoves",
                     "repo": "Pokedex",
-                    "stars": 8391,
+                    "stars": 8392,
                     "topics": [
                       "android",
                       "coroutines",
@@ -533,10 +533,10 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2024-01-25T05:22:02Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "mrcsxsiq",
                     "repo": "Kotlin-Pokedex",
-                    "stars": 1547,
+                    "stars": 1548,
                     "topics": [
                       "android",
                       "architecture-components",
@@ -658,7 +658,7 @@
                     "open_issues": 40,
                     "owner": "muzei",
                     "repo": "muzei",
-                    "stars": 4972,
+                    "stars": 4973,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 1,
                     "owner": "mozilla-mobile",
                     "repo": "firefox-android",
-                    "stars": 1838,
+                    "stars": 1837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:21.135Z"
@@ -1464,11 +1464,11 @@
                     "id": 135081469,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T04:27:54Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-11-27T19:27:02Z",
+                    "open_issues": 14,
                     "owner": "bernaferrari",
                     "repo": "ChangeDetection",
-                    "stars": 763,
+                    "stars": 765,
                     "topics": [
                       "android",
                       "android-app",
@@ -1584,7 +1584,7 @@
                     "open_issues": 5,
                     "owner": "enginebai",
                     "repo": "MovieHunt",
-                    "stars": 764,
+                    "stars": 765,
                     "topics": [
                       "android",
                       "android-app",
@@ -3543,7 +3543,7 @@
                     "id": 158460787,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T00:58:46Z",
+                    "last_commit": "2026-11-27T16:01:59Z",
                     "open_issues": 6,
                     "owner": "igorwojda",
                     "repo": "android-showcase",
@@ -3988,7 +3988,7 @@
                     "id": 170987604,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T18:00:24Z",
+                    "last_commit": "2026-11-27T15:17:13Z",
                     "open_issues": 9,
                     "owner": "hoc081098",
                     "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
@@ -4324,7 +4324,7 @@
             "open_issues": 78,
             "owner": "shadowsocks",
             "repo": "shadowsocks-android",
-            "stars": 36856,
+            "stars": 36861,
             "topics": [
               "android",
               "shadowsocks"
@@ -4445,11 +4445,11 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T21:41:48Z",
+            "last_commit": "2026-11-27T19:23:31Z",
             "open_issues": 370,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17686,
+            "stars": 17687,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:21.135Z"
@@ -4459,7 +4459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:43:37.601Z",
+    "last_updated": "2026-11-27T21:27:46.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome android kotlin apps by open-source contributors.",
@@ -4471,7 +4471,7 @@
       "open_issues": 13,
       "owner": "androiddevnotes",
       "repo": "awesome-android-kotlin-apps",
-      "stars": 2760,
+      "stars": 2761,
       "topics": [
         "android",
         "awesome",
